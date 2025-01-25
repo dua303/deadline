@@ -15,11 +15,15 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/tlc.png" group-title="001 Listem",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 tvg-id="NULL" tvg-name="CINE1" tvg-logo="https://vipotv.com/wp-content/uploads/2023/04/Cine1-izle-vipotv.png" group-title="001 Listem",CINE1 
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+#EXTINF:-1 tvg-id="NULL" tvg-name="TiVi 6" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Tivi-6-izle-vipotv-turkiye.png" group-title="001 Listem",TiVi 6 
+http://stream.tvcdn.net/yerel/tivi6.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/360tv.png" group-title="001 Listem",360 
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/tv4-canli-izleyin-vipotv-turkiye.png" group-title="001 Listem",TV 4 
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="MELTEM TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Meltem-TV-canli-yayin-vipotv.png" group-title="001 Listem",MELTEM TV 
+#EXTINF:-1 tvg-id="Meltem.TV.tr" tvg-name="MELTEM TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Meltem-TV-canli-yayin-vipotv.png" group-title="001 Listem",MELTEM TV 
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8" tvg-logo="https://www.canlitv.win/uploads/kanal/23509tv-8-5.png" group-title="001 Listem",TV 8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6krws191fx7l&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
