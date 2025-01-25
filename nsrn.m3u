@@ -71,7 +71,7 @@ http://stream.tvcdn.net/yerel/kanal-g.m3u8
 http://stream.tvcdn.net/yerel/art-amasya.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Dizi Film TV" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="001 Listem",Dizi Film TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ONDE TV" tvg-logo="" group-title="001 Listem",ONDE TV
+#EXTINF:-1 tvg-id="ext" tvg-name="ÖNDE TV" tvg-logo="" group-title="001 Listem",ÖNDE TV
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BIR TV" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png.webp" group-title="001 Listem",BIR TV
 https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8?nimblesessionid=196123878
