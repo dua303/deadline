@@ -47,3 +47,33 @@ https://yayin2.canlitv.fun/livetv/teve2.stream/chunklist_w1940583035.m3u8
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="Vav.Tv.tr" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="001 Listem",VAV TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Woman Life TV" tvg-logo="http://assets.tvcdn.net/56dc0531-179a-4340-8a39-bae41eead40a.png" group-title="001 Listem",Woman Life TV
+http://stream.tvcdn.net/diger/woman-life-tv.m3u8
+#EXTINF:-1 tvg-id="WomanTV.tr" tvg-name="Woman TV" tvg-logo="http://assets.tvcdn.net/f85e5a28-5d65-405e-a079-be0a7893b8bd.png" group-title="001 Listem",Woman TV
+http://stream.tvcdn.net/diger/woman-tv.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Süper 7 TV" tvg-logo="http://assets.tvcdn.net/94505dd8-b52d-4b4d-b1e4-9fda2829ed57.png" group-title="001 Listem",Süper 7 TV
+http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Tivi Türk" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="001 Listem",Tivi Türk
+http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="İsviçre TV" tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="001 Listem",İsviçre TV
+http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Deniz Postası TV" tvg-logo="http://assets.tvcdn.net/a26c3736-672a-45df-a3d8-8c00330b5f04.png" group-title="001 Listem",Deniz Postası TV
+http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SuperTurk TV" tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png" group-title="001 Listem",SuperTurk TV
+http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SuperTurk Max" tvg-logo="http://assets.tvcdn.net/2a7833de-376e-4900-a8eb-523162f00502.png" group-title="001 Listem",SuperTurk Max
+http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV 25" tvg-logo="http://assets.tvcdn.net/81f002fb-a59f-480e-9aa0-91b096ab491e.png" group-title="001 Listem",TV 25
+http://stream.tvcdn.net/yerel/tv-25.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Kanal G" tvg-logo="http://assets.tvcdn.net/904d01fa-01cb-4f2d-9b8e-784061c29d00.png" group-title="001 Listem",Kanal G
+http://stream.tvcdn.net/yerel/kanal-g.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ART Amasya" tvg-logo="http://assets.tvcdn.net/0605466d-2bd1-450a-9182-8ccb12567b8b.png" group-title="001 Listem",ART Amasya
+http://stream.tvcdn.net/yerel/art-amasya.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Dizi Film TV" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="001 Listem",Dizi Film TV
+http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ONDE TV" tvg-logo="" group-title="001 Listem",ONDE TV
+https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BIR TV" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png.webp" group-title="001 Listem",BIR TV
+https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8?nimblesessionid=196123878
+#EXTINF:-1 tvg-id="ext" tvg-name="UN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6wlXanoGM4czuEJmc4aGhfhl50VYRw32hCg&s" group-title="001 Listem",UN TV
+http://stream.tvcdn.net/yerel/konya-un-tv.m3u8
