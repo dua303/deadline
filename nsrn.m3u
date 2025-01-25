@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT.4K.tr" tvg-name="TRT 4K" tvg-logo="" group-title="001 Listem",TRT 4K
+#EXTINF:-1 tvg-id="TRT.4K.tr" tvg-name="TRT 4K" tvg-logo="https://cdn.iha.com.tr/Contents/images/2018/25/2538513.jpg" group-title="001 Listem",TRT 4K
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7326&extension=m3u8
 #EXTINF:-1 tvg-id="TRT.1.tr" tvg-name="TRT 1" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="001 Listem",TRT1
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6krr9i7elapx&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
@@ -11,3 +11,35 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT.Belgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Belgesel-canli-izle-vipotv-en-kaliteli-belgesel-filmleri-burada.png" group-title="001 Listem",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/dmaxtv.png" group-title="001 Listem",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/tlc.png" group-title="001 Listem",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/360tv.png" group-title="001 Listem",360 
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/tv4-canli-izleyin-vipotv-turkiye.png" group-title="001 Listem",TV 4 
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 tvg-id="NULL" tvg-name="MELTEM TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Meltem-TV-canli-yayin-vipotv.png" group-title="001 Listem",MELTEM TV 
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8" tvg-logo="https://www.canlitv.win/uploads/kanal/23509tv-8-5.png" group-title="001 Listem",TV 8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6krws191fx7l&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-id="Beyaz.TV.tr" tvg-name="BEYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/beyaztv.png" group-title="001 Listem",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+#EXTINF:-1 tvg-id="Star.tr" tvg-name="STAR TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Startv.png" group-title="001 Listem",STAR TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1 tvg-id="Show.TV.tr" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="001 Listem",SHOW TV
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=6krw4t3rxv4n&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="" group-title="001 Listem",ATV
+https://yayin2.canlitv.fun/livetv/atv.stream/chunklist_w485931640.m3u8
+#EXTINF:-1 tvg-id="Kanal.D.tr" tvg-name="KANAL D" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1490331120/ogyuranvogxqwnnfp2c0.png" group-title="001 Listem",KANAL D
+https://yayin2.canlitv.fun/livetv/kanald.stream/chunklist_w230843209.m3u8
+#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://images.seeklogo.com/logo-png/51/1/now-tv-turkey-logo-png_seeklogo-519520.png" group-title="001 Listem",NOW
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2977&extension=m3u8
+#EXTINF:-1 tvg-id="Kanal.7.tr" tvg-name="KANAL 7" tvg-logo="https://e7.pngegg.com/pngimages/361/407/png-clipart-kanal-7-high-definition-television-television-channel-streaming-television-others-television-angle.png" group-title="001 Listem",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="001 Listem",TEVE 2
+https://yayin2.canlitv.fun/livetv/teve2.stream/chunklist_w1940583035.m3u8
+#EXTINF:-1 tvg-id="NULL" tvg-name="CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo-cnbce.png" group-title="001 Listem",CNBC-e
+http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
+#EXTINF:-1 tvg-id="Vav.Tv.tr" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="001 Listem",VAV TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
