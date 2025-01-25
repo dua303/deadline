@@ -29,11 +29,11 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="Show.TV.tr" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="001 Listem",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=6krw4t3rxv4n&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="" group-title="001 Listem",ATV
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/930px-Atv_logo_2010.svg.png" group-title="001 Listem",ATV
 https://yayin2.canlitv.fun/livetv/atv.stream/chunklist_w485931640.m3u8
 #EXTINF:-1 tvg-id="Kanal.D.tr" tvg-name="KANAL D" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1490331120/ogyuranvogxqwnnfp2c0.png" group-title="001 Listem",KANAL D
 https://yayin2.canlitv.fun/livetv/kanald.stream/chunklist_w230843209.m3u8
-#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://images.seeklogo.com/logo-png/51/1/now-tv-turkey-logo-png_seeklogo-519520.png" group-title="001 Listem",NOW
+#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/65ca573e9f57442c2f39baa0.jpg" group-title="001 Listem",NOW
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2977&extension=m3u8
 #EXTINF:-1 tvg-id="Kanal.7.tr" tvg-name="KANAL 7" tvg-logo="https://e7.pngegg.com/pngimages/361/407/png-clipart-kanal-7-high-definition-television-television-channel-streaming-television-others-television-angle.png" group-title="001 Listem",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
