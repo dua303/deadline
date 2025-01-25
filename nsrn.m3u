@@ -25,7 +25,7 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6krws191fx7l&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="Beyaz.TV.tr" tvg-name="BEYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/beyaztv.png" group-title="001 Listem",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
-#EXTINF:-1 tvg-id="Star.tr" tvg-name="STAR TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Startv.png" group-title="001 Listem",STAR TV
+#EXTINF:-1 tvg-id="Yıldız.tr" tvg-name="STAR TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Startv.png" group-title="001 Listem",STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="Show.TV.tr" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="001 Listem",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=6krw4t3rxv4n&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
