@@ -495,7 +495,8 @@ http://stream.tvcdn.net/diger/euro-34-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Gurme TV" tvg-logo="http://assets.tvcdn.net/2fe84a35-3bb8-4c92-832d-bd0dafdfba1b.jpeg" group-title="003 Stream",Gurme TV
 http://stream.tvcdn.net/diger/gurme-tv.m3u8
 #EXTINF:-1 tvg-id="KanalB.tr" tvg-name="Kanal B" tvg-logo="http://assets.tvcdn.net/855d4cc7-027f-4c11-9e06-2471764dfc30.png" group-title="003 Stream",Kanal B
-http://stream.tvcdn.net/diger/kanal-b.m3u8
+https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined?hash=7c197b6bafdc8d8cbf08be96e4235801
+
 #EXTINF:-1 tvg-id="Lider003 Stream.tr" tvg-name="Lider 003 Stream" tvg-logo="http://assets.tvcdn.net/0e7781ec-13ea-4dc4-963c-fa1925b5d965.png" group-title="003 Stream",Lider 003 Stream
 http://stream.tvcdn.net/diger/lider-003 Stream.m3u8
 #EXTINF:-1 tvg-id="LuysTV.tr" tvg-name="Luys TV" tvg-logo="http://assets.tvcdn.net/e876bf88-411c-4a9c-ad29-e449e651f7ae.png" group-title="003 Stream",Luys TV
