@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT 4K" tvg-logo="" group-title="001 Listem",TRT 4K
-http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/245573.ts
-#EXTINF:-1 tvg-id="24 TV HD.tr" tvg-name="24 TV" tvg-logo="https://ecanlitvizle.video/logo/kanal-24-izle.png" group-title="002 Haber",24 TV
+#EXTINF:-1 channel id="24TV.tr" tvg-name="24" tvg-logo="https://ecanlitvizle.video/logo/kanal-24-izle.png" group-title="002 Haber",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_480p.m3u8
