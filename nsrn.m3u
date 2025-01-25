@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 channel id="24TV.tr" tvg-name="24" tvg-logo="https://ecanlitvizle.video/logo/kanal-24-izle.png" group-title="002 Haber",24 TV
-https://turkmedya-live.ercdn.net/tv24/tv24_480p.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT.1.tr" tvg-logo="" group-title="001 Listem",TRT 4K
+http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/245573.ts
+#EXTINF:-1 tvg-id="TRT.1.tr" tvg-name="TRT.1.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="001 Listem",TRT1
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6krr9i7elapx&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 tvg-id="TRT.2.tr" tvg-name="TRT.2.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="001 Listem",TRT2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRT.Türk.tr" tvg-name="TRT.Türk.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png" group-title="001 Listem",TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRT.Avaz.tr" tvg-name="TRT.Avaz.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trtavaztv.png" group-title="001 Listem",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRT.Belgesel.tr" tvg-name="TRT.Belgesel.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Belgesel-canli-izle-vipotv-en-kaliteli-belgesel-filmleri-burada.png" group-title="001 Listem",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
