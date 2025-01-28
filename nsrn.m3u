@@ -1102,17 +1102,17 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=129201&extension=m
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=155493&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AL TURKMENIA TV" tvg-logo="" group-title="010 YEREL",AL TURKMENIA TV
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=157347&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Diyanet TV 1" tvg-logo="" group-title="011 DİNİ",Diyanet TV 1
+#EXTINF:-1 tvg-id="ext" tvg-name="Diyanet TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/2560px-Diyanet_TV_logo.svg.png" group-title="011 DİNİ",Diyanet TV 1
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=178722&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Diyanet TV 2" tvg-logo="" group-title="011 DİNİ",Diyanet TV 2
+#EXTINF:-1 tvg-id="ext" tvg-name="Diyanet TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/2560px-Diyanet_TV_logo.svg.png" group-title="011 DİNİ",Diyanet TV 2
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=34573&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Vav TV 4K+" tvg-logo="" group-title="011 DİNİ",Vav TV 4K+
+#EXTINF:-1 tvg-id="ext" tvg-name="Vav TV 4K+" tvg-logo="https://tvepg.eu/img/turkey/logo/vav_tv.png" group-title="011 DİNİ",Vav TV 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=148762&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Hz Muhammet (S.A.V)" tvg-logo="" group-title="011 DİNİ",Hz Muhammet (S.A.V)
+#EXTINF:-1 tvg-id="ext" tvg-name="Hz Muhammet (S.A.V)" tvg-logo="https://w7.pngwing.com/pngs/393/835/png-transparent-arabic-script-mecca-islam-prophet-durood-blue-hz-muhammad-miscellaneous-purple-text-thumbnail.png" group-title="011 DİNİ",Hz Muhammet (S.A.V)
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181145&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Kur*an-ı Kerim 1" tvg-logo="" group-title="011 DİNİ",Kur*an-ı Kerim 1
+#EXTINF:-1 tvg-id="ext" tvg-name="Kur*an-ı Kerim 1" tvg-logo="https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg" group-title="011 DİNİ",Kur*an-ı Kerim 1
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181073&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Kur*an-ı Kerim Meal" tvg-logo="" group-title="011 DİNİ",Kur*an-ı Kerim Meal
+#EXTINF:-1 tvg-id="ext" tvg-name="Kur*an-ı Kerim Meal" tvg-logo="https://png.pngtree.com/png-clipart/20220118/ourmid/pngtree-muslim-logo-design-with-quran-and-mosque-png-image_4335861.png" group-title="011 DİNİ",Kur*an-ı Kerim Meal
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181074&extension=m3u8
 #EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="012 BEİN SPORTS",Bein Sports 1 HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=35701&extension=m3u8
