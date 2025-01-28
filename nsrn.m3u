@@ -732,41 +732,41 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 http://stream.tvcdn.net/yerel/konya-un-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="WOMAN TV " tvg-logo="" group-title="004 Playlist",WOMAN TV 
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-#EXTINF:-1 tvg-id="TRT.4K.tr" tvg-name="TRT 4K+" tvg-logo="" group-title="005 ULUSAL",TRT 4K+
+#EXTINF:-1 tvg-id="TRT.4K.tr" tvg-name="TRT 4K+" tvg-logo="https://seeklogo.com/images/T/trt-4k-logo-DAE8AAA2F4-seeklogo.com.png" group-title="005 ULUSAL",TRT 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7326&extension=m3u8
-#EXTINF:-1 tvg-id="TRT.1.tr " tvg-name="TRT 1 " tvg-logo="" group-title="005 ULUSAL",TRT 1 4K+
+#EXTINF:-1 tvg-id="TRT.1.tr " tvg-name="TRT 1 " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="005 ULUSAL",TRT 1 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2838&extension=m3u8
-#EXTINF:-1 tvg-id="TRT.2.tr " tvg-name="TRT 2 4K+" tvg-logo="" group-title="005 ULUSAL",TRT 2 4K+
+#EXTINF:-1 tvg-id="TRT.2.tr " tvg-name="TRT 2 4K+" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="005 ULUSAL",TRT 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29026&extension=m3u8
-#EXTINF:-1 tvg-id="TRT.AVAZ.tr" tvg-name="TRT Avaz HD" tvg-logo="" group-title="005 ULUSAL",TRT Avaz HD
+#EXTINF:-1 tvg-id="TRT.AVAZ.tr" tvg-name="TRT Avaz HD" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trtavaztv.png" group-title="005 ULUSAL",TRT Avaz HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2836&extension=m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8 4K+" tvg-logo="" group-title="005 ULUSAL",TV 8 4K+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8 4K+" tvg-logo="https://www.campaigntr.com/wp-content/uploads/2014/09/tv8-logo.png" group-title="005 ULUSAL",TV 8 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2815&extension=m3u8
-#EXTINF:-1 tvg-id="ATV HD" tvg-name="ATV 4K+" tvg-logo="" group-title="005 ULUSAL",ATV 4K+
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="ATV 4K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0p6z3kOBR2kgTOT4gUeXniJri0QlaRyu8g&s" group-title="005 ULUSAL",ATV 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u8
-#EXTINF:-1 tvg-id="SHOW TV HD" tvg-name="SHOW TV 4K+" tvg-logo="" group-title="005 ULUSAL",SHOW TV 4K+
+#EXTINF:-1 tvg-id="SHOW TV HD" tvg-name="SHOW TV 4K+" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="005 ULUSAL",SHOW TV 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2874&extension=m3u8
-#EXTINF:-1 tvg-id="KANAL D HD" tvg-name="KANAL D 4K+" tvg-logo="" group-title="005 ULUSAL",KANAL D 4K+
+#EXTINF:-1 tvg-id="KANAL D HD" tvg-name="KANAL D 4K+" tvg-logo="https://w1.pngwing.com/pngs/291/105/png-transparent-cartoon-network-logo-kanal-d-television-television-channel-kanal-7-serial-live-television-blue-thumbnail.png" group-title="005 ULUSAL",KANAL D 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2945&extension=m3u8
-#EXTINF:-1 tvg-id="STAR TV HD" tvg-name="STAR TV 4K+" tvg-logo="" group-title="005 ULUSAL",STAR TV 4K+
+#EXTINF:-1 tvg-id="STAR TV HD" tvg-name="STAR TV 4K+" tvg-logo="https://w7.pngwing.com/pngs/1021/682/png-transparent-star-tv-logo-television-show-television-channel-5-stars-miscellaneous-television-angle.png" group-title="005 ULUSAL",STAR TV 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2855&extension=m3u8
-#EXTINF:-1 tvg-id="NOW" tvg-name="NOW TV 4K+" tvg-logo="" group-title="005 ULUSAL",NOW TV 4K+
+#EXTINF:-1 tvg-id="NOW" tvg-name="NOW TV 4K+" tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp" group-title="005 ULUSAL",NOW TV 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2977&extension=m3u8
-#EXTINF:-1 tvg-id="BEYAZ TV HD" tvg-name="BEYAZ TV 4K+" tvg-logo="" group-title="005 ULUSAL",BEYAZ TV 4K+
+#EXTINF:-1 tvg-id="BEYAZ TV HD" tvg-name="BEYAZ TV 4K+" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/beyaztv.png" group-title="005 ULUSAL",BEYAZ TV 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3017&extension=m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360 4K" tvg-logo="" group-title="005 ULUSAL",360 4K
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7537&extension=m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="Tv 4" tvg-logo="" group-title="005 ULUSAL",Tv 4
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=30011&extension=m3u8
-#EXTINF:-1 tvg-id="Kanal.D.tr" tvg-name="KANAL 7 4K+" tvg-logo="" group-title="005 ULUSAL",KANAL 7 4K+
+#EXTINF:-1 tvg-id="Kanal.D.tr" tvg-name="KANAL 7 4K+" tvg-logo="https://e7.pngegg.com/pngimages/888/174/png-clipart-kanal-7-television-turksat-4a-drop-off-canal-kanal-2-television-text-thumbnail.png" group-title="005 ULUSAL",KANAL 7 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2951&extension=m3u8
 #EXTINF:-1 tvg-id="TV.8,5.tr" tvg-name="TV 8.5 4K+" tvg-logo="" group-title="005 ULUSAL",TV 8.5 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2810&extension=m3u8
-#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE 2 4K+" tvg-logo="" group-title="005 ULUSAL",TEVE 2 4K+
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE 2 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="005 ULUSAL",TEVE 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2850&extension=m3u8
-#EXTINF:-1 tvg-id="a2.tr" tvg-name="A2 4K+" tvg-logo="" group-title="005 ULUSAL",A2 4K+
+#EXTINF:-1 tvg-id="a2.tr" tvg-name="A2 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="005 ULUSAL",A2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3067&extension=m3u8
-#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="SHOW MAX 4K" tvg-logo="" group-title="005 ULUSAL",SHOW MAX 4K
+#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="SHOW MAX 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/2048px-Show_MAX_logo.svg.png" group-title="005 ULUSAL",SHOW MAX 4K
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=48899&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Meltem TV" tvg-logo="" group-title="005 ULUSAL",Meltem TV
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29994&extension=m3u8
@@ -820,7 +820,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2846&extension=m3u
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2970&extension=m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK 4K+" tvg-logo="" group-title="007 HABER",CNN TÜRK 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3006&extension=m3u8
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk 4K+" tvg-logo="" group-title="007 HABER",TRT Türk 4K+
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk 4K+" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png" group-title="007 HABER",TRT Türk 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2823&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sözcü TV 1 4K" tvg-logo="" group-title="007 HABER",Sözcü TV 1 4K
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=147433&extension=m3u8
