@@ -6,60 +6,60 @@ https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8?nimblesessionid=200109219
 
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT 4K" tvg-logo="" group-title="001 Listem",TRT 4K
+#EXTINF:-1 tvg-id="TRT.4K.tr" tvg-name="TRT 4K" tvg-logo="" group-title="001 Listem",TRT 4K
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/245573.ts
-#EXTINF:-1 tvg-id="NULL" tvg-name="TRT 1 HD.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="001 Listem",TRT1
+#EXTINF:-1 tvg-id="TRT.1.tr" tvg-name="TRT 1 HD.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="001 Listem",TRT1
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6krr9i7elapx&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1 tvg-id="NULL" tvg-name="TRT2" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="001 Listem",TRT2
+#EXTINF:-1 tvg-id="trt.2.tr" tvg-name="TRT2" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="001 Listem",TRT2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="TRT TÜRK" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png" group-title="001 Listem",TRT TÜRK
+#EXTINF:-1 tvg-id="TRT.Türk.tr" tvg-name="TRT TÜRK" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png" group-title="001 Listem",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="TRT AVAZ" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trtavaztv.png" group-title="001 Listem",TRT AVAZ
+#EXTINF:-1 tvg-id="TRT.Avaz.tr" tvg-name="TRT AVAZ" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trtavaztv.png" group-title="001 Listem",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="TRT BELGESEL" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Belgesel-canli-izle-vipotv-en-kaliteli-belgesel-filmleri-burada.png" group-title="001 Listem",TRT BELGESEL
+#EXTINF:-1 tvg-id="TRT.Belgesel.tr" tvg-name="TRT BELGESEL" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Belgesel-canli-izle-vipotv-en-kaliteli-belgesel-filmleri-burada.png" group-title="001 Listem",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="DMAX" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/dmaxtv.png" group-title="001 Listem",DMAX
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/dmaxtv.png" group-title="001 Listem",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="TLC" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/tlc.png" group-title="001 Listem",TLC
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/tlc.png" group-title="001 Listem",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 tvg-id="360" tvg-name="360" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/360tv.png" group-title="001 Listem",360 
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/360tv.png" group-title="001 Listem",360 
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="TV 4" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/tv4-canli-izleyin-vipotv-turkiye.png" group-title="001 Listem",TV 4 
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/tv4-canli-izleyin-vipotv-turkiye.png" group-title="001 Listem",TV 4 
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="MELTEM TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Meltem-TV-canli-yayin-vipotv.png" group-title="001 Listem",MELTEM TV 
+#EXTINF:-1 tvg-id="Meltem" tvg-name="MELTEM TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Meltem-TV-canli-yayin-vipotv.png" group-title="001 Listem",MELTEM TV 
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="TV 8" tvg-logo="" group-title="001 Listem",TV 8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8" tvg-logo="" group-title="001 Listem",TV 8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6krws191fx7l&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1 tvg-id="NULL" tvg-name="BEYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/beyaztv.png" group-title="001 Listem",BEYAZ TV
+#EXTINF:-1 tvg-id="Beyaz.TV.tr" tvg-name="BEYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/beyaztv.png" group-title="001 Listem",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="STAR TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Startv.png" group-title="001 Listem",STAR TV
+#EXTINF:-1 tvg-id="Star.tr" tvg-name="STAR TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Startv.png" group-title="001 Listem",STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="001 Listem",SHOW TV
+#EXTINF:-1 tvg-id="Shov.TV.tr" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="001 Listem",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=6krw4t3rxv4n&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
-#EXTINF:-1 tvg-id="NULL" tvg-name="ATV" tvg-logo="" group-title="001 Listem",ATV
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="" group-title="001 Listem",ATV
 https://yayin2.canlitv.fun/livetv/atv.stream/chunklist_w485931640.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="KANAL D" tvg-logo="" group-title="001 Listem",KANAL D
+#EXTINF:-1 tvg-id="Kanal.D.tr" tvg-name="KANAL D" tvg-logo="" group-title="001 Listem",KANAL D
 https://yayin2.canlitv.fun/livetv/kanald.stream/chunklist_w230843209.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="NOW" tvg-logo="" group-title="001 Listem",NOW
+#EXTINF:-1 tvg-id="Now.tr" tvg-name="NOW" tvg-logo="" group-title="001 Listem",NOW
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2977&extension=m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="KANAL 7" tvg-logo="" group-title="001 Listem",KANAL 7
+#EXTINF:-1 tvg-id="Kanal.7.tr" tvg-name="KANAL 7" tvg-logo="" group-title="001 Listem",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="TEVE 2" tvg-logo="" group-title="001 Listem",TEVE 2
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE 2" tvg-logo="" group-title="001 Listem",TEVE 2
 https://yayin2.canlitv.fun/livetv/teve2.stream/chunklist_w1940583035.m3u8
 #EXTINF:-1 tvg-id="NULL" tvg-name="CNBC-e" tvg-logo="" group-title="001 Listem",CNBC-e
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="001 Listem",VAV TV
+#EXTINF:-1 tvg-id="Vav.Tv.tr" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="001 Listem",VAV TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="NULL" tvg-name="SDM TV" tvg-logo="" group-title="001 Listem",SDM TV 
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="CINE1" tvg-logo="https://vipotv.com/wp-content/uploads/2023/04/Cine1-izle-vipotv.png" group-title="001 Listem",CINE1 
+#EXTINF:-1 tvg-id="Cine1.tr" tvg-name="CINE1" tvg-logo="https://vipotv.com/wp-content/uploads/2023/04/Cine1-izle-vipotv.png" group-title="001 Listem",CINE1 
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="TiVi 6" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Tivi-6-izle-vipotv-turkiye.png" group-title="001 Listem",TiVi 6 
+#EXTINF:-1 tvg-id="Tivi6.tr" tvg-name="TiVi 6" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Tivi-6-izle-vipotv-turkiye.png" group-title="001 Listem",TiVi 6 
 http://stream.tvcdn.net/yerel/tivi6.m3u8
 
 #EXTINF:-1 tvg-id="NULL" tvg-name="M TURK TV" tvg-logo="" group-title="001 Listem",M TURK TV 
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Woman Life TV" tvg-logo="http://assets.tvcdn.net/56dc0531-179a-4340-8a39-bae41eead40a.png" group-title="001 Listem",Woman Life TV
+#EXTINF:-1 tvg-id="Live.TV.tr" tvg-name="Woman Life TV" tvg-logo="http://assets.tvcdn.net/56dc0531-179a-4340-8a39-bae41eead40a.png" group-title="001 Listem",Woman Life TV
 http://stream.tvcdn.net/diger/woman-life-tv.m3u8
 #EXTINF:-1 tvg-id="WomanTV.tr" tvg-name="Woman TV" tvg-logo="http://assets.tvcdn.net/f85e5a28-5d65-405e-a079-be0a7893b8bd.png" group-title="001 Listem",Woman TV
 http://stream.tvcdn.net/diger/woman-tv.m3u8
@@ -86,43 +86,42 @@ http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ONDE TV" tvg-logo="" group-title="001 Listem",ONDE TV
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="UN TV" tvg-logo="" group-title="001 Listem",UN TV
+#EXTINF:-1 tvg-id="ext" tvg-name="ÜN TV" tvg-logo="" group-title="001 Listem",ÜN TV
 http://stream.tvcdn.net/yerel/konya-un-tv.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="TRT HABER" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Haber-izle-vipotv-turkiye.png" group-title="002 Haber",TRT HABER
+#EXTINF:-1 tvg-id="TRT.Haber.tr" tvg-name="TRT HABER" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Haber-izle-vipotv-turkiye.png" group-title="002 Haber",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="NTV" tvg-logo="https://ecanlitvizle.video/logo/ntv-hd-izle.png" group-title="002 Haber",NTV
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://ecanlitvizle.video/logo/ntv-hd-izle.png" group-title="002 Haber",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="HABERTÜRK" tvg-logo="https://ecanlitvizle.video/logo/haberturk-izle.png" group-title="002 Haber",HABERTÜRK
+#EXTINF:-1 tvg-id="Haber.Türk.tr" tvg-name="HABERTÜRK" tvg-logo="https://ecanlitvizle.video/logo/haberturk-izle.png" group-title="002 Haber",HABERTÜRK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="CNNTÜRK" tvg-logo="https://ecanlitvizle.video/logo/cnnturk.png" group-title="002 Haber",CNNTÜRK
+#EXTINF:-1 tvg-id="CNN.International.tr" tvg-name="CNNTÜRK" tvg-logo="https://ecanlitvizle.video/logo/cnnturk.png" group-title="002 Haber",CNNTÜRK
 https://yayin2.canlitv.fun/livetv/cnnturk.stream/chunklist_w904030400.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="TRTHABER" tvg-logo="https://ecanlitvizle.video/logo/trt-haber-canli-izle-1.png" group-title="002 Haber",TRTHABER
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="AHABER" tvg-logo="https://ecanlitvizle.video/logo/a-haber-canli.png" group-title="002 Haber",AHABER
+
+#EXTINF:-1 tvg-id="a.Haber.tr" tvg-name="AHABER" tvg-logo="https://ecanlitvizle.video/logo/a-haber-canli.png" group-title="002 Haber",AHABER
 https://yayin2.canlitv.fun/livetv/ahaber.stream/chunklist_w273471092.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="24 TV" tvg-logo="https://ecanlitvizle.video/logo/kanal-24-izle.png" group-title="002 Haber",24 TV
+#EXTINF:-1 tvg-id="24.tr" tvg-name="24 TV" tvg-logo="https://ecanlitvizle.video/logo/kanal-24-izle.png" group-title="002 Haber",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_480p.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="TVNET" tvg-logo="https://ecanlitvizle.video/logo/tvnet-izle.png" group-title="002 Haber",TVNET
+#EXTINF:-1 tvg-id="TV.Net.tr" tvg-name="TVNET" tvg-logo="https://ecanlitvizle.video/logo/tvnet-izle.png" group-title="002 Haber",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="AKİT" tvg-logo="https://ecanlitvizle.video/logo/akit-tv-izle.png" group-title="002 Haber",AKİT
+#EXTINF:-1 tvg-id="Akit.tr" tvg-name="AKİT" tvg-logo="https://ecanlitvizle.video/logo/akit-tv-izle.png" group-title="002 Haber",AKİT
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="HABERGLOBAL" tvg-logo="https://ecanlitvizle.video/logo/haber-global-canli.png" group-title="002 Haber",HABERGLOBAL
+#EXTINF:-1 tvg-id="Haber.Global.tr" tvg-name="HABERGLOBAL" tvg-logo="https://ecanlitvizle.video/logo/haber-global-canli.png" group-title="002 Haber",HABERGLOBAL
 https://yayin2.canlitv.fun/livetv/haberglobal.stream/chunklist_w546416825.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="TGRTHABER" tvg-logo="https://ecanlitvizle.video/logo/tgrt-haber-tv-izle.png" group-title="002 Haber",TGRTHABER
+#EXTINF:-1 tvg-id="TGRT.Haber.tr" tvg-name="TGRTHABER" tvg-logo="https://ecanlitvizle.video/logo/tgrt-haber-tv-izle.png" group-title="002 Haber",TGRTHABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 #EXTINF:-1 tvg-id="NULL" tvg-name="BENGÜTÜRK" tvg-logo="https://ecanlitvizle.video/logo/benguturk-tv-izle.png" group-title="002 Haber",BENGÜTÜRK
 https://yayin2.canlitv.fun/livetv/benguturk.stream/chunklist_w1593693263.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="SÖZCÜ" tvg-logo="https://ecanlitvizle.video/logo/sozcu-tv-canli.png" group-title="002 Haber",SÖZCÜ
+#EXTINF:-1 tvg-id="SZC.tr" tvg-name="SÖZCÜ" tvg-logo="https://ecanlitvizle.video/logo/sozcu-tv-canli.png" group-title="002 Haber",SÖZCÜ
 https://yayin2.canlitv.fun/livetv/sozcutv.stream/chunklist_w948643584.m3u8
 #EXTINF:-1 tvg-id="NULL" tvg-name="ULUSAL" tvg-logo="https://ecanlitvizle.video/logo/ulusal-tv-canli-izle.png" group-title="002 Haber",ULUSAL
 https://yayin2.canlitv.fun/livetv/ulusalkanal.stream/chunklist_w611762110.m3u8
 #EXTINF:-1 tvg-id="NULL" tvg-name="HALK" tvg-logo="https://ecanlitvizle.video/logo/halk-tv-izle.png" group-title="002 Haber",HALK
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="TV100" tvg-logo="https://ecanlitvizle.video/logo/tv-100.png" group-title="002 Haber",TV100
+#EXTINF:-1 tvg-id="Tv.100.tr" tvg-name="TV100" tvg-logo="https://ecanlitvizle.video/logo/tv-100.png" group-title="002 Haber",TV100
 https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
 #EXTINF:-1 tvg-id="NULL" tvg-name="TELE1" tvg-logo="https://ecanlitvizle.video/logo/tele-1-izle.png" group-title="002 Haber",TELE1
 https://yayin2.canlitv.fun/livetv/tele1.stream/chunklist_w1296279971.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="BLUMBERG" tvg-logo="https://ecanlitvizle.video/logo/bloomberg-ht-izle.png" group-title="002 Haber",BLOOMBERG
+#EXTINF:-1 tvg-id="Bloomberg.HT.tr" tvg-name="BLUMBERG" tvg-logo="https://ecanlitvizle.video/logo/bloomberg-ht-izle.png" group-title="002 Haber",BLOOMBERG
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 tvg-id="NULL" tvg-name="FİNANSTÜRK" tvg-logo="" group-title="002 Haber",FİNANSTÜRK
 https://yayin30.haber100.com/live/finansturk/chunklist_w891606793.m3u8
@@ -1039,15 +1038,15 @@ https://tivi44.ozelip.com:3799/stream/play.m3u8
 https://ruhatv.ozelip.com:3483/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FB TV" tvg-logo="" group-title="004 Playlist",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
-#EXTINF:-1 tvg-id="TRT 4K" tvg-name="(TR) TRT 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) TRT 4K+
+#EXTINF:-1 tvg-id="TRT.4K.tr" tvg-name="(TR) TRT 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) TRT 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7326&extension=m3u8
-#EXTINF:-1 tvg-id="TRT1 HD" tvg-name="(TR) TRT 1 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) TRT 1 4K+
+#EXTINF:-1 tvg-id="TRT.1.tr " tvg-name="(TR) TRT 1 " tvg-logo="" group-title="005 ULUSAL",(TR) TRT 1 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2838&extension=m3u8
-#EXTINF:-1 tvg-id="TRT 2 HD" tvg-name="(TR) TRT 2 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) TRT 2 4K+
+#EXTINF:-1 tvg-id="TRT.2.tr " tvg-name="(TR) TRT 2 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) TRT 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29026&extension=m3u8
-#EXTINF:-1 tvg-id="TRTAVAZ.tr" tvg-name="(TR) TRT Avaz HD" tvg-logo="" group-title="005 ULUSAL",(TR) TRT Avaz HD
+#EXTINF:-1 tvg-id="TRT.AVAZ.tr" tvg-name="(TR) TRT Avaz HD" tvg-logo="" group-title="005 ULUSAL",(TR) TRT Avaz HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2836&extension=m3u8
-#EXTINF:-1 tvg-id="TV8 HD" tvg-name="(TR) TV 8 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) TV 8 4K+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="(TR) TV 8 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) TV 8 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2815&extension=m3u8
 #EXTINF:-1 tvg-id="ATV HD" tvg-name="(TR) ATV 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) ATV 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u8
@@ -1061,17 +1060,17 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2855&extension=m3u
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2977&extension=m3u8
 #EXTINF:-1 tvg-id="BEYAZ TV HD" tvg-name="(TR) BEYAZ TV 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) BEYAZ TV 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3017&extension=m3u8
-#EXTINF:-1 tvg-id="360 HD" tvg-name="(TR) 360 4K" tvg-logo="" group-title="005 ULUSAL",(TR) 360 4K
+#EXTINF:-1 tvg-id="360.tr" tvg-name="(TR) 360 4K" tvg-logo="" group-title="005 ULUSAL",(TR) 360 4K
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7537&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="(TR) Tv 4" tvg-logo="" group-title="005 ULUSAL",(TR) Tv 4
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="(TR) Tv 4" tvg-logo="" group-title="005 ULUSAL",(TR) Tv 4
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=30011&extension=m3u8
-#EXTINF:-1 tvg-id="KANAL 7 HD" tvg-name="(TR) KANAL 7 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) KANAL 7 4K+
+#EXTINF:-1 tvg-id="Kanal.D.tr" tvg-name="(TR) KANAL 7 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) KANAL 7 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2951&extension=m3u8
-#EXTINF:-1 tvg-id="TV85 HD" tvg-name="(TR) TV 8.5 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) TV 8.5 4K+
+#EXTINF:-1 tvg-id="TV.8,5.tr" tvg-name="(TR) TV 8.5 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) TV 8.5 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2810&extension=m3u8
-#EXTINF:-1 tvg-id="TEVE2 HD" tvg-name="(TR) TEVE 2 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) TEVE 2 4K+
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="(TR) TEVE 2 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) TEVE 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2850&extension=m3u8
-#EXTINF:-1 tvg-id="A2 HD" tvg-name="(TR) A2 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) A2 4K+
+#EXTINF:-1 tvg-id="a2.tr" tvg-name="(TR) A2 4K+" tvg-logo="" group-title="005 ULUSAL",(TR) A2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3067&extension=m3u8
 #EXTINF:-1 tvg-id="Showmax.tr" tvg-name="(TR) SHOW MAX 4K" tvg-logo="" group-title="005 ULUSAL",(TR) SHOW MAX 4K
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=48899&extension=m3u8
@@ -1083,29 +1082,29 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2840&extension=m3u
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=31320&extension=m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="(TR) TRT Belgesel 4K+" tvg-logo="" group-title="006 BELGESEL",(TR) TRT Belgesel 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2835&extension=m3u8
-#EXTINF:-1 tvg-id="History.tr" tvg-name="(TR) History Channel 4K+" tvg-logo="" group-title="006 BELGESEL",(TR) History Channel 4K+
+#EXTINF:-1 tvg-id="History.Channel.tr" tvg-name="(TR) History Channel 4K+" tvg-logo="" group-title="006 BELGESEL",(TR) History Channel 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2964&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="(TR) Tarih TV" tvg-logo="" group-title="006 BELGESEL",(TR) Tarih TV
+#EXTINF:-1 tvg-id="Tarih.TV.tr" tvg-name="(TR) Tarih TV" tvg-logo="" group-title="006 BELGESEL",(TR) Tarih TV
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170403&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="(TR) Viasat History HD+" tvg-logo="" group-title="006 BELGESEL",(TR) Viasat History HD+
+#EXTINF:-1 tvg-id="Viasat.History.tr" tvg-name="(TR) Viasat History HD+" tvg-logo="" group-title="006 BELGESEL",(TR) Viasat History HD+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=147434&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="(TR) Viasat Explorer HD" tvg-logo="" group-title="006 BELGESEL",(TR) Viasat Explorer HD
+#EXTINF:-1 tvg-id="Viasat.Explorer.tr" tvg-name="(TR) Viasat Explorer HD" tvg-logo="" group-title="006 BELGESEL",(TR) Viasat Explorer HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170402&extension=m3u8
-#EXTINF:-1 tvg-id="NATGEOGRAPHIC.tr" tvg-name="(TR) National Geo HD" tvg-logo="" group-title="006 BELGESEL",(TR) National Geo HD
+#EXTINF:-1 tvg-id="National.Geographic.tr" tvg-name="(TR) National Geo HD" tvg-logo="" group-title="006 BELGESEL",(TR) National Geo HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2902&extension=m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-name="(TR) Nat Geo Wild 4K+" tvg-logo="" group-title="006 BELGESEL",(TR) Nat Geo Wild 4K+
+#EXTINF:-1 tvg-id="National.Geographic.WILD.tr" tvg-name="(TR) Nat Geo Wild 4K+" tvg-logo="" group-title="006 BELGESEL",(TR) Nat Geo Wild 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2903&extension=m3u8
 #EXTINF:-1 tvg-id="Discovery.tr" tvg-name="(TR) Discovery Channel HD" tvg-logo="" group-title="006 BELGESEL",(TR) Discovery Channel HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3004&extension=m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.tr" tvg-name="(TR) Discovery Science HD" tvg-logo="" group-title="006 BELGESEL",(TR) Discovery Science HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3003&extension=m3u8
-#EXTINF:-1 tvg-id="BBCEARTHHD.tr" tvg-name="(TR) BBC Earth HD" tvg-logo="" group-title="006 BELGESEL",(TR) BBC Earth HD
+#EXTINF:-1 tvg-id="BBC.Earth.tr" tvg-name="(TR) BBC Earth HD" tvg-logo="" group-title="006 BELGESEL",(TR) BBC Earth HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=99747&extension=m3u8
-#EXTINF:-1 tvg-id="NatGeoPeople.tr" tvg-name="(TR) Love Nature 4K+" tvg-logo="" group-title="006 BELGESEL",(TR) Love Nature 4K+
+#EXTINF:-1 tvg-id="Love.Nature.tr" tvg-name="(TR) Love Nature 4K+" tvg-logo="" group-title="006 BELGESEL",(TR) Love Nature 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2904&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="(TR) ID HD 4K+" tvg-logo="" group-title="006 BELGESEL",(TR) ID HD 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7429&extension=m3u8
-#EXTINF:-1 tvg-id="DaVinci.tr" tvg-name="(TR) Da Vinci 4K" tvg-logo="" group-title="006 BELGESEL",(TR) Da Vinci 4K
+#EXTINF:-1 tvg-id="Da.Vinci.Learning.tr" tvg-name="(TR) Da Vinci 4K" tvg-logo="" group-title="006 BELGESEL",(TR) Da Vinci 4K
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=31317&extension=m3u8
 #EXTINF:-1 tvg-id="beINİZHD" tvg-name="(TR) Bein IZ TV 4K" tvg-logo="" group-title="006 BELGESEL",(TR) Bein IZ TV 4K
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3047&extension=m3u8
