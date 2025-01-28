@@ -6,11 +6,11 @@ https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8?nimblesessionid=200109219
 
 
 
-#EXTINF:-1 tvg-id="TRT.4K.tr" tvg-name="TRT 4K" tvg-logo="" group-title="001 Listem",TRT 4K
+#EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="" group-title="001 Listem",TRT 4K
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/245573.ts
-#EXTINF:-1 tvg-id="TRT.1.tr" tvg-name="TRT 1 HD.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="001 Listem",TRT1
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1 HD.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="001 Listem",TRT1
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6krr9i7elapx&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1 tvg-id="trt.2.tr" tvg-name="TRT2" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="001 Listem",TRT2
+#EXTINF:-1 tvg-id="TRT 2" tvg-name="TRT2" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="001 Listem",TRT2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT.Türk.tr" tvg-name="TRT TÜRK" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png" group-title="001 Listem",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
@@ -32,9 +32,9 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6krws191fx7l&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="Beyaz.TV.tr" tvg-name="BEYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/beyaztv.png" group-title="001 Listem",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
-#EXTINF:-1 tvg-id="Star.tr" tvg-name="STAR TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Startv.png" group-title="001 Listem",STAR TV
+#EXTINF:-1 tvg-id="Star TV" tvg-name="STAR TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Startv.png" group-title="001 Listem",STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1 tvg-id="Shov.TV.tr" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="001 Listem",SHOW TV
+#EXTINF:-1 tvg-id="Show TV" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="001 Listem",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=6krw4t3rxv4n&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="" group-title="001 Listem",ATV
 https://yayin2.canlitv.fun/livetv/atv.stream/chunklist_w485931640.m3u8
