@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="" group-title="001 Listem",TRT 4K
+#EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="https://cdn.creazilla.com/cliparts/7826858/trt-4k-logo-clipart-lg.png" group-title="001 Listem",TRT 4K
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/245573.ts
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1 HD.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="001 Listem",TRT1
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6krr9i7elapx&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
