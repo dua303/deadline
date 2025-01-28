@@ -552,7 +552,7 @@ http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 http://stream.tvcdn.net/diger-eglence/viyana-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="VRT TV" tvg-logo="http://assets.tvcdn.net/190e5de4-240c-4394-b364-acf1be7ca010.png" group-title="003 Stream",VRT TV
 http://stream.tvcdn.net/diger-eglence/vrt-tv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT 4K" tvg-logo="" group-title="004 Playlist",TRT 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJKB-PjVdsQnsoTjPrIgIcmNtc8gF7ft90g&s" group-title="004 Playlist",TRT 4K
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/245573.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT 1" tvg-logo="" group-title="004 Playlist",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
@@ -732,7 +732,7 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 http://stream.tvcdn.net/yerel/konya-un-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="WOMAN TV " tvg-logo="" group-title="004 Playlist",WOMAN TV 
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-#EXTINF:-1 tvg-id="TRT.4K.tr" tvg-name="TRT 4K+" tvg-logo="https://cdn.creazilla.com/cliparts/7826858/trt-4k-logo-clipart-lg.png" group-title="005 ULUSAL",TRT 4K+
+#EXTINF:-1 tvg-id="TRT.4K.tr" tvg-name="TRT 4K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJKB-PjVdsQnsoTjPrIgIcmNtc8gF7ft90g&s" group-title="005 ULUSAL",TRT 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7326&extension=m3u8
 #EXTINF:-1 tvg-id="TRT.1.tr " tvg-name="TRT 1 " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="005 ULUSAL",TRT 1 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2838&extension=m3u8
