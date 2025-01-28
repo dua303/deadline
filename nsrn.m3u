@@ -886,7 +886,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3050&extension=m3u
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3049&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 3 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Bein Box Office 3 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3048&extension=m3u8
-#EXTINF:-1 tvg-id="beIN MOVIESTURKHD" tvg-name="Bein Movies Turk 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Bein Movies Turk 4K+
+#EXTINF:-1 tvg-id="beIN MOVIESTURKHD" tvg-name="Bein Movies Turk 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg" group-title="008 YABANCI SINEMA",Bein Movies Turk 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3038&extension=m3u8
 #EXTINF:-1 tvg-id="beINMOVIESSTARSHD" tvg-name="Bein Movies Stars 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Bein Movies Stars 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3039&extension=m3u8
