@@ -700,7 +700,7 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 http://stream.tvcdn.net/dini/meltem-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MEGA TV " tvg-logo="" group-title="004 Playlist",MEGA TV 
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MEGA TV SABAN" tvg-logo="" group-title="004 Playlist",MEGA TV SABAN
+#EXTINF:-1 tvg-id="ext" tvg-name="MEGA TV SABAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/1200px-Mega_TV_logo_2016.svg.png" group-title="004 Playlist",MEGA TV SABAN
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MAGA TV SINEMA" tvg-logo="" group-title="004 Playlist",MAGA TV SINEMA
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
@@ -1014,7 +1014,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29967&extension=m3
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29935&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Kanal 3" tvg-logo="" group-title="010 YEREL",Kanal 3
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=30703&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Kanal 5" tvg-logo="" group-title="010 YEREL",Kanal 5
+#EXTINF:-1 tvg-id="ext" tvg-name="Kanal V" tvg-logo="https://www.broadcasterinfo.net/systems/images/ckImages/b80f08de-0691-4b8c-b3e8-844f76cb890f.png" group-title="010 YEREL",Kanal V
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=77243&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Kanal 15" tvg-logo="" group-title="010 YEREL",Kanal 15
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29970&extension=m3u8
@@ -1028,7 +1028,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29934&extension=m3
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29973&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Kanal 42" tvg-logo="" group-title="010 YEREL",Kanal 42
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=55398&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Kanal 43" tvg-logo="" group-title="010 YEREL",Kanal 43
+#EXTINF:-1 tvg-id="ext" tvg-name="TRAKYATURK" tvg-logo="https://trakyaturktv.com/uploads/2023/10/settings/6519f50f032b3-1696199951-202310-238.png" group-title="010 YEREL",TRAKYATURK
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29974&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Kanal 58" tvg-logo="" group-title="010 YEREL",Kanal 58
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89843&extension=m3u8
