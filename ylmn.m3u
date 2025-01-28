@@ -1238,11 +1238,11 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170405&extension=m
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89837&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="(TR) Sinema TV 1002 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",(TR) Sinema TV 1002 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89834&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="(TR) Premium Dizismart 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",(TR) Premium Dizismart 4K+
+#EXTINF:-1 tvg-id="Dizi.Smart.Premium.tr" tvg-name="(TR) Premium Dizismart 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",(TR) Premium Dizismart 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89833&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="(TR) Epic Drama" tvg-logo="" group-title="008 YABANCI SINEMA",(TR) Epic Drama
+#EXTINF:-1 tvg-id="EPIC.DRAMA.tr" tvg-name="(TR) Epic Drama" tvg-logo="" group-title="008 YABANCI SINEMA",(TR) Epic Drama
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170409&extension=m3u8
-#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="(TR) Fx HD" tvg-logo="" group-title="008 YABANCI SINEMA",(TR) Fx HD
+#EXTINF:-1 tvg-id="FX.tr" tvg-name="(TR) Fx HD" tvg-logo="" group-title="008 YABANCI SINEMA",(TR) Fx HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2975&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="(TR) Trt Cocuk" tvg-logo="" group-title="009 ÇOCUK",(TR) Trt Cocuk
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2833&extension=m3u8
@@ -1338,7 +1338,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=55398&extension=m3
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29974&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="(TR) Kanal 58" tvg-logo="" group-title="010 YEREL",(TR) Kanal 58
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89843&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="(TR) Kanal 68" tvg-logo="" group-title="010 YEREL",(TR) Kanal 68
+#EXTINF:-1 tvg-id="ext" tvg-name="(TR) Bir TV" tvg-logo="" group-title="010 YEREL",(TR) Bir TV
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29977&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="(TR) Kent Turk" tvg-logo="" group-title="010 YEREL",(TR) Kent Turk
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29984&extension=m3u8
