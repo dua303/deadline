@@ -40,7 +40,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2977&extension=m3u
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-id="Teve2" tvg-name="TEVE 2" tvg-logo="" group-title="001 Listem",TEVE 2
 https://yayin2.canlitv.fun/livetv/teve2.stream/chunklist_w1940583035.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-name="CNBC-e" tvg-logo="" group-title="001 Listem",CNBC-e
+#EXTINF:-1 tvg-id="NULL" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="001 Listem",CNBC-e
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="Vav.Tv.tr" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="001 Listem",VAV TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
@@ -76,9 +76,9 @@ http://stream.tvcdn.net/yerel/kanal-g.m3u8
 http://stream.tvcdn.net/yerel/art-amasya.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Dizi Film TV" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="001 Listem",Dizi Film TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ONDE TV" tvg-logo="" group-title="001 Listem",ONDE TV
+#EXTINF:-1 tvg-id="ext" tvg-name="ONDE TV" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bigclt2zf6hcv5c6vlzx" group-title="001 Listem",ONDE TV
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ÜN TV" tvg-logo="" group-title="001 Listem",ÜN TV
+#EXTINF:-1 tvg-id="ext" tvg-name="ÜN TV" tvg-logo="https://www.konyapedia.com/storage/%C3%BCniversite%20televizyonu.jpg" group-title="001 Listem",ÜN TV
 http://stream.tvcdn.net/yerel/konya-un-tv.m3u8
 #EXTINF:-1 tvg-id="TRT.Haber.tr" tvg-name="TRT HABER" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Haber-izle-vipotv-turkiye.png" group-title="002 Haber",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
