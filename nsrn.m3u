@@ -904,15 +904,15 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89831&extension=m3
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89830&extension=m3u8
 #EXTINF:-1 tvg-id="beINSERIESSCI-FIHD" tvg-name="Bein Series 4 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Bein Series 4 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3035&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Moviesmart Turk 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Moviesmart Turk 4K+
+#EXTINF:-1 tvg-id="ext" tvg-name="Moviesmart Turk 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/MovieSmart_Turk_TR_logo.png?1733490221" group-title="008 YABANCI SINEMA",Moviesmart Turk 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2906&extension=m3u8
-#EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="Moviesmart Action 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Moviesmart Action 4K+
+#EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="Moviesmart Action 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/moviesmartaction.jpg" group-title="008 YABANCI SINEMA",Moviesmart Action 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2920&extension=m3u8
-#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="Moviesmart Classic 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Moviesmart Classic 4K+
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="Moviesmart Classic 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="008 YABANCI SINEMA",Moviesmart Classic 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2918&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sinema TV Comedy 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema TV Comedy 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170407&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sinema Yerli 1 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema Yerli 1 4K+
+#EXTINF:-1 tvg-id="ext" tvg-name="Sinema Yerli 1 4K+" tvg-logo="https://www.superkablonet.com/yukleme/download/584.png" group-title="008 YABANCI SINEMA",Sinema Yerli 1 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170408&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sinema Yerli 2 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema Yerli 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170406&extension=m3u8
@@ -932,11 +932,11 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170405&extension=m
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89837&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sinema TV 1002 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema TV 1002 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89834&extension=m3u8
-#EXTINF:-1 tvg-id="Dizi.Smart.Premium.tr" tvg-name="Premium Dizismart 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Premium Dizismart 4K+
+#EXTINF:-1 tvg-id="Dizi.Smart.Premium.tr" tvg-name="Premium Dizismart 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="008 YABANCI SINEMA",Premium Dizismart 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89833&extension=m3u8
-#EXTINF:-1 tvg-id="EPIC.DRAMA.tr" tvg-name="Epic Drama" tvg-logo="" group-title="008 YABANCI SINEMA",Epic Drama
+#EXTINF:-1 tvg-id="EPIC.DRAMA.tr" tvg-name="Epic Drama" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png" group-title="008 YABANCI SINEMA",Epic Drama
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170409&extension=m3u8
-#EXTINF:-1 tvg-id="FX.tr" tvg-name="Fx HD" tvg-logo="" group-title="008 YABANCI SINEMA",Fx HD
+#EXTINF:-1 tvg-id="FX.tr" tvg-name="Fx HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png" group-title="008 YABANCI SINEMA",Fx HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2975&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Cocuk" tvg-logo="" group-title="009 ÇOCUK",Trt Cocuk
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2833&extension=m3u8
