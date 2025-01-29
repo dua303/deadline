@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="NULL" tvg-name="TeleOn" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/Teleon-TV-live-vipotv-turkey.png" group-title="017 Günlük",TeleOn 
+https://euc13-0.playlist.ttvnw.net/v1/playlist/Cv4F7ozyYZqXtt8ZVxaSRd-jDFnjZtWFPSvnQHd199P5c6RogRkw0ZX7xOuimeTCsLSv_BRZ_fnnVspEEdDK5ObpPRgvHLX6QTlYI8m8PN4bq6s-jFGowse4RZ9crVq19oGWTPPRWNo00zWQ0ONCuDTET5vM8x3EWFE-o9jSeqbFD2Luwi9sIQoBjhvXZzTEhyIMjjIYmUR17inFNVgMCRo08F1E6zEeVg4E9CKzae-bko58y6-bJR1FMphz-GMUZ26_9KHHiu-mXTOkH3azLUAUjm0I1RHLcqBgQH_HGubmy5IGgfW26EFZ2TCnsQCAR7dZ6gewNCJLXNoGZkb1fOPjffgwXKExqcbly2MNdqc5_EAFbhPo0fIxusQLDVam6ggzBw3jRCgoR_8gzLEex-ydxYBTNWzl-bfuyR9ge_-OntbxmHr1ytAwuiMVDhb5MZox8uPK1d9Yx99vLDBAjGhdxy6EHEAfwVD9DG4PP70M4XlQIfi9EzXgP8W-TxPVQted9rXmFOM3Io6wa1E0ljGl2DvZbBG8wKD1IhNaOEgKQQ4v03-40WVLy2YcdSwpg00tSs98YuKjzG6seof5lnMROS24GlUvrLK7nUg2eP1qnx_Ak5Zv0FNBC7R7sZBiC0auCVjQ7pFVvROD3kUhSojF1EQ9ugrbpVCLqdvkjDqCdzXuOJqK4DTupmBiM8icI-oAraDFS2cU_04ZHm5d8_zXLEv3dRw2emXBtw_jcDXZDfU-vDvnHT-Ljg7OWOSsPexA12A669q1sC9Nrw7hZPodLjosiIkw--F49s5-DuX6oRlryQ-qkj7FQKjWN-V0q2eVemApL4TV1xXorkfJpIdDps4dagIqiu_w_fRV7BEjJrnJ3-xWhOI3cwiX3lrz9sYY2IKHfCYS7goKEBCdT8q09nZOCCUgL2aupOIWhjdix_YKhOptbnFtLKB0lTEvSEi9cDXS0atPksWqvQYft12-lbLYoHYkqdLijquIhd2tPurIwZseaxrbW6dPfEbwNRoM56kaQuDLP758Bsy2IAEqCWV1LXdlc3QtMjC6Cw.m3u8
+#EXTINF:-1 tvg-id="TRT 4K" tvg-name="TR: TRT 4K" tvg-logo="http://logo.multicms.info/logoslar/trt4k.png" group-title="017 Günlük",TR: TRT 4K
+http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/51
+#EXTINF:-1 tvg-id="Dizi Smart Max" tvg-name="TR: Dizismart Max" tvg-logo="http://logo.multicms.info/logoslar/dizismartmax.png" group-title="017 Günlük",TR: Dizismart Max
+http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/60119
+#EXTINF:-1 tvg-id="Epic Drama" tvg-name="TR: EPIC DRAMA" tvg-logo="http://logo.multicms.info/logoslar/Epicdrama.jpg" group-title="017 Günlük",TR: EPIC DRAMA
+http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/50426
+#EXTINF:-1 tvg-id="FX" tvg-name="TR: FX FHD" tvg-logo="http://logo.multicms.info/logoslar/fxhd.png" group-title="017 Günlük",TR: FX FHD
+http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/12
+#EXTINF:-1 tvg-id="BBC First" tvg-name="TR: BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_First_Logo_2014.svg/200px-BBC_First_Logo_2014.svg.png" group-title="017 Günlük",TR: BBC First
+http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/165462
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="https://cdn.creazilla.com/cliparts/7826858/trt-4k-logo-clipart-lg.png" group-title="001 Listem",TRT 4K
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/245573.ts
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1 HD.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="001 Listem",TRT1
