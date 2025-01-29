@@ -60,6 +60,9 @@ http://stream.tvcdn.net/diger/woman-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Tivi Türk" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="001 Listem",Tivi Türk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Rize Türk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="001 Listem",Rize Türk
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="İsviçre TV" tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="001 Listem",İsviçre TV
 http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Deniz Postası TV" tvg-logo="http://assets.tvcdn.net/a26c3736-672a-45df-a3d8-8c00330b5f04.png" group-title="001 Listem",Deniz Postası TV
