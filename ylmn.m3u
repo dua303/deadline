@@ -5,6 +5,9 @@ https://euc13-0.playlist.ttvnw.net/v1/playlist/Cv4F7ozyYZqXtt8ZVxaSRd-jDFnjZtWFP
 #EXTINF:-1 tvg-id="ext" tvg-name="Rize Türk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="001 Listem",Rize Türk
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="sdm" tvg-name="SDM Sinema" tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png" group-title="001 Listem",SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="" group-title="001 Listem",TRT 4K
 http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/245573.ts
