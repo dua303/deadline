@@ -16,7 +16,7 @@ http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/12
 http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/165462
 #EXTINF:-1 tvg-id="ext" tvg-name="TURK HABER" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2024/06/LOGO_EXTRASMALL.png" group-title="017 Günlük",TURK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ALMANYA TV" tvg-logo="" group-title="004 Playlist",ALMANYA TV
+#EXTINF:-1 tvg-id="ext" tvg-name="ALMANYA TV" tvg-logo="" group-title="017 Günlük",ALMANYA TV
 https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 
 
