@@ -924,7 +924,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3046&extension=m3u
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89829&extension=m3u8
 #EXTINF:-1 tvg-id="beINMOVIESPREMIERE2HD" tvg-name="Bein Movies Premiere 2 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Bein Movies Premiere 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3041&extension=m3u8
-#EXTINF:-1 tvg-id="beIN SERIES 1.tr" tvg-name="Bein Series 1 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Bein Series 1 4K+
+#EXTINF:-1 tvg-id="beIN SERIES 1" tvg-name="Bein Series 1 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Bein Series 1 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89832&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Series 2 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Bein Series 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89831&extension=m3u8
