@@ -944,17 +944,17 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170407&extension=m
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170408&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sinema Yerli 2 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema Yerli 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170406&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sinema Aile 1 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema Aile 1 4K+
+#EXTINF:-1 tvg-id="Sinema.TV.Aile.tr" tvg-name="Sinema Aile 1 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema Aile 1 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89838&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sinema Aile 2 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema Aile 2 4K+
+#EXTINF:-1 tvg-id="Sinema.TV.Aile.2.tr" tvg-name="Sinema Aile 2 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema Aile 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170404&extension=m3u8
 #EXTINF:-1 tvg-id="Sinema.TV.tr" tvg-name="Sinema TV 1 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema TV 1 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89835&extension=m3u8
-#EXTINF:-1 tvg-id="Sinema.2.tr" tvg-name="Sinema TV 2 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema TV 2 4K+
+#EXTINF:-1 tvg-id="Sinema.tv.2.tr" tvg-name="Sinema TV 2 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema TV 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89836&extension=m3u8
 #EXTINF:-1 tvg-id="Sinema.Aksiyon.tr" tvg-name="Sinema Aksion 1 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema Aksion 1 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89839&extension=m3u8
-#EXTINF:-1 tvg-id="inema.Aksiyon2.tr" tvg-name="Sinema Aksion 2 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema Aksion 2 4K+
+#EXTINF:-1 tvg-id="Sinema.Aksiyon.2.tr" tvg-name="Sinema Aksion 2 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema Aksion 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170405&extension=m3u8
 #EXTINF:-1 tvg-id="Sinema.1001.tr" tvg-name="Sinema TV 1001 4K+" tvg-logo="" group-title="008 YABANCI SINEMA",Sinema TV 1001 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89837&extension=m3u8
