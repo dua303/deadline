@@ -103,10 +103,10 @@ http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=222&ext
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE 2 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="017 Günlük",TEVE 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2850&extension=m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TR: A2 HD+" tvg-logo="" group-title="017 Günlük",TR: A2 HD+
+#EXTINF:-1 tvg-id="ext" tvg-name="TR: A2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="017 Günlük",TR: A2 HD+
 http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=227&extension=ts
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TR: SHOW MAX" tvg-logo="" group-title="017 Günlük",TR: SHOW MAX
+#EXTINF:-1 tvg-id="ext" tvg-name="TR: SHOW MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/512px-Show_MAX_logo.svg.png" group-title="017 Günlük",TR: SHOW MAX
 http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=239&extension=ts
 
 #EXTINF:-1 tvg-id="Vav.Tv.tr" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="017 Günlük",VAV TV
