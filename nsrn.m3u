@@ -147,7 +147,7 @@ http://stream.tvcdn.net/yerel/kanal-g.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ART Amasya" tvg-logo="http://assets.tvcdn.net/0605466d-2bd1-450a-9182-8ccb12567b8b.png" group-title="017 Günlük",ART Amasya
 http://stream.tvcdn.net/yerel/art-amasya.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="ONDE TV" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bigclt2zf6hcv5c6vlzx" group-title="017 Günlük",dpr_1/bigc
+#EXTINF:-1 tvg-id="ext" tvg-name="ONDE TV" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bigclt2zf6hcv5c6vlzx" group-title="017 Günlük",ONDE TV
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ÜN TV" tvg-logo="https://www.konyapedia.com/storage/%C3%BCniversite%20televizyonu.jpg" group-title="017 Günlük",ÜN TV
@@ -163,7 +163,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=178722&extension=m
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29977&extension=m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TRAKYATURK" tvg-logo="https://trakyaturktv.com/uploads/2023/10/settings/6519f50f032b3-1696199951-202310-238.png" group-title="017 Günlük",TRAKYATURK
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29974&extension=m3u8
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8?nimblesessionid=5185720662
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TURK HABER" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2024/06/LOGO_EXTRASMALL.png" group-title="017 Günlük",TURK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
