@@ -49,7 +49,7 @@ http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=244&ext
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2838&extension=m3u8
 
 #EXTINF:-1 tvg-id="TRT.2.tr " tvg-name="TRT 2 4K+" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="017 Günlük",TRT 2 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29026&extension=m3u8
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRT.AVAZ.tr" tvg-name="TRT Avaz HD" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trtavaztv.png" group-title="017 Günlük",TRT Avaz HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2836&extension=m3u8
