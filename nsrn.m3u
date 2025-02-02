@@ -166,7 +166,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=178722&extension=m
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29977&extension=m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TRAKYATURK" tvg-logo="https://trakyaturktv.com/uploads/2023/10/settings/6519f50f032b3-1696199951-202310-238.png" group-title="017 Günlük",TRAKYATURK
-https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8?nimblesessionid=5185720662
+http://stream.tvcdn.net/003 Stream/trakya-turk-tv.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TURK HABER" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2024/06/LOGO_EXTRASMALL.png" group-title="017 Günlük",TURK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
