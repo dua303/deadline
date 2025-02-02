@@ -96,7 +96,7 @@ http://stream.tvcdn.net/diger/woman-tv.m3u8
 #EXTINF:-1 tvg-id="Live.TV.tr" tvg-name="Woman Life TV" tvg-logo="http://assets.tvcdn.net/56dc0531-179a-4340-8a39-bae41eead40a.png" group-title="017 Günlük",Woman Life TV
 http://stream.tvcdn.net/diger/woman-life-tv.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TR: TV 8.5 HD+" tvg-logo="" group-title="017 Günlük",TR: TV 8.5 HD+
+#EXTINF:-1 tvg-id="ext" tvg-name="TR: TV 8.5 HD+" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5924449cd6f439663be1e725" group-title="017 Günlük",TR: TV 8.5 HD+
 http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=222&extension=ts
 
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE 2 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="017 Günlük",TEVE 2 4K+
