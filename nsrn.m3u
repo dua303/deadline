@@ -1,19 +1,178 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NULL" tvg-name="TeleOn" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/Teleon-TV-live-vipotv-turkey.png" group-title="017 Günlük",TeleOn 
-https://usher.ttvnw.net/api/channel/hls/teleontv.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiZTg5YmU2NTQtMDBhNS00NzkwLTg5ZjItZDgzYjZmNmFlZGJkIn0%3D&allow_source=true&browser_family=chrome&browser_version=132.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=3911067&parent_domains=twitchplayer&platform=web&play_session_id=127a4dcbf1e376b26774d19250360919&player_backend=mediaplayer&player_version=1.37.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=86de059027d905039424cae014846bd836ceb735&supported_codecs=av1,h265,h264&token=%7B"adblock"%3Afalse%2C"authorization"%3A%7B"forbidden"%3Afalse%2C"reason"%3A""%7D%2C"blackout_enabled"%3Afalse%2C"channel"%3A"teleontv"%2C"channel_id"%3A736703747%2C"chansub"%3A%7B"restricted_bitrates"%3A%5B%5D%2C"view_until"%3A1924905600%7D%2C"ci_gb"%3Afalse%2C"geoblock_reason"%3A""%2C"device_id"%3A"0ff76f46bd16d3d6"%2C"expires"%3A1738230574%2C"extended_history_allowed"%3Afalse%2C"game"%3A""%2C"hide_ads"%3Afalse%2C"https_required"%3Atrue%2C"mature"%3Afalse%2C"partner"%3Afalse%2C"platform"%3A"web"%2C"player_type"%3A"embed"%2C"private"%3A%7B"allowed_to_view"%3Atrue%7D%2C"privileged"%3Afalse%2C"role"%3A""%2C"server_ads"%3Atrue%2C"show_ads"%3Atrue%2C"subscriber"%3Afalse%2C"turbo"%3Afalse%2C"user_id"%3Anull%2C"user_ip"%3A"104.28.212.150"%2C"version"%3A2%7D&transcode_mode=cbr_v1
+#EXTINF:-1 tvg-id="EPIC.DRAMA.tr" tvg-name="Epic Drama" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png" group-title="017 Günlük",Epic Drama
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170409&extension=m3u8
 
+#EXTINF:-1 tvg-id="FX.tr" tvg-name="Fx HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png" group-title="017 Günlük",Fx HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2975&extension=m3u8
 
-#EXTINF:-1 tvg-id="TRT 4K" tvg-name="TR: TRT 4K" tvg-logo="http://logo.multicms.info/logoslar/trt4k.png" group-title="017 Günlük",TR: TRT 4K
-http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/51
-#EXTINF:-1 tvg-id="Dizi Smart Max" tvg-name="TR: Dizismart Max" tvg-logo="http://logo.multicms.info/logoslar/dizismartmax.png" group-title="017 Günlük",TR: Dizismart Max
-http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/60119
-#EXTINF:-1 tvg-id="Epic Drama" tvg-name="TR: EPIC DRAMA" tvg-logo="http://logo.multicms.info/logoslar/Epicdrama.jpg" group-title="017 Günlük",TR: EPIC DRAMA
-http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/50426
-#EXTINF:-1 tvg-id="FX" tvg-name="TR: FX FHD" tvg-logo="http://logo.multicms.info/logoslar/fxhd.png" group-title="017 Günlük",TR: FX FHD
-http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/12
+#EXTINF:-1 tvg-id="Dizi Smart Premium.tr" tvg-name="Premium Dizismart " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="017 Günlük",Premium Dizismart
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89833&extension=m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="DIZI SMART MAX" tvg-logo="" group-title="017 Günlük",DIZI SMART MAX
+http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=332&extension=ts
+
 #EXTINF:-1 tvg-id="BBC First" tvg-name="TR: BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_First_Logo_2014.svg/200px-BBC_First_Logo_2014.svg.png" group-title="017 Günlük",TR: BBC First
 http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/165462
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:BLUTV PLAY 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png" group-title="SINEMA KANALLARI",TR:BLUTV PLAY 1 HD
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BLUTV PLAY 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay2.png" group-title="SINEMA KANALLARI",TR:BLUTV PLAY 2 HD
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABİİ TV HD" tvg-logo="https://i.hizliresim.com/4asy573.jpeg" group-title="SINEMA KANALLARI",TR:TABİİ TV HD
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT NOSTALJİ HD" tvg-logo="https://i.hizliresim.com/4asy573.jpeg" group-title="SINEMA KANALLARI",TR:TRT NOSTALJİ HD
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:DİZİTV HD" tvg-logo="https://i.hizliresim.com/4asy573.jpeg" group-title="SINEMA KANALLARI",TR:DİZİ TV HD
+https://tivi240.ozelip.com:3745/stream/play.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Dizi Film TV" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="017 Günlük",Dizi Film TV
+http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+
+
+#EXTINF:-1 tvg-id="NULL" tvg-name="TeleOn" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/Teleon-TV-live-vipotv-turkey.png" group-title="017 Günlük",TeleOn
+https://usher.ttvnw.net/api/channel/hls/teleontv.m3u8
+
+#EXTINF:-1 tvg-id="NULL" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="017 Günlük",CNBC-e
+http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
+
+#EXTINF:-1 tvg-id="MELTEM TV.tr" tvg-name="MELTEM TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Meltem-TV-canli-yayin-vipotv.png" group-title="017 Günlük",MELTEM TV
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/360tv.png" group-title="017 Günlük",360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/tv4-canli-izleyin-vipotv-turkiye.png" group-title="017 Günlük",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1 tvg-id="Cine1 Tv.tr" tvg-name="CINE1" tvg-logo="https://vipotv.com/wp-content/uploads/2023/04/Cine1-izle-vipotv.png" group-title="017 Günlük",CINE1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Tivi6" tvg-name="TiVi 6" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Tivi-6-izle-vipotv-turkiye.png" group-title="017 Günlük",TiVi 6
+http://stream.tvcdn.net/yerel/tivi6.m3u8
+
+#EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJKB-PjVdsQnsoTjPrIgIcmNtc8gF7ft90g&s" group-title="017 Günlük",TRT 4K
+http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=244&extension=ts
+
+#EXTINF:-1 tvg-id="TRT.1.tr " tvg-name="TRT 1 " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="017 Günlük",TRT 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2838&extension=m3u8
+
+#EXTINF:-1 tvg-id="TRT.2.tr " tvg-name="TRT 2 4K+" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="017 Günlük",TRT 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29026&extension=m3u8
+
+#EXTINF:-1 tvg-id="TRT.AVAZ.tr" tvg-name="TRT Avaz HD" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trtavaztv.png" group-title="017 Günlük",TRT Avaz HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2836&extension=m3u8
+
+#EXTINF:-1 tvg-id="TRTTÜRK.tr" tvg-name="TRT Türk 4K+" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png" group-title="017 Günlük",TRT Türk 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2823&extension=m3u8
+
+#EXTINF:-1 tvg-id="TRT.Belgesel.tr" tvg-name="TRT BELGESEL" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Belgesel-canli-izle-vipotv-en-kaliteli-belgesel-filmleri-burada.png" group-title="017 Günlük",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/dmaxtv.png" group-title="017 Günlük",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+
+#EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV 8 HD" tvg-logo="https://www.campaigntr.com/wp-content/uploads/2014/09/tv8-logo.png" group-title="017 Günlük",TV 8 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2815&extension=m3u8
+
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="ATV 4K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0p6z3kOBR2kgTOT4gUeXniJri0QlaRyu8g&s" group-title="017 Günlük",ATV 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u8
+
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/tlc.png" group-title="017 Günlük",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+
+#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="017 Günlük",SHOW TV 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2874&extension=m3u8
+
+#EXTINF:-1 tvg-id="KANAL D HD" tvg-name="KANAL D 4K+" tvg-logo="https://w1.pngwing.com/pngs/291/105/png-transparent-cartoon-network-logo-kanal-d-television-television-channel-kanal-7-serial-live-television-blue-thumbnail.png" group-title="017 Günlük",KANAL D 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2945&extension=m3u8
+
+#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="STAR TV HD+" tvg-logo="https://w7.pngwing.com/pngs/1021/682/png-transparent-star-tv-logo-television-show-television-channel-5-stars-miscellaneous-television-angle.png" group-title="017 Günlük",STAR TV 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2855&extension=m3u8
+
+#EXTINF:-1 tvg-id="NOW" tvg-name="NOW TV 4K+" tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp" group-title="017 Günlük",NOW TV 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2977&extension=m3u8
+
+#EXTINF:-1 tvg-id="Beyaz.TV.tr" tvg-name="BEYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/beyaztv.png" group-title="017 Günlük",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+
+#EXTINF:-1 tvg-id="Kanal.7.tr" tvg-name="KANAL 7 4K+" tvg-logo="https://e7.pngegg.com/pngimages/888/174/png-clipart-kanal-7-television-turksat-4a-drop-off-canal-kanal-2-television-text-thumbnail.png" group-title="017 Günlük",KANAL 7 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2951&extension=m3u8
+
+#EXTINF:-1 tvg-id="WomanTV.tr" tvg-name="Woman TV" tvg-logo="http://assets.tvcdn.net/f85e5a28-5d65-405e-a079-be0a7893b8bd.png" group-title="017 Günlük",Woman TV
+http://stream.tvcdn.net/diger/woman-tv.m3u8
+
+#EXTINF:-1 tvg-id="Live.TV.tr" tvg-name="Woman Life TV" tvg-logo="http://assets.tvcdn.net/56dc0531-179a-4340-8a39-bae41eead40a.png" group-title="017 Günlük",Woman Life TV
+http://stream.tvcdn.net/diger/woman-life-tv.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TR: TV 8.5 HD+" tvg-logo="" group-title="017 Günlük",TR: TV 8.5 HD+
+http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=222&extension=ts
+
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE 2 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="017 Günlük",TEVE 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2850&extension=m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TR: A2 HD+" tvg-logo="" group-title="017 Günlük",TR: A2 HD+
+http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=227&extension=ts
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TR: SHOW MAX" tvg-logo="" group-title="017 Günlük",TR: SHOW MAX
+http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=239&extension=ts
+
+#EXTINF:-1 tvg-id="Vav.Tv.tr" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="017 Günlük",VAV TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Tivi Türk" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="017 Günlük",Tivi Türk
+http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Rize Türk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="017 Günlük",Rize Türk
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="sdm" tvg-name="SDM Sinema" tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png" group-title="017 Günlük",SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="SuperTurk Max" tvg-logo="http://assets.tvcdn.net/2a7833de-376e-4900-a8eb-523162f00502.png" group-title="017 Günlük",SuperTurk Max
+http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="SuperTurk TV" tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png" group-title="017 Günlük",SuperTurk TV
+http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="İsviçre TV" tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="017 Günlük",İsviçre TV
+http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Deniz Postası TV" tvg-logo="http://assets.tvcdn.net/a26c3736-672a-45df-a3d8-8c00330b5f04.png" group-title="017 Günlük",Deniz Postası TV
+http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Süper 7 TV" tvg-logo="http://assets.tvcdn.net/94505dd8-b52d-4b4d-b1e4-9fda2829ed57.png" group-title="017 Günlük",Süper 7 TV
+http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TV 25" tvg-logo="http://assets.tvcdn.net/81f002fb-a59f-480e-9aa0-91b096ab491e.png" group-title="017 Günlük",TV 25
+http://stream.tvcdn.net/yerel/tv-25.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Kanal G" tvg-logo="http://assets.tvcdn.net/904d01fa-01cb-4f2d-9b8e-784061c29d00.png" group-title="017 Günlük",Kanal G
+http://stream.tvcdn.net/yerel/kanal-g.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ART Amasya" tvg-logo="http://assets.tvcdn.net/0605466d-2bd1-450a-9182-8ccb12567b8b.png" group-title="017 Günlük",ART Amasya
+http://stream.tvcdn.net/yerel/art-amasya.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ONDE TV" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bigclt2zf6hcv5c6vlzx" group-title="017 Günlük",dpr_1/bigc
+https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ÜN TV" tvg-logo="https://www.konyapedia.com/storage/%C3%BCniversite%20televizyonu.jpg" group-title="017 Günlük",ÜN TV
+http://stream.tvcdn.net/yerel/konya-un-tv.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ALMANYA TV" tvg-logo="" group-title="017 Günlük",ALMANYA TV
+https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Diyanet TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/2560px-Diyanet_TV_logo.svg.png" group-title="017 Günlük",Diyanet TV 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=178722&extension=m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Bir TV" tvg-logo="https://pbs.twimg.com/profile_images/1642157784220221444/0gJNz4mL_400x400.jpg" group-title="017 Günlük",Bir TV
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29977&extension=m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TRAKYATURK" tvg-logo="https://trakyaturktv.com/uploads/2023/10/settings/6519f50f032b3-1696199951-202310-238.png" group-title="017 Günlük",TRAKYATURK
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29974&extension=m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="TURK HABER" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2024/06/LOGO_EXTRASMALL.png" group-title="017 Günlük",TURK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ALMANYA TV" tvg-logo="" group-title="017 Günlük",ALMANYA TV
