@@ -85,7 +85,7 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/
 #EXTINF:-1 tvg-id="ext" tvg-name="Diyanet TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/2560px-Diyanet_TV_logo.svg.png" group-title="002 ULUSAL",Diyanet TV
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=178722&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TGRT EU" tvg-logo="" group-title="002 ULUSAL",TGRT EU
-https://cdn900.canlitv.vin/tgrteu.m3u8?tkn=eN5ZjElI4CW0fp-brEfixQ&tms=1738633549&hst=www.canlitv.vin&ip=45.11.202.86
+http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Tivi Türk" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="003 YEREL",Tivi Türk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Rize Türk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="003 YEREL",Rize Türk
@@ -278,20 +278,20 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2969&extension=m3u
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber HD" tvg-logo="" group-title="006 HABER",TRT Haber HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2829&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Tele 1" tvg-logo="" group-title="006 HABER",Tele 1
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2851&extension=m3u8
+http://stream.tvcdn.net/haber/tele-1.m3u8
 #EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="Krt TV 4K" tvg-logo="" group-title="006 HABER",Krt TV 4K
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2933&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Flash TV 4K" tvg-logo="" group-title="006 HABER",Flash TV 4K
 https://flas#EXTINF:-1 tvg-id="Halk TV TR" tvg-name="Halk TV 1 4K" tvg-logo="" group-title="006 HABER",Halk TV 
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=751s8s9ogjc3&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3hhaber-live.ercdn.net/flashhaber/flashhaber_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sözcü TV 2 4K" tvg-logo="" group-title="006 HABER",Sözcü TV
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/a3xeXynjMXip9CnsiFoetcjwzBhurZOyU5ktFu3gw3yTge2znf2GZcEe6RWzfBLfAR24KP9LRn_f9TWvlOf1kQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/playlist_16714758556342750142.m3u8?type=replay
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Mavi Karadeniz" tvg-logo="" group-title="006 HABER",Mavi Karadeniz
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=137249&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV 100 4K+" tvg-logo="" group-title="006 HABER",TV 100 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=178721&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ULUSAL TV" tvg-logo="" group-title="006 HABER",ULUSAL TV
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=178721&extension=m3u8
+http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Uzay Haber" tvg-logo="" group-title="006 HABER",Uzay Haber
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=30019&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Lider TV" tvg-logo="" group-title="006 HABER",Lider TV
