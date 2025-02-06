@@ -249,9 +249,6 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3006&extension=m3u
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global 4K+" tvg-logo="" group-title="006 HABER",Haber Global 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=48946&extension=m3u8
 
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber HD" tvg-logo="" group-title="006 HABER",A Haber HD
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3071&extension=m3u8
-
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TGRT Haber 4K+" tvg-logo="" group-title="006 HABER",TGRT Haber 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2846&extension=m3u8
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Türk 4K+" tvg-logo="" group-title="006 HABER",Haber Türk 4K+
