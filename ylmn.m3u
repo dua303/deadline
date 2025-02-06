@@ -250,7 +250,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3006&extension=m3u
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=48946&extension=m3u8
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TGRT Haber 4K+" tvg-logo="" group-title="006 HABER",TGRT Haber 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2846&extension=m3u8
+https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Türk 4K+" tvg-logo="" group-title="006 HABER",Haber Türk 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2970&extension=m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="24 TV 4K" tvg-logo="" group-title="006 HABER",24 TV 4K
@@ -265,7 +265,7 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TvDen" tvg-logo="" group-title="006 HABER",TvDen
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=165199&extension=m3u8
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TV Net  4K+" tvg-logo="" group-title="006 HABER",TV Net  4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2804&extension=m3u8
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg 4K" tvg-logo="" group-title="006 HABER",Bloomberg 4K
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3013&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Finans Türk" tvg-logo="https://finansturktv.com/images/logo.png" group-title="006 HABER",Finans Türk
@@ -275,9 +275,10 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29844&extension=m3
 #EXTINF:-1 tvg-id="ext" tvg-name="Tele 1" tvg-logo="" group-title="006 HABER",Tele 1
 http://stream.tvcdn.net/haber/tele-1.m3u8
 #EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="Krt TV 4K" tvg-logo="" group-title="006 HABER",Krt TV 4K
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2933&extension=m3u8
+https://cdn403.canlitv.vin/krttv-432.ts?tkn=al0g8UejZ4qaazApyJBApA&tms=1738883456&hst=www.canlitv.vin&ip=45.11.202.86
 #EXTINF:-1 tvg-id="ext" tvg-name="Flash TV 4K" tvg-logo="" group-title="006 HABER",Flash TV 4K
-https://flas#EXTINF:-1 tvg-id="Halk TV TR" tvg-name="Halk TV 1 4K" tvg-logo="" group-title="006 HABER",Halk TV 
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+#EXTINF:-1 tvg-id="Halk TV TR" tvg-name="Halk TV 1 4K" tvg-logo="" group-title="006 HABER",Halk TV 
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=751s8s9ogjc3&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3hhaber-live.ercdn.net/flashhaber/flashhaber_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sözcü TV 2 4K" tvg-logo="" group-title="006 HABER",Sözcü TV
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8
