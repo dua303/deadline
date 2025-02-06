@@ -142,36 +142,36 @@ https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="eIN MOVIES TURK.tr" tvg-name="Bein Movies Turk 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg" group-title="004 BeIN SINEMA",Bein Movies Turk 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3038&extension=m3u8
-#EXTINF:-1 tvg-id="beIN MOVIES STARS.tr" tvg-name="Bein Movies Stars 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Stars 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3039&extension=m3u8
-#EXTINF:-1 tvg-id="beIN MOVIES ACTION.tr" tvg-name="Bein Movies Action 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Action 2 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3046&extension=m3u8
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=494632&extension=ts
+#EXTINF:-1 tvg-id="beIN MOVIES STARS.tr" tvg-name="Bein Movies Stars 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Stars 
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2758&extension=ts
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION.tr" tvg-name="Bein Movies Action 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Action 
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2756&extension=ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Movies Premiere 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Premiere 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89829&extension=m3u8
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2762&extension=ts
 #EXTINF:-1 tvg-id="beINMOVIESPREMIERE2HD" tvg-name="Bein Movies Premiere 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Premiere 2 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3041&extension=m3u8
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2764&extension=ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 1 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 1 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3050&extension=m3u8
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2753&extension=ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 2 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3049&extension=m3u8
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2754&extension=ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 3 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 3 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3048&extension=m3u8
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2755&extension=ts
 #EXTINF:-1 tvg-id="beIN SERIES 1.tr" tvg-name="Bein Series 1 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 1 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89832&extension=m3u8
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2765&extension=ts
 #EXTINF:-1 tvg-id="beIN SERIES 2.tr" tvg-name="Bein Series 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 2 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89831&extension=m3u8
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2766&extension=ts
 #EXTINF:-1 tvg-id="beIN SERIES 3.tr" tvg-name="Bein Series 3 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 3 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89830&extension=m3u8
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2768&extension=ts
 #EXTINF:-1 tvg-id="beIN SERIES 4.tr" tvg-name="Bein Series 4 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 4 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3035&extension=m3u8
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2770&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="Moviesmart Turk 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/MovieSmart_Turk_TR_logo.png?1733490221" group-title="004 DSMART SINEMA",Moviesmart Turk 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2906&extension=m3u8
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2744&extension=ts
 #EXTINF:-1 tvg-id="MovieSmart Classic.trr" tvg-name="Moviesmart Classic 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="004 DSMART SINEMA",Moviesmart Classic 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2918&extension=m3u8
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2745&extension=ts
 #EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="Moviesmart Action 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/moviesmartaction.jpg" group-title="004 DSMART SINEMA",Moviesmart Action 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2920&extension=m3u8
 #EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="Film Screen" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" group-title="004 DSMART SINEMA",Film Screen
@@ -181,30 +181,24 @@ http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=362966&
 
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Sinema Yerli 1 4K+" tvg-logo="https://www.superkablonet.com/yukleme/download/584.png" group-title="004 Tivibu SINEMA",Sinema Yerli 1 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170408&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sinema Yerli 2 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema Yerli 2 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170406&extension=m3u8
-#EXTINF:-1 tvg-id="Sinema.TV.Aile.tr" tvg-name="Sinema Aile 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema Aile 1 4K+
+#EXTINF:-1 tvg-id="ext" tvg-name="Sinema Yerli 1 4K+" tvg-logo="https://www.superkablonet.com/yukleme/download/584.png" group-title="004 Tivibu SINEMA",Sinema Yerli 1 
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2776&extension=ts
+
+#EXTINF:-1 tvg-id="Sinema.TV.Aile2.tr" tvg-name="Sinema Aile 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema Aile 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89838&extension=m3u8
-#EXTINF:-1 tvg-id="Sinema.TV.Aile.2.tr" tvg-name="Sinema Aile 2 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema Aile 2 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170404&extension=m3u8
+
 #EXTINF:-1 tvg-id="Sinema.TV.tr" tvg-name="Sinema TV 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV 1 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89835&extension=m3u8
-#EXTINF:-1 tvg-id="Sinema.tv.2.tr" tvg-name="Sinema TV 2 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV 2 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89836&extension=m3u8
+
 #EXTINF:-1 tvg-id="Sinema.Aksiyon.tr" tvg-name="Sinema Aksion 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema Aksiyon 1 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89839&extension=m3u8
-#EXTINF:-1 tvg-id="Sinema.Aksiyon.2.tr" tvg-name="Sinema Aksion 2 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema Aksiyon 2 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170405&extension=m3u8
+
 #EXTINF:-1 tvg-id="Sinema.1001.tr" tvg-name="Sinema TV 1001 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV 1001 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89837&extension=m3u8
-#EXTINF:-1 tvg-id="Sinema.1002.tr" tvg-name="Sinema TV 1002 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV 1002 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89834&extension=m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Sinema TV Comedy 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV Komedi
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170407&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TR: SINEMA TV KOMEDI 2 HD+" tvg-logo="" group-title="004 Tivibu SINEMA",TR: Sinema TV Komedi 2
-http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=365&extension=ts
+
 
 
 
