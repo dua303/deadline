@@ -117,7 +117,7 @@ https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CANKIRI TV" tvg-logo="https://cankiritv.com.tr/images/genel/cankirilogoZ-ZKopya_1.png" group-title="003 YEREL",CANKIRI TV
 https://yayin1.canlitv.fun/canlitv/cankiritv.stream/chunklist_w897653718.m3u8?hash=b6f04e0ceace52ec2fc6ee88f76cab9b
 #EXTINF:-1 tvg-id="ext" tvg-name="TRAKYATURK" tvg-logo="https://trakyaturktv.com/uploads/2023/10/settings/6519f50f032b3-1696199951-202310-238.png" group-title="003 YEREL",TRAKYATURK
-http://stream.tvcdn.net/003 Stream/trakya-turk-tv.m3u8
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8?nimblesessionid=5214768556
 #EXTINF:-1 tvg-id="ext" tvg-name="GZT TV" tvg-logo="" group-title="003 YEREL",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="LIFE TV" tvg-logo="" group-title="003 YEREL",LIFE TV
