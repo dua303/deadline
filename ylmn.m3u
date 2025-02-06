@@ -264,7 +264,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2801&extension=m3u
 #EXTINF:-1 tvg-id="EKOTÃœRK.tr" tvg-name="Eko Türk TV" tvg-logo="" group-title="006 HABER",Eko Türk TV
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=77252&extension=m3u8
 #EXTINF:-1 tvg-id="EKOL TV.tr" tvg-name="Ekol TV 4K+" tvg-logo="" group-title="006 HABER",Ekol TV 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174769&extension=m3u8
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TvDen" tvg-logo="" group-title="006 HABER",TvDen
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=165199&extension=m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg 4K" tvg-logo="" group-title="006 HABER",Bloomberg 4K
