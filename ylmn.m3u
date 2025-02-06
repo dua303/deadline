@@ -285,7 +285,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2933&extension=m3u
 https://flas#EXTINF:-1 tvg-id="Halk TV TR" tvg-name="Halk TV 1 4K" tvg-logo="" group-title="006 HABER",Halk TV 
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=751s8s9ogjc3&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3hhaber-live.ercdn.net/flashhaber/flashhaber_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sözcü TV 2 4K" tvg-logo="" group-title="006 HABER",Sözcü TV
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=178720&extension=m3u8
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/a3xeXynjMXip9CnsiFoetcjwzBhurZOyU5ktFu3gw3yTge2znf2GZcEe6RWzfBLfAR24KP9LRn_f9TWvlOf1kQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/playlist_16714758556342750142.m3u8?type=replay
 #EXTINF:-1 tvg-id="ext" tvg-name="Mavi Karadeniz" tvg-logo="" group-title="006 HABER",Mavi Karadeniz
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=137249&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV 100 4K+" tvg-logo="" group-title="006 HABER",TV 100 4K+
