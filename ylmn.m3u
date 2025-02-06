@@ -122,36 +122,40 @@ https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="LIFE TV" tvg-logo="" group-title="003 YEREL",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+
+
 #EXTINF:-1 tvg-id="ext" tvg-name="MEGA TV SABAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/1200px-Mega_TV_logo_2016.svg.png" group-title="004 SINEMA",MEGA TV SABAN
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MAGA TV SINEMA" tvg-logo="" group-title="004 SINEMA",MAGA TV SINEMA
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 1 4K+" tvg-logo="" group-title="004 SINEMA",Bein Box Office 1 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3050&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 2 4K+" tvg-logo="" group-title="004 SINEMA",Bein Box Office 2 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3049&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 3 4K+" tvg-logo="" group-title="004 SINEMA",Bein Box Office 3 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3048&extension=m3u8
-#EXTINF:-1 tvg-id="eIN MOVIES TURK.tr" tvg-name="Bein Movies Turk 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg" group-title="004 SINEMA",Bein Movies Turk 4K+
+
+#EXTINF:-1 tvg-id="eIN MOVIES TURK.tr" tvg-name="Bein Movies Turk 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg" group-title="004 BeIN SINEMA",Bein Movies Turk 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3038&extension=m3u8
-#EXTINF:-1 tvg-id="beIN MOVIES STARS.tr" tvg-name="Bein Movies Stars 4K+" tvg-logo="" group-title="004 SINEMA",Bein Movies Stars 4K+
+#EXTINF:-1 tvg-id="beIN MOVIES STARS.tr" tvg-name="Bein Movies Stars 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Stars 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3039&extension=m3u8
-#EXTINF:-1 tvg-id="beIN MOVIES ACTION.tr" tvg-name="Bein Movies Action 2 4K+" tvg-logo="" group-title="004 SINEMA",Bein Movies Action 2 4K+
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION.tr" tvg-name="Bein Movies Action 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Action 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3046&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SDM MUZIK" tvg-logo="" group-title="004 SINEMA",SDM MUZIK
-https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Movies Premiere 4K+" tvg-logo="" group-title="004 SINEMA",Bein Movies Premiere 4K+
+#EXTINF:-1 tvg-id="ext" tvg-name="Bein Movies Premiere 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Premiere 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89829&extension=m3u8
-#EXTINF:-1 tvg-id="beINMOVIESPREMIERE2HD" tvg-name="Bein Movies Premiere 2 4K+" tvg-logo="" group-title="004 SINEMA",Bein Movies Premiere 2 4K+
+#EXTINF:-1 tvg-id="beINMOVIESPREMIERE2HD" tvg-name="Bein Movies Premiere 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Premiere 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3041&extension=m3u8
-#EXTINF:-1 tvg-id="beIN SERIES 1.tr" tvg-name="Bein Series 1 4K+" tvg-logo="" group-title="004 SINEMA",Bein Series 1 4K+
+#EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 1 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3050&extension=m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3049&extension=m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 3 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3048&extension=m3u8
+#EXTINF:-1 tvg-id="beIN SERIES 1.tr" tvg-name="Bein Series 1 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 1 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89832&extension=m3u8
-#EXTINF:-1 tvg-id="beIN SERIES 2.tr" tvg-name="Bein Series 2 4K+" tvg-logo="" group-title="004 SINEMA",Bein Series 2 4K+
+#EXTINF:-1 tvg-id="beIN SERIES 2.tr" tvg-name="Bein Series 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 2 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89831&extension=m3u8
-#EXTINF:-1 tvg-id="beIN SERIES 3.tr" tvg-name="Bein Series 3 4K+" tvg-logo="" group-title="004 SINEMA",Bein Series 3 4K+
+#EXTINF:-1 tvg-id="beIN SERIES 3.tr" tvg-name="Bein Series 3 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 3 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89830&extension=m3u8
-#EXTINF:-1 tvg-id="beIN SERIES 4.tr" tvg-name="Bein Series 4 4K+" tvg-logo="" group-title="004 SINEMA",Bein Series 4 4K+
+#EXTINF:-1 tvg-id="beIN SERIES 4.tr" tvg-name="Bein Series 4 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 4 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3035&extension=m3u8
+
+
+
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="Moviesmart Turk 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/MovieSmart_Turk_TR_logo.png?1733490221" group-title="004 SINEMA",Moviesmart Turk 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2906&extension=m3u8
 #EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="Moviesmart Action 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/moviesmartaction.jpg" group-title="004 SINEMA",Moviesmart Action 4K+
@@ -352,6 +356,8 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SDM HITS" tvg-logo="" group-title="010 MUZIK",SDM HITS
 https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SDM MUZIK" tvg-logo="" group-title="010 MUZIK",SDM MUZIK
+https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
 
 
 
