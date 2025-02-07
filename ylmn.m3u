@@ -363,13 +363,18 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174908&extension=m
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7556&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="" group-title="010 MUZIK",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="PALA TV " tvg-logo="" group-title="010 MUZIK",PALA TV 
-http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="SDM HITS" tvg-logo="" group-title="010 MUZIK",SDM HITS
 https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SDM MUZIK" tvg-logo="" group-title="010 MUZIK",SDM MUZIK
 https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ext" tvg-name="BIZ TV MUSIC" tvg-logo="https://www.parsatv.com/index_files/channels/bizmusic.jpg" group-title="010 MUZIK",BIZ TV MUSIC
+https://fl.biztv.media/music_480_FbLnBjkOoclIXBLHLbLTuwFOKaihFS/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Art TV" tvg-logo="https://www.atr.ua/public/common/logo_atr.svg" group-title="011 TURK",Art TV
+https://atr-live.cdn-02.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8?_=1738939187
 
 
 
