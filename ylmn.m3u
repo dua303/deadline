@@ -253,7 +253,7 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalB.tr" tvg-name="Kanal B" tvg-logo="http://assets.tvcdn.net/855d4cc7-027f-4c11-9e06-2471764dfc30.png" group-title="006 HABER",Kanal B
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined?hash=7c197b6bafdc8d8cbf08be96e4235801
 
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber 4K+" tvg-logo="https://w7.pngwing.com/pngs/625/571/png-transparent-turkey-a-haber-news-kablo-tv-trt-haber-others-television-text-trademark.png" group-title="006 HABER",A Haber 4K+
+#EXTINF:-1 tvg-id="AHABER.tr" tvg-name="A Haber 4K+" tvg-logo="https://w7.pngwing.com/pngs/625/571/png-transparent-turkey-a-haber-news-kablo-tv-trt-haber-others-television-text-trademark.png" group-title="006 HABER",A Haber 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3072&extension=m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://banner2.cleanpng.com/20180906/qrr/kisspng-logo-product-design-brand-font-trkiyenin-ve-dnyann-lk-nsans-robot-5b912b837cf801.0492455115362405155119.jpg" group-title="006 HABER",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
@@ -268,9 +268,9 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=48946&extension=m3
 
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="006 HABER",TGRT Haber 4K+
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Akit TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/cf/Akit_TV.png/640px-Akit_TV.png" group-title="006 HABER",Akit TV
+#EXTINF:-1 tvg-id="AKİT TV.tr" tvg-name="Akit TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/cf/Akit_TV.png/640px-Akit_TV.png" group-title="006 HABER",Akit TV
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=34572&extension=m3u8
-#EXTINF:-1 tvg-id="24.tr" tvg-name="24 TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png" group-title="006 HABER",24 TV 4K
+#EXTINF:-1 tvg-id="24 TV.tr" tvg-name="24 TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png" group-title="006 HABER",24 TV 4K
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=34571&extension=m3u8
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ulke TV 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/1/11/20160213104459%21%C3%9Clke_TV_Logosu.png" group-title="006 HABER",Ulke TV 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2801&extension=m3u8
@@ -286,7 +286,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3013&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Finans Türk" tvg-logo="https://finansturktv.com/images/logo.png" group-title="006 HABER",Finans Türk
 https://yayin30.haber100.com/live/finansturk/chunklist_w1088819646.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="A Para 4K" tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA" group-title="006 HABER",A Para 4K
+#EXTINF:-1 tvg-id="A PARA.tr" tvg-name="A Para 4K" tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA" group-title="006 HABER",A Para 4K
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29844&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TvDen" tvg-logo="https://tvden.com.tr/media/denge/TUolmqfbupYWUDOymOenfreAjISJQPJZMLIXrvbXshdupHCh.png" group-title="006 HABER",TvDen
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=165199&extension=m3u8
