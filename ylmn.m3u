@@ -232,7 +232,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3004&extension=m3u
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7429&extension=m3u8
 #EXTINF:-1 tvg-id="Love Nature.tr" tvg-name="Love Nature 4K+" tvg-logo="" group-title="005 BELGESEL",Love Nature 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2904&extension=m3u8
-#EXTINF:-1 tvg-id="National.Geographic.tr" tvg-name="National Geo HD" tvg-logo="" group-title="005 BELGESEL",National Geo HD
+#EXTINF:-1 tvg-id="NATIONAL GEO.tr" tvg-name="National Geo HD" tvg-logo="" group-title="005 BELGESEL",National Geo HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2902&extension=m3u8
 #EXTINF:-1 tvg-id="NAT.GEO.WILD.tr" tvg-name="Nat Geo Wild 4K+" tvg-logo="" group-title="005 BELGESEL",Nat Geo Wild 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2903&extension=m3u8
