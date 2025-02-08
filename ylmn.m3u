@@ -112,8 +112,6 @@ http://stream.tvcdn.net/yerel/art-amasya.m3u8
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ÜN TV" tvg-logo="https://www.konyapedia.com/storage/%C3%BCniversite%20televizyonu.jpg" group-title="003 YEREL",ÜN TV
 http://stream.tvcdn.net/yerel/konya-un-tv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ALMANYA TV" tvg-logo="http://assets.tvcdn.net/57fd67c8-f4e4-4516-a2de-68325d438b1a.png" group-title="003 YEREL",ALMANYA TV
-http://stream.tvcdn.net/diger-eglence/almanya-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CANKIRI TV" tvg-logo="https://cankiritv.com.tr/images/genel/cankirilogoZ-ZKopya_1.png" group-title="003 YEREL",CANKIRI TV
 http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRAKYATURK" tvg-logo="https://trakyaturktv.com/uploads/2023/10/settings/6519f50f032b3-1696199951-202310-238.png" group-title="003 YEREL",TRAKYATURK
@@ -125,12 +123,9 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="003 YEREL",Kanal 19
 http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="İlke TV" tvg-logo="http://assets.tvcdn.net/bb28dc1a-2368-4482-ab3a-020bb953fae9.png" group-title="003 YEREL",İlke TV
-ttps://yayin1.canlitv.fun/canlitv/ilketv.stream/chunklist_w2052819690.m3u8?hash=b6f04e0ceace52ec2fc6ee88f76cab9b
+http://stream.tvcdn.net/yerel/ilke-tv.m3u8
 #EXTINF:-1 tvg-id="KanalV.tr" tvg-name="Kanal V" tvg-logo="http://assets.tvcdn.net/0c455b18-ce0f-435f-be77-4416d112918e.png" group-title="003 YEREL",Kanal V
-https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8?nimblesessionid=5221175624
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tursab TV" tvg-logo="https://yt3.googleusercontent.com/N-RWscJMXLBDTUYgusF3jwx0d6W812Yisrc20tVsVZzEfO4eCNG49-U5tx8h0Wi_zxN-t9uB=s900-c-k-c0x00ffffff-no-rj" group-title="003 YEREL",Tursab TV
-https://live01.vucos.io/tursab_abr/tursab/tursab-live/tursab_720p/chunks.m3u8
+http://stream.tvcdn.net/yerel/kanal-v.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Engelsiz TV" tvg-logo="https://www.engelsiztv.com.tr/wp-content/uploads/2025/01/engelsiz-logoyeni.jpg" group-title="003 YEREL",Engelsiz TV
 https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist_w1229441475.m3u8
 
