@@ -169,9 +169,8 @@ http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=2745&ext
 #EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="Moviesmart Action 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/moviesmartaction.jpg" group-title="004 DSMART SINEMA",Moviesmart Action 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2920&extension=m3u8
 #EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="Film Screen" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" group-title="004 DSMART SINEMA",Film Screen
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2920&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TR: FILMBOX HD+" tvg-logo="" group-title="004 DSMART SINEMA",TR: FILMBOX HD+
-http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=362966&extension=ts
+http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/66460
+
 
 
 
