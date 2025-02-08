@@ -301,7 +301,7 @@ https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=751s8s9ogjc3&app=c86957
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TV 100 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="006 HABER",TV 100 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=178721&extension=m3u8
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?&sid=758ntyrhsgmk&app=356e7599-d81d-4357-935a-355a1ad9846e&ce=2
 #EXTINF:-1 tvg-id="ext" tvg-name="Mavi Karadeniz" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_103.png?v=15" group-title="006 HABER",Mavi Karadeniz
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=137249&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ULUSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png" group-title="006 HABER",ULUSAL TV
