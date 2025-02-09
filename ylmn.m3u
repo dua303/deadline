@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EPIC.DRAMA.tr" tvg-name="Epic Drama" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png" group-title="001 DIZI",Epic Drama
 http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=195989&extension=ts
+#EXTINF:-1 tvg-id="EPIC.DRAMA.tr" tvg-name="Epic Drama2" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png" group-title="001 DIZI",Epic Drama2
+http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/288526
 #EXTINF:-1 tvg-id="FX.tr" tvg-name="Fx HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png" group-title="001 DIZI",Fx HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2975&extension=m3u8
 #EXTINF:-1 tvg-id="Dizi Smart Premium.tr" tvg-name="Premium Dizismart " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="001 DIZI",Premium Dizismart
@@ -289,7 +291,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=165199&extension=m
 #EXTINF:-1 tvg-id="ext" tvg-name="Tele 1" tvg-logo="https://w7.pngwing.com/pngs/842/3/png-transparent-tele1-television-turkey-turksat-news-others-television-text-trademark.png" group-title="006 HABER",Tele 1
 http://stream.tvcdn.net/haber/tele-1.m3u8
 #EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="Krt TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/KRT_Logo_2023.webp" group-title="006 HABER",Krt TV 4K
-https://cdn403.canlitv.vin/krttv-432.ts?tkn=al0g8UejZ4qaazApyJBApA&tms=1738883456&hst=www.canlitv.vin&ip=45.11.202.86
+http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/38461.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Flash TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/75/Flash_haber_logo.jpeg" group-title="006 HABER",Flash TV 4K
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 #EXTINF:-1 tvg-id="Halk TV TR" tvg-name="Halk TV 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="006 HABER",Halk TV 
