@@ -12,7 +12,6 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89833&extension=m3
 http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=332&extension=ts
 #EXTINF:-1 tvg-id="BBC First" tvg-name="TR: BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_First_Logo_2014.svg/200px-BBC_First_Logo_2014.svg.png" group-title="001 DIZI",BBC First
 http://134432.universalx.eu:80/rozibaruh/LazESF1SUc/165462
-http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/165462
 #EXTINF:-1 tvg-id="ext" tvg-name="TR:BLUTV PLAY 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png" group-title="001 DIZI",BLUTV PLAY 1 HD
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TR:BLUTV PLAY 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay2.png" group-title="001 DIZI",BLUTV PLAY 2 HD
