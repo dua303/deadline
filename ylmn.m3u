@@ -81,7 +81,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2850&extension=m3u
 #EXTINF:-1 tvg-id="ext" tvg-name="TR: A2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="002 ULUSAL",TR: A2 HD+
 https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1739660887&st=DSRyUQE5xWWqQyAXHXb-Hg&sid=75y2k55ofhfi&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
 #EXTINF:-1 tvg-id="ext" tvg-name="TR: SHOW MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/512px-Show_MAX_logo.svg.png" group-title="002 ULUSAL",TR: SHOW MAX
-https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1739622823&st=Pqbv1oQ4GxoO6DGHX-UGmg&tv=1
+https://cdn11.canlitv.vip/showmax.m3u8?tkn=z7xEcxsRL9S_s9wybLmw1A&tms=1739639981&hst=tv.canlitv.vip&ip=45.11.202.86
 #EXTINF:-1 tvg-id="Vav.Tv.tr" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="002 ULUSAL",VAV TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Diyanet TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/2560px-Diyanet_TV_logo.svg.png" group-title="002 ULUSAL",Diyanet TV
