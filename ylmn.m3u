@@ -85,6 +85,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2850&extension=m3u
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TR: SHOW MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/512px-Show_MAX_logo.svg.png" group-title="002 ULUSAL",TR: SHOW MAX
+https://cdn405.canlitv.vip/showmax.m3u8?tkn=6t53Ofnu2Vg2DcK9T8ODFw&tms=1739711066&hst=tv.canlitv.vip&ip=45.11.202.86
 https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Vav.Tv.tr" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="002 ULUSAL",VAV TV
