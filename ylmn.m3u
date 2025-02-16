@@ -36,8 +36,10 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/tv4-canli-izleyin-vipotv-turkiye.png" group-title="002 ULUSAL",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="Cine1 Tv.tr" tvg-name="CINE1" tvg-logo="https://vipotv.com/wp-content/uploads/2023/04/Cine1-izle-vipotv.png" group-title="002 ULUSAL",CINE1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="TiVi 6" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Tivi-6-izle-vipotv-turkiye.png" group-title="002 ULUSAL",TiVi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 http://stream.tvcdn.net/yerel/tivi6.m3u8
 #EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJKB-PjVdsQnsoTjPrIgIcmNtc8gF7ft90g&s" group-title="002 ULUSAL",TRT 4K
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7326&extension=m3u8
@@ -92,6 +94,8 @@ http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Tivi Türk" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="003 YEREL",Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8?checkedby:iptvcat.com
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Cine 6" tvg-logo="https://www.cine6tv.com.tr/uploads/logo/Emin-Kopyas%C4%B1-kopyas%C4%B1-250-x-250-piksel-_20250206_032915_0000.png" group-title="003 YEREL",Cine 6
+https://tivi44.ozelip.com:3614/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Rize Türk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="003 YEREL",Rize Türk
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
@@ -108,6 +112,7 @@ http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Süper 7 TV" tvg-logo="http://assets.tvcdn.net/94505dd8-b52d-4b4d-b1e4-9fda2829ed57.png" group-title="003 YEREL",Süper 7 TV
 http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV 25" tvg-logo="http://assets.tvcdn.net/81f002fb-a59f-480e-9aa0-91b096ab491e.png" group-title="003 YEREL",TV 25
+https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
 http://stream.tvcdn.net/yerel/tv-25.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Kanal G" tvg-logo="http://assets.tvcdn.net/904d01fa-01cb-4f2d-9b8e-784061c29d00.png" group-title="003 YEREL",Kanal G
 https://radyotelekomtv.com/player/m3u8/909b4a1658eee6d92c395f282ae2ce2f/chunklist_w2018852759.m3u8
@@ -115,10 +120,12 @@ https://radyotelekomtv.com/player/m3u8/909b4a1658eee6d92c395f282ae2ce2f/chunklis
 #EXTINF:-1 tvg-id="ext" tvg-name="ONDE TV" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bigclt2zf6hcv5c6vlzx" group-title="003 YEREL",ONDE TV
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ÜN TV" tvg-logo="https://www.konyapedia.com/storage/%C3%BCniversite%20televizyonu.jpg" group-title="003 YEREL",ÜN TV
+http://stream.tvcdn.net/yerel/konya-un-tv.m3u8
 https://yayin1.canlitv.fun/canlitv/untv.stream/chunklist_w319402213.m3u8?hash=b6f04e0ceace52ec2fc6ee88f76cab9b
 #EXTINF:-1 tvg-id="ext" tvg-name="CANKIRI TV" tvg-logo="https://cankiritv.com.tr/images/genel/cankirilogoZ-ZKopya_1.png" group-title="003 YEREL",CANKIRI TV
 https://yayin1.canlitv.fun/canlitv/cankiritv.stream/chunklist_w42055766.m3u8?hash=b6f04e0ceace52ec2fc6ee88f76cab9b
 #EXTINF:-1 tvg-id="ext" tvg-name="TRAKYATURK" tvg-logo="https://trakyaturktv.com/uploads/2023/10/settings/6519f50f032b3-1696199951-202310-238.png" group-title="003 YEREL",TRAKYATURK
+
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="GZT TV" tvg-logo="" group-title="003 YEREL",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
