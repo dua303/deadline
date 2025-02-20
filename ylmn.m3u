@@ -16,8 +16,10 @@ http://pro.royal8080.com:8080/play/live.php?mac=00:1a:79:5e:d4:Fb&stream=332&ext
 
 
 #EXTINF:-1 tvg-id="BBC First" tvg-name="TR: BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_First_Logo_2014.svg/200px-BBC_First_Logo_2014.svg.png" group-title="001 DIZI",BBC First
+http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/165462
 http://rs1986p.xyz:80/live/sahinselat2/k6rd0vxMYg/246364.ts
-http://134432.universalx.eu:80/rozibaruh/LazESF1SUc/165462
+
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TR:BLUTV PLAY 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png" group-title="001 DIZI",BLUTV PLAY 1 HD
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
@@ -208,13 +210,14 @@ http://sine.x-purple.xyz:80/live/apocan@224/224@535/236522.ts
 
 
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="Moviesmart Turk 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/MovieSmart_Turk_TR_logo.png?1733490221" group-title="004 DSMART SINEMA",Moviesmart Turk 4K+
-http://134432.universalx.eu:80/rozibaruh/LazESF1SUc/64828
+http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/216
 #EXTINF:-1 tvg-id="MovieSmart Classic.trr" tvg-name="Moviesmart Classic 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="004 DSMART SINEMA",Moviesmart Classic 4K+
-http://134432.universalx.eu:80/rozibaruh/LazESF1SUc/216
+http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/64828
 #EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="Moviesmart Action 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/moviesmartaction.jpg" group-title="004 DSMART SINEMA",Moviesmart Action 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2920&extension=m3u8
 #EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="Film Screen" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" group-title="004 DSMART SINEMA",Film Screen
-http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/309167
+http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/66460
+
 
 
 
