@@ -94,7 +94,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2977&extension=m3u
 #EXTINF:-1 tvg-id="Beyaz.TV.tr" tvg-name="BEYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/beyaztv.png" group-title="002 ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="Kanal.7.tr" tvg-name="KANAL 7" tvg-logo="https://e7.pngegg.com/pngimages/888/174/png-clipart-kanal-7-television-turksat-4a-drop-off-canal-kanal-2-television-text-thumbnail.png" group-title="002 ULUSAL",KANAL 7 
-https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8?checkedby:iptvcat.com
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2951&extension=m3u8
