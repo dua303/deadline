@@ -79,32 +79,35 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="002 ULUSAL",SHOW TV 
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="KANAL D HD" tvg-name="KANAL D" tvg-logo="https://w1.pngwing.com/pngs/291/105/png-transparent-cartoon-network-logo-kanal-d-television-television-channel-kanal-7-serial-live-television-blue-thumbnail.png" group-title="002 ULUSAL",KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8?app=kanald_web&ce=3
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2945&extension=m3u8
+
 #EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="STAR TV HD+" tvg-logo="https://w7.pngwing.com/pngs/1021/682/png-transparent-star-tv-logo-television-show-television-channel-5-stars-miscellaneous-television-angle.png" group-title="002 ULUSAL",STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2855&extension=m3u8
+
 #EXTINF:-1 tvg-id="NOW" tvg-name="NOW TV 4K+" tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp" group-title="002 ULUSAL",NOW TV 4K+
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-http://stream.tvcdn.net/ulusal/show-tv.m3u8
+https://c.fulltvizle.com/fox/tracks-v1a1/mono.m3u8
 http://31.222.206.98/8820/tracks-v1a1/mono.ts.m3u8?token=test
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2977&extension=m3u8
+
 #EXTINF:-1 tvg-id="Beyaz.TV.tr" tvg-name="BEYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/beyaztv.png" group-title="002 ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
-#EXTINF:-1 tvg-id="Kanal.7.tr" tvg-name="KANAL 7" tvg-logo="https://e7.pngegg.com/pngimages/888/174/png-clipart-kanal-7-television-turksat-4a-drop-off-canal-kanal-2-television-text-thumbnail.png" group-title="002 ULUSAL",KANAL 7 
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
+#EXTINF:-1 tvg-id="Kanal.7.tr" tvg-name="KANAL 7" tvg-logo="https://e7.pngegg.com/pngimages/888/174/png-clipart-kanal-7-television-turksat-4a-drop-off-canal-kanal-2-television-text-thumbnail.png" group-title="002 ULUSAL",KANAL 7 
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2951&extension=m3u8
+
 #EXTINF:-1 tvg-id="WomanTV.tr" tvg-name="Woman TV" tvg-logo="http://assets.tvcdn.net/f85e5a28-5d65-405e-a079-be0a7893b8bd.png" group-title="002 ULUSAL",Woman TV
 http://stream.tvcdn.net/diger/woman-tv.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TR: TV 8.5" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5924449cd6f439663be1e725" group-title="002 ULUSAL",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=758wgkvz08v5&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE 2 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="002 ULUSAL",TEVE 2 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2850&extension=m3u8
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TR: A2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="002 ULUSAL",TR: A2 HD+
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
 
