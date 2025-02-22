@@ -56,10 +56,13 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7326&extension=m3u
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2838&extension=m3u8
 #EXTINF:-1 tvg-id="TRT.2.tr " tvg-name="TRT 2 " tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="002 ULUSAL",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT.AVAZ.tr" tvg-name="TRT Avaz" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trtavaztv.png" group-title="002 ULUSAL",TRT Avaz 
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2836&extension=m3u8
 #EXTINF:-1 tvg-id="TRTTÜRK.tr" tvg-name="TRT Türk " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png" group-title="002 ULUSAL",TRT Türk 
+http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2823&extension=m3u8
 #EXTINF:-1 tvg-id="TRT.Belgesel.tr" tvg-name="TRT BELGESEL" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Belgesel-canli-izle-vipotv-en-kaliteli-belgesel-filmleri-burada.png" group-title="002 ULUSAL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
