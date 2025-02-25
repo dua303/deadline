@@ -53,7 +53,8 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 http://stream.tvcdn.net/yerel/tivi6.m3u8
 
 #EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJKB-PjVdsQnsoTjPrIgIcmNtc8gF7ft90g&s" group-title="002 ULUSAL",TRT 4K
-http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/51
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/350777.ts
+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7326&extension=m3u8
 #EXTINF:-1 tvg-id="TRT.1.tr " tvg-name="TRT 1 " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="002 ULUSAL",TRT 1 
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
@@ -62,9 +63,11 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2838&extension=m3u
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT.AVAZ.tr" tvg-name="TRT Avaz" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trtavaztv.png" group-title="002 ULUSAL",TRT Avaz 
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/121064.ts
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2836&extension=m3u8
 #EXTINF:-1 tvg-id="TRTTÜRK.tr" tvg-name="TRT Türk " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png" group-title="002 ULUSAL",TRT Türk 
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/12774.ts
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2823&extension=m3u8
 #EXTINF:-1 tvg-id="TRT.Belgesel.tr" tvg-name="TRT BELGESEL" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Belgesel-canli-izle-vipotv-en-kaliteli-belgesel-filmleri-burada.png" group-title="002 ULUSAL",TRT BELGESEL
@@ -77,6 +80,7 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7562ejox5fh4&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0p6z3kOBR2kgTOT4gUeXniJri0QlaRyu8g&s" group-title="002 ULUSAL",ATV 
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/703.ts
 http://stream.tvcdn.net/ulusal/atv.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u8
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="002 ULUSAL",SHOW TV 
@@ -93,6 +97,7 @@ http://stream.tvcdn.net/ulusal/star-tv.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2855&extension=m3u8
 
 #EXTINF:-1 tvg-id="NOW" tvg-name="NOW TV 4K+" tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp" group-title="002 ULUSAL",NOW TV 4K+
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/794.ts
 https://c.fulltvizle.com/fox/tracks-v1a1/mono.m3u8
 http://31.222.206.98/8820/tracks-v1a1/mono.ts.m3u8?token=test
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2977&extension=m3u8
@@ -101,6 +106,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2977&extension=m3u
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
 #EXTINF:-1 tvg-id="Kanal.7.tr" tvg-name="KANAL 7" tvg-logo="https://e7.pngegg.com/pngimages/888/174/png-clipart-kanal-7-television-turksat-4a-drop-off-canal-kanal-2-television-text-thumbnail.png" group-title="002 ULUSAL",KANAL 7 
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/160000.ts
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2951&extension=m3u8
@@ -116,7 +122,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TR: SHOW MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/512px-Show_MAX_logo.svg.png" group-title="002 ULUSAL",TR: SHOW MAX
-https://cdn405.canlitv.vip/showmax.m3u8?tkn=6t53Ofnu2Vg2DcK9T8ODFw&tms=1739711066&hst=tv.canlitv.vip&ip=45.11.202.86
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/121106.ts
 https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Vav.Tv.tr" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="002 ULUSAL",VAV TV
@@ -277,41 +283,73 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170407&extension=m
 
 
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC 4K+" tvg-logo="" group-title="005 BELGESEL",TLC 4K+
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/679.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2840&extension=m3u8
+
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX 4K+" tvg-logo="" group-title="005 BELGESEL",DMAX 4K+
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/692.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=31320&extension=m3u8
+
 #EXTINF:-1 tvg-id="TRT BELGESEL.tr" tvg-name="TRT Belgesel 4K+" tvg-logo="" group-title="005 BELGESEL",TRT Belgesel 4K+
+ttp://sine.x-purple.xyz:80/live/apocan@224/224@535/682.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2835&extension=m3u8
+
 #EXTINF:-1 tvg-id="Tarih.TV.tr" tvg-name="Tarih TV" tvg-logo="" group-title="005 BELGESEL",Tarih TV
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/224469.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170403&extension=m3u8
+
 #EXTINF:-1 tvg-id="History Channel.tr" tvg-name="History Channel 4K+" tvg-logo="" group-title="005 BELGESEL",History Channel 4K+
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/92715.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2964&extension=m3u8
+
 #EXTINF:-1 tvg-id="Viasat.History.tr" tvg-name="Viasat History HD+" tvg-logo="" group-title="005 BELGESEL",Viasat History HD+
-http://vip84.fritzinet.com:80/nova/FST2aPPpyh/89948
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/784.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=147434&extension=m3u8
 http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/784.ts
+
 #EXTINF:-1 tvg-id="BBC EARTH.tr" tvg-name="BBC Earth HD" tvg-logo="" group-title="005 BELGESEL",BBC Earth HD
-https://tv.prectv5.sbs/live/bbc.m3u8
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/704.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=99747&extension=m3u8
+
 #EXTINF:-1 tvg-id="beIN IZ.tr" tvg-name="Bein IZ TV 4K" tvg-logo="" group-title="005 BELGESEL",Bein IZ TV 4K
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/20838.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3047&extension=m3u8
+
 #EXTINF:-1 tvg-id="beIN GURME.tr" tvg-name="Bein Gurme 4K" tvg-logo="" group-title="005 BELGESEL",Bein Gurme 4K
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/21749.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=31314&extension=m3u8
+
 #EXTINF:-1 tvg-id="Da Vinci Learning.tr" tvg-name="Da Vinci 4K" tvg-logo="" group-title="005 BELGESEL",Da Vinci 4K
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/121107.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=31317&extension=m3u8
+
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL.tr" tvg-name="Discovery Channel HD" tvg-logo="" group-title="005 BELGESEL",Discovery Channel HD
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/766.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3004&extension=m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="ID HD 4K+" tvg-logo="" group-title="005 BELGESEL",ID HD 4K+
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/121059.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7429&extension=m3u8
+
 #EXTINF:-1 tvg-id="Love Nature.tr" tvg-name="Love Nature 4K+" tvg-logo="" group-title="005 BELGESEL",Love Nature 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2904&extension=m3u8
+
 #EXTINF:-1 tvg-id=""NATIONAL GEOGRAPHIC HD.tr" tvg-name="National Geo HD" tvg-logo="" group-title="005 BELGESEL",National Geo HD
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/758.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2902&extension=m3u8
+
 #EXTINF:-1 tvg-id="NAT.GEO.WILD.tr" tvg-name="Nat Geo Wild 4K+" tvg-logo="" group-title="005 BELGESEL",Nat Geo Wild 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2903&extension=m3u8
+
 #EXTINF:-1 tvg-id="VIASAT EXPLORE.tr" tvg-name="Viasat Explorer HD" tvg-logo="" group-title="005 BELGESEL",Viasat Explorer HD
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/139272.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170402&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature" tvg-logo="http://logo1010.com/news/nature-hd.png" group-title="005 BELGESEL",Viasat Nature 
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/121060.ts
+
 #EXTINF:-1 tvg-id="ext" tvg-name="TGRT Belgesel" tvg-logo="" group-title="005 BELGESEL",TGRT Belgesel
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/197424.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2848&extension=m3u8
 
 
