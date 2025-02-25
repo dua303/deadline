@@ -1,18 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EPIC.DRAMA.tr" tvg-name="Epic Drama" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png" group-title="001 DIZI",Epic Drama
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/301748.ts
 http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/50426
 
 #EXTINF:-1 tvg-id="FX.tr" tvg-name="Fx HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png" group-title="001 DIZI",Fx HD
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/710.ts
 http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/12
 
 #EXTINF:-1 tvg-id="Dizi Smart Premium.tr" tvg-name="Premium Dizismart " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="001 DIZI",Premium Dizismart
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/770.ts
+
 http://nxfntk7722.xyz:80/live/yigit3108/ftaYCpH9Lr/185.ts
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="DIZI SMART MAX" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/DIZISMART%20MAX.png" group-title="001 DIZI",DIZI SMART MAX
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/722.ts
+
 http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/60119
 
 #EXTINF:-1 tvg-id="BBC First" tvg-name="TR: BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_First_Logo_2014.svg/200px-BBC_First_Logo_2014.svg.png" group-title="001 DIZI",BBC First
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/320011.ts
 http://tr.523451.xyz:80/live/ferhatuzun1/04022022/310888.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TR:BLUTV PLAY 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png" group-title="001 DIZI",BLUTV PLAY 1 HD
@@ -197,8 +204,7 @@ http://dunya.moppie.info:7444/aminadaDAmminada5262/karyagSinansshem8455/28605
 
 
 #EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" tvg-name="Bein Movies Turk 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg" group-title="004 BeIN SINEMA",Bein Movies Turk 4K+
-http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/223
-
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/236515.ts
 
 #EXTINF:-1 tvg-id="beIN MOVIES STARS.tr" tvg-name="Bein Movies Stars 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Stars 
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/236516.ts
@@ -227,8 +233,11 @@ http://sine.x-purple.xyz:80/live/apocan@224/224@535/236522.ts
 
 
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="Moviesmart Turk 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/MovieSmart_Turk_TR_logo.png?1733490221" group-title="004 DSMART SINEMA",Moviesmart Turk 4K+
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/775.ts
+
 http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/216
 #EXTINF:-1 tvg-id="MovieSmart Classic.trr" tvg-name="Moviesmart Classic 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="004 DSMART SINEMA",Moviesmart Classic 4K+
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/769.ts
 http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/64828
 #EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="Moviesmart Action 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/moviesmartaction.jpg" group-title="004 DSMART SINEMA",Moviesmart Action 4K+
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2920&extension=m3u8
@@ -240,21 +249,27 @@ http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/66460
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Sinema Yerli 1 4K+" tvg-logo="https://www.superkablonet.com/yukleme/download/584.png" group-title="004 Tivibu SINEMA",Sinema Yerli  
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/13267.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170408&extension=m3u8
 
 #EXTINF:-1 tvg-id="Sinema.TV.Aile2.tr" tvg-name="Sinema Aile 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema Aile 
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/721.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89838&extension=m3u8
 
 #EXTINF:-1 tvg-id="Sinema.TV.tr" tvg-name="Sinema TV 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV 
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/9842.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89835&extension=m3u8
 
 #EXTINF:-1 tvg-id="Sinema.Aksiyon.tr" tvg-name="Sinema Aksion 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema Aksiyon 
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/816.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89839&extension=m3u8
 
 #EXTINF:-1 tvg-id="Sinema.1001.tr" tvg-name="Sinema TV 1001 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV 1001 
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/28586.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89837&extension=m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Sinema TV Comedy 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV Komedi
+http://sine.x-purple.xyz:80/live/apocan@224/224@535/28588.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170407&extension=m3u8
 
 
