@@ -78,7 +78,7 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7562ejox5fh4&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0p6z3kOBR2kgTOT4gUeXniJri0QlaRyu8g&s" group-title="002 ULUSAL",ATV 
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/703.ts
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
 http://stream.tvcdn.net/ulusal/atv.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u8
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="002 ULUSAL",SHOW TV 
@@ -90,7 +90,7 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 
 
 #EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="STAR TV HD+" tvg-logo="https://w7.pngwing.com/pngs/1021/682/png-transparent-star-tv-logo-television-show-television-channel-5-stars-miscellaneous-television-angle.png" group-title="002 ULUSAL",STAR TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+https://dogus-live.daioncdn.net/startv/playlist.m3u8?checkedby:iptvcat.com
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2855&extension=m3u8
 
@@ -120,7 +120,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TR: SHOW MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/512px-Show_MAX_logo.svg.png" group-title="002 ULUSAL",TR: SHOW MAX
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/121106.ts
+https://canlitvulusal.xyz/live/showmax/index.m3u8?checkedby:iptvcat.com
 https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Vav.Tv.tr" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="002 ULUSAL",VAV TV
