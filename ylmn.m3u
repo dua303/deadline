@@ -67,7 +67,7 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTTÜRK.tr" tvg-name="TRT Türk " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png" group-title="002 ULUSAL",TRT Türk 
 
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2823&extension=m3u8
+
 #EXTINF:-1 tvg-id="TRT.Belgesel.tr" tvg-name="TRT BELGESEL" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Belgesel-canli-izle-vipotv-en-kaliteli-belgesel-filmleri-burada.png" group-title="002 ULUSAL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/dmaxtv.png" group-title="002 ULUSAL",DMAX
