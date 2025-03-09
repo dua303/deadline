@@ -55,9 +55,10 @@ http://stream.tvcdn.net/yerel/tivi6.m3u8
 
 #EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJKB-PjVdsQnsoTjPrIgIcmNtc8gF7ft90g&s" group-title="002 ULUSAL",TRT 4K
 http://skerstarimhdkkdkdskjdjdkdskskskksksksjssjsjsj102092922929383838@tr.darbelimatkap77.xyz:8080/play/live.php?mac=00:1A:79:13:59:b3&stream=1841&extension=m3u8
-
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7326&extension=m3u8
+
 #EXTINF:-1 tvg-id="TRT.1.tr " tvg-name="TRT 1 " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="002 ULUSAL",TRT 1 
+https://tls.tc/NVECm
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2838&extension=m3u8
 #EXTINF:-1 tvg-id="TRT.2.tr " tvg-name="TRT 2 " tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="002 ULUSAL",TRT 2
