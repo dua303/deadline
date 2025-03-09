@@ -8,12 +8,7 @@ http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/12
 #EXTINF:-1 tvg-id="Dizi Smart Premium.tr" tvg-name="Premium Dizismart " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="001 DIZI",Premium Dizismart
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139908
 
-
-http://nxfntk7722.xyz:80/live/yigit3108/ftaYCpH9Lr/185.ts
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="DIZI SMART MAX" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/DIZISMART%20MAX.png" group-title="001 DIZI",DIZI SMART MAX
-
 http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/60119
 
 #EXTINF:-1 tvg-id="BBC First" tvg-name="TR: BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_First_Logo_2014.svg/200px-BBC_First_Logo_2014.svg.png" group-title="001 DIZI",TR: BBC First
@@ -36,9 +31,8 @@ http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="MELTEM TV.tr" tvg-name="MELTEM TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Meltem-TV-canli-yayin-vipotv.png" group-title="002 ULUSAL",MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Bir TV" tvg-logo="https://pbs.twimg.com/profile_images/1642157784220221444/0gJNz4mL_400x400.jpg" group-title="002 ULUSAL",Bir TV
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/352712.ts
 https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29977&extension=m3u8
+
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/360tv.png" group-title="002 ULUSAL",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/tv4-canli-izleyin-vipotv-turkiye.png" group-title="002 ULUSAL",TV 4
