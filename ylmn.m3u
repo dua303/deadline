@@ -258,7 +258,7 @@ ttp://sine.x-purple.xyz:80/live/apocan@224/224@535/682.ts
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2835&extension=m3u8
 
 #EXTINF:-1 tvg-id="Tarih.TV.tr" tvg-name="Tarih TV" tvg-logo="" group-title="005 BELGESEL",Tarih TV
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/224469.ts
+http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170403&extension=m3u8
 
 #EXTINF:-1 tvg-id="History Channel.tr" tvg-name="History Channel 4K+" tvg-logo="" group-title="005 BELGESEL",History Channel 4K+
@@ -312,7 +312,7 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170402&extension=m
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/121060.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TGRT Belgesel" tvg-logo="" group-title="005 BELGESEL",TGRT Belgesel
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/197424.ts
+http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2848&extension=m3u8
 
 
@@ -326,10 +326,10 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined?hash=7c197b6bafdc8d8cbf08be96e4235801
 
 #EXTINF:-1 tvg-id="AHABER.tr" tvg-name="A Haber" tvg-logo="https://w7.pngwing.com/pngs/625/571/png-transparent-turkey-a-haber-news-kablo-tv-trt-haber-others-television-text-trademark.png" group-title="006 HABER",A Haber 4K+
-https://cdn401.canlitv.vip/ahaber.m3u8?tkn=-XKgpU74rXt12CLTeH7ulg&tms=1740425391&hst=tv.canlitv.vip&ip=45.11.202.86
+http://stream.tvcdn.net/haber/a-haber.m3u8
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://banner2.cleanpng.com/20180906/qrr/kisspng-logo-product-design-brand-font-trkiyenin-ve-dnyann-lk-nsans-robot-5b912b837cf801.0492455115362405155119.jpg" group-title="006 HABER",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV 4K+" tvg-logo="https://w7.pngwing.com/pngs/548/607/png-transparent-ntv-hd-logo-thumbnail.png" group-title="006 HABER",NTV 4K+
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK 4K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicoCNyTXd457xrVJrutJyEXzJYYgFW1Ci6Q&s" group-title="006 HABER",CNN TÜRK 4K+
@@ -337,12 +337,14 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3006&extension=m3u
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/1200px-Habert%C3%BCrk_TV_logo.svg.png" group-title="006 HABER",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/2560px-Haber_Global_logo.svg.png" group-title="006 HABER",Haber Global 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=48946&extension=m3u8
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="006 HABER",TGRT Haber 
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="AKİT TV.tr" tvg-name="Akit TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/cf/Akit_TV.png/640px-Akit_TV.png" group-title="006 HABER",Akit TV
+http://stream.tvcdn.net/haber/akit-tv.m3u8
 https://akittv-live.ercdn.net/akittv/akittv_720p-1740410531.ts
+
 #EXTINF:-1 tvg-id="24 TV.tr" tvg-name="24 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png" group-title="006 HABER",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
@@ -382,7 +384,7 @@ https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Mavi Karadeniz" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_103.png?v=15" group-title="006 HABER",Mavi Karadeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ULUSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png" group-title="006 HABER",ULUSAL TV
-https://cdn900.canlitv.vip/ulusal.m3u8?tkn=P-M9dbY-hhMOYO5kKyDrHQ&tms=1740425781&hst=tv.canlitv.vip&ip=45.11.202.86
+http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Lider TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPetOFCn_nsYX6EVJwnZujeJFxlUHLm-Htgw&s" group-title="006 HABER",Lider TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740435241/ei/yZq8Z9nSGvCAi9oPvff9gAU/ip/92.205.0.142/id/UzE6cBqu3KU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51357423/txs/51357422%2C51357423%2C51357424/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3x-dPriPN61vLK_bA1UcS3YkhMbwFrwodn_Zq-IZ4Czo1Xq7pz6Y4PlbdxiBnxhzrC9noM1S40X/spc/RjZbSSEZcnu6WfHrhV1MlJ6HH4AEd26Zb4Fgied7uZQM309JzvQPIi_i4BbTK6bbKiYFrfw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgW1TaDZPA5mEsu772M7r_BxZV-FoKiquhmQBAueiwPV8CIQDZK5UZ8lyFfh19DRYbuvCgcGHaSfrI7jo2vkkYj0qw1Q%3D%3D/file/index.m3u8
 
