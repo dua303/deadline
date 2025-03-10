@@ -9,7 +9,7 @@ http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/12
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/15714
 
 #EXTINF:-1 tvg-id="ext" tvg-name="DIZI SMART MAX" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/DIZISMART%20MAX.png" group-title="001 DIZI",DIZI SMART MAX
-http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/60119
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/32147
 
 #EXTINF:-1 tvg-id="BBC First" tvg-name="TR: BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_First_Logo_2014.svg/200px-BBC_First_Logo_2014.svg.png" group-title="001 DIZI",TR: BBC First
 http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/16546
@@ -203,11 +203,11 @@ http://sine.x-purple.xyz:80/live/apocan@224/224@535/236522.ts
 
 
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="Moviesmart Turk 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/MovieSmart_Turk_TR_logo.png?1733490221" group-title="004 DSMART SINEMA",Moviesmart Turk  
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/775.ts
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1780
 http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/216
 
 #EXTINF:-1 tvg-id="MovieSmart Classic.trr" tvg-name="Moviesmart Classic 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="004 DSMART SINEMA",Moviesmart Classic  
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/769.ts
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1773
 http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/64828
 
 
@@ -272,11 +272,11 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=147434&extension=m
 http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/784.ts
 
 #EXTINF:-1 tvg-id="BBC EARTH.tr" tvg-name="BBC Earth HD" tvg-logo="" group-title="005 BELGESEL",BBC Earth HD
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/704.ts
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/8238
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=99747&extension=m3u8
 
 #EXTINF:-1 tvg-id="beIN IZ.tr" tvg-name="Bein IZ TV 4K" tvg-logo="" group-title="005 BELGESEL",Bein IZ TV 4K
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/20838.ts
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1806
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3047&extension=m3u8
 
 #EXTINF:-1 tvg-id="beIN GURME.tr" tvg-name="Bein Gurme 4K" tvg-logo="" group-title="005 BELGESEL",Bein Gurme 4K
