@@ -351,7 +351,7 @@ https://akittv-live.ercdn.net/akittv/akittv_720p-1740410531.ts
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ulke TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/1/11/20160213104459%21%C3%9Clke_TV_Logosu.png" group-title="006 HABER",Ulke TV
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2801&extension=m3u8
+http://stream.tvcdn.net/haber/ulke-tv.m3u8
 
 #EXTINF:-1 tvg-id="EKOTÃœRK.tr" tvg-name="Eko Türk TV" tvg-logo="https://yt3.googleusercontent.com/6Wg3Dm6OhIf13vjnvW9OZE0gP3LwMMkdgtmsyl1ZtQTTl5kvy-sFNtgmaN0g68I1vpn6gLdo5w=s900-c-k-c0x00ffffff-no-rj" group-title="006 HABER",Eko Türk TV
 https://cdn401.canlitv.vip/ekoturktv.m3u8?tkn=QvAk-j4Q3xx-pvp27c3XZg&tms=1740425305&hst=tv.canlitv.vip&ip=45.11.202.86
@@ -373,7 +373,7 @@ https://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Tele 1" tvg-logo="https://w7.pngwing.com/pngs/842/3/png-transparent-tele1-television-turkey-turksat-news-others-television-text-trademark.png" group-title="006 HABER",Tele 1
 http://stream.tvcdn.net/haber/tele-1.m3u8
 #EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="Krt TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/KRT_Logo_2023.webp" group-title="006 HABER",Krt TV 4K
-http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/38461.ts
+http://stream.tvcdn.net/haber/krt-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Flash TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/75/Flash_haber_logo.jpeg" group-title="006 HABER",Flash TV 4K
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 #EXTINF:-1 tvg-id="Halk TV TR" tvg-name="Halk TV 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="006 HABER",Halk TV 
