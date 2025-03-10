@@ -161,7 +161,8 @@ https://yayin1.canlitv.fun/canlitv/ilketv.stream/chunklist_w653208281.m3u8?hash=
 http://stream.tvcdn.net/yerel/kanal-v.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Engelsiz TV" tvg-logo="https://www.engelsiztv.com.tr/wp-content/uploads/2025/01/engelsiz-logoyeni.jpg" group-title="003 YEREL",Engelsiz TV
 https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist_w1229441475.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" tvg-name="Torba TV" group-title="003 YEREL",Torba TV
+http://stream.tvcdn.net/kibris/torba-tv.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="MEGA TV SABAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/1200px-Mega_TV_logo_2016.svg.png" group-title="004 SINEMA",MEGA TV SABAN
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
