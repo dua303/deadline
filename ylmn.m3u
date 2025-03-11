@@ -171,6 +171,7 @@ http://stream.tvcdn.net/kibris/torba-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.daktilo.com/sites/1525/uploads/2023/11/28/large/desktop.png" tvg-name="GRT" group-title="003 YEREL",GRT   
 https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8?nimblesessionid=5493457494  
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.multicms.info/tvlogo/frttv.jpg" tvg-name="FRT" group-title="003 YEREL",FRT 
+
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8  
 
 #EXTINF:-1 tvg-id="ext" tvg-name="MEGA TV SABAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/1200px-Mega_TV_logo_2016.svg.png" group-title="004 SINEMA",MEGA TV SABAN
