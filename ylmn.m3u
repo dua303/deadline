@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EPIC.DRAMA.tr" tvg-name="Epic Drama" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png" group-title="001 DIZI",Epic Drama
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50426
-http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/50426
 
 #EXTINF:-1 tvg-id="FX.tr" tvg-name="Fx HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png" group-title="001 DIZI",Fx HD
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/12
@@ -13,7 +12,7 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/15714
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/32147
 
 #EXTINF:-1 tvg-id="BBC First" tvg-name="TR: BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_First_Logo_2014.svg/200px-BBC_First_Logo_2014.svg.png" group-title="001 DIZI",TR: BBC First
-https://tls.tc/uYtrn
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/165462
 http://189288.performservers.cz:80/CagriErsoy5800/2z6gk71rv4/16546
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TR:BLUTV PLAY 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png" group-title="001 DIZI",BLUTV PLAY 1 HD
@@ -107,7 +106,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TR: SHOW MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/512px-Show_MAX_logo.svg.png" group-title="002 ULUSAL",TR: SHOW MAX
-http://stream.tvcdn.net/eglence/show-max.m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/31363
 
 #EXTINF:-1 tvg-id="Vav.Tv.tr" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="002 ULUSAL",VAV TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
@@ -206,12 +205,10 @@ http://sine.x-purple.xyz:80/live/apocan@224/224@535/236522.ts
 
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="Moviesmart Turk 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/MovieSmart_Turk_TR_logo.png?1733490221" group-title="004 DSMART SINEMA",Moviesmart Turk  
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1780
-http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/216
+
 
 #EXTINF:-1 tvg-id="MovieSmart Classic.trr" tvg-name="Moviesmart Classic 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="004 DSMART SINEMA",Moviesmart Classic  
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1773
-http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/64828
-
 
 #EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="Film Screen" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" group-title="004 DSMART SINEMA",Film Screen  
 http://134432.universalx.eu:80/Yasemin28Kaya/38t359vgpv/66460
@@ -369,7 +366,7 @@ https://cdn406.canlitv.vip/bloomberght.m3u8?tkn=e1Sy_ZpWCbnsfzeGppcDOw&tms=17404
 https://yayin30.haber100.com/live/finansturk/chunklist_w1088819646.m3u8
 
 #EXTINF:-1 tvg-id="A PARA.tr" tvg-name="A Para 4K" tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA" group-title="006 HABER",A Para 4K
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=29844&extension=m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50841
 #EXTINF:-1 tvg-id="ext" tvg-name="TvDen" tvg-logo="https://tvden.com.tr/media/denge/TUolmqfbupYWUDOymOenfreAjISJQPJZMLIXrvbXshdupHCh.png" group-title="006 HABER",TvDen
 https://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Tele 1" tvg-logo="https://w7.pngwing.com/pngs/842/3/png-transparent-tele1-television-turkey-turksat-news-others-television-text-trademark.png" group-title="006 HABER",Tele 1
