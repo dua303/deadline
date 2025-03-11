@@ -321,7 +321,7 @@ http://stream.tvcdn.net/haber/a-haber.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV 4K+" tvg-logo="https://w7.pngwing.com/pngs/548/607/png-transparent-ntv-hd-logo-thumbnail.png" group-title="006 HABER",NTV 4K+
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK 4K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicoCNyTXd457xrVJrutJyEXzJYYgFW1Ci6Q&s" group-title="006 HABER",CNN TÜRK 4K+
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK 4K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicoCNyTXd457xrVJrutJyEXzJYYgFW1Ci6Q&s" group-title="006 HABER",CNN TÜRK  
 http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/1200px-Habert%C3%BCrk_TV_logo.svg.png" group-title="006 HABER",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
