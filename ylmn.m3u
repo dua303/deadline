@@ -247,68 +247,54 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/168
 
 
 
-#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC 4K+" tvg-logo="" group-title="005 BELGESEL",TLC 4K+
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/679.ts
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2840&extension=m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC 4K+" tvg-logo="" group-title="005 BELGESEL",TLC   
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/14  
 
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX 4K+" tvg-logo="" group-title="005 BELGESEL",DMAX 4K+
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/692.ts
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=31320&extension=m3u8
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX 4K+" tvg-logo="" group-title="005 BELGESEL",DMAX   
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/274  
 
-#EXTINF:-1 tvg-id="TRT BELGESEL.tr" tvg-name="TRT Belgesel 4K+" tvg-logo="" group-title="005 BELGESEL",TRT Belgesel 4K+
-ttp://sine.x-purple.xyz:80/live/apocan@224/224@535/682.ts
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2835&extension=m3u8
+#EXTINF:-1 tvg-id="TRT BELGESEL.tr" tvg-name="TRT Belgesel 4K+" tvg-logo="" group-title="005 BELGESEL",TRT Belgesel   
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50847  
 
-#EXTINF:-1 tvg-id="Tarih.TV.tr" tvg-name="Tarih TV" tvg-logo="" group-title="005 BELGESEL",Tarih TV
-http://stream.tvcdn.net/eglence/tarih-tv.m3u8
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170403&extension=m3u8
+#EXTINF:-1 tvg-id="Tarih.TV.tr" tvg-name="Tarih TV" tvg-logo="" group-title="005 BELGESEL",Tarih TV  
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/140595  
 
-#EXTINF:-1 tvg-id="History Channel.tr" tvg-name="History Channel 4K+" tvg-logo="" group-title="005 BELGESEL",History Channel 4K+
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/92715.ts
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2964&extension=m3u8
+#EXTINF:-1 tvg-id="History Channel.tr" tvg-name="History Channel 4K+" tvg-logo="" group-title="005 BELGESEL",History Channel 
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/278
 
-#EXTINF:-1 tvg-id="Viasat.History.tr" tvg-name="Viasat History HD+" tvg-logo="" group-title="005 BELGESEL",Viasat History HD+
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/784.ts
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=147434&extension=m3u8
-http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/784.ts
+#EXTINF:-1 tvg-id="Viasat.History.tr" tvg-name="Viasat History HD+" tvg-logo="" group-title="005 BELGESEL",Viasat History   
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/47970  
 
-#EXTINF:-1 tvg-id="BBC EARTH.tr" tvg-name="BBC Earth HD" tvg-logo="" group-title="005 BELGESEL",BBC Earth HD
+#EXTINF:-1 tvg-id="BBC EARTH.tr" tvg-name="BBC Earth HD" tvg-logo="" group-title="005 BELGESEL",BBC Earth HD  
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/8238
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=99747&extension=m3u8
 
-#EXTINF:-1 tvg-id="beIN IZ.tr" tvg-name="Bein IZ TV 4K" tvg-logo="" group-title="005 BELGESEL",Bein IZ TV 4K
+
+#EXTINF:-1 tvg-id="beIN IZ.tr" tvg-name="Bein IZ TV 4K" tvg-logo="" group-title="005 BELGESEL",Bein IZ TV 
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1806
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3047&extension=m3u8
 
-#EXTINF:-1 tvg-id="beIN GURME.tr" tvg-name="Bein Gurme 4K" tvg-logo="" group-title="005 BELGESEL",Bein Gurme 4K
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/21749.ts
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=31314&extension=m3u8
+#EXTINF:-1 tvg-id="beIN GURME.tr" tvg-name="Bein Gurme 4K" tvg-logo="" group-title="005 BELGESEL",Bein Gurme   
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/271  
 
-#EXTINF:-1 tvg-id="Da Vinci Learning.tr" tvg-name="Da Vinci 4K" tvg-logo="" group-title="005 BELGESEL",Da Vinci 4K
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/121107.ts
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=31317&extension=m3u8
+#EXTINF:-1 tvg-id="Da Vinci Learning.tr" tvg-name="Da Vinci 4K" tvg-logo="" group-title="005 BELGESEL",Da Vinci   
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/253  
 
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.tr" tvg-name="Discovery Channel HD" tvg-logo="" group-title="005 BELGESEL",Discovery Channel HD
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/766.ts
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3004&extension=m3u8
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.tr" tvg-name="Discovery Channel HD" tvg-logo="" group-title="005 BELGESEL",Discovery Channel  
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/264  
 
-#EXTINF:-1 tvg-id="ext" tvg-name="ID HD 4K+" tvg-logo="" group-title="005 BELGESEL",ID HD 4K+
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/121059.ts
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7429&extension=m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ID HD 4K+" tvg-logo="" group-title="005 BELGESEL",ID    
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/261  
 
-#EXTINF:-1 tvg-id="Love Nature.tr" tvg-name="Love Nature 4K+" tvg-logo="" group-title="005 BELGESEL",Love Nature 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2904&extension=m3u8
+#EXTINF:-1 tvg-id="Love Nature.tr" tvg-name="Love Nature 4K+" tvg-logo="" group-title="005 BELGESEL",Love Nature   
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50428  
 
-#EXTINF:-1 tvg-id=""NATIONAL GEOGRAPHIC HD.tr" tvg-name="National Geo HD" tvg-logo="" group-title="005 BELGESEL",National Geo HD
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/758.ts
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2902&extension=m3u8
+#EXTINF:-1 tvg-id=""NATIONAL GEOGRAPHIC HD.tr" tvg-name="National Geo HD" tvg-logo="" group-title="005 BELGESEL",National Geo HD  
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/286  
 
-#EXTINF:-1 tvg-id="NAT.GEO.WILD.tr" tvg-name="Nat Geo Wild 4K+" tvg-logo="" group-title="005 BELGESEL",Nat Geo Wild 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2903&extension=m3u8
+#EXTINF:-1 tvg-id="NAT.GEO.WILD.tr" tvg-name="Nat Geo Wild 4K+" tvg-logo="" group-title="005 BELGESEL",Nat Geo Wild 
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/282  
 
-#EXTINF:-1 tvg-id="VIASAT EXPLORE.tr" tvg-name="Viasat Explorer HD" tvg-logo="" group-title="005 BELGESEL",Viasat Explorer HD
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/139272.ts
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170402&extension=m3u8
+#EXTINF:-1 tvg-id="VIASAT EXPLORE.tr" tvg-name="Viasat Explorer HD" tvg-logo="" group-title="005 BELGESEL",Viasat Explorer   
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234449  
 
 #EXTINF:-1 tvg-id="" tvg-name="Viasat Nature" tvg-logo="http://logo1010.com/news/nature-hd.png" group-title="005 BELGESEL",Viasat Nature 
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/121060.ts
