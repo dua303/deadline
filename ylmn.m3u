@@ -31,8 +31,10 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teleonmediagroups.flv
   
 http://134432.universalx.eu:80/rozibaruh/LazESF1SUc/254694
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
-#EXTINF:-1 tvg-id="MELTEM TV.tr" tvg-name="MELTEM TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Meltem-TV-canli-yayin-vipotv.png" group-title="002 ULUSAL",MELTEM TV
+#EXTINF:-1 tvg-id="MELTEM TV.tr" tvg-name="MELTEM TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Meltem-TV-canli-yayin-vipotv.png" group-title="002 ULUSAL",MELTEM TV  
+
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Bir TV" tvg-logo="https://pbs.twimg.com/profile_images/1642157784220221444/0gJNz4mL_400x400.jpg" group-title="002 ULUSAL",Bir TV
 https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
 
