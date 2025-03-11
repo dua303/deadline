@@ -167,8 +167,8 @@ http://stream.tvcdn.net/yerel/kanal-v.m3u8
 https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist_w1229441475.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" tvg-name="Torba TV" group-title="003 YEREL",Torba TV  
 http://stream.tvcdn.net/kibris/torba-tv.m3u8  
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.daktilo.com/sites/1525/uploads/2023/11/28/large/desktop.png" tvg-name="GRT" group-title="003 YEREL",GRT 
-https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.daktilo.com/sites/1525/uploads/2023/11/28/large/desktop.png" tvg-name="GRT" group-title="003 YEREL",GRT   
+https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8?nimblesessionid=5493457494  
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.multicms.info/tvlogo/frttv.jpg" tvg-name="FRT" group-title="003 YEREL",FRT 
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8  
 
