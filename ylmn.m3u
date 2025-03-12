@@ -225,7 +225,7 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1780
 #EXTINF:-1 tvg-id="MovieSmart Classic.trr" tvg-name="Moviesmart Classic 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="004 DSMART SINEMA",Moviesmart Classic  
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1773
 
-#EXTINF:-1 tvg-id="moviesmartaction.tr" tvg-name="Film Screen" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" group-title="004 DSMART SINEMA",Film Screen  
+#EXTINF:-1 tvg-id="FILMSCREEN.tr" tvg-name="Film Screen" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" group-title="004 DSMART SINEMA",Film Screen  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/66460  
 
 
@@ -251,7 +251,7 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/167
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/164  
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Sinema TV Comedy 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV Komedi  
+#EXTINF:-1 tvg-id="Sinema.Komedi.tr" tvg-name="Sinema TV Comedy 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV Komedi  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/168  
 
 
@@ -349,7 +349,7 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="006 HABER",TGRT Haber 
 https://canli.tgrthaber.com/tgrt.m3u8  
 
-#EXTINF:-1 tvg-id="AKİT TV.tr" tvg-name="Akit TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/cf/Akit_TV.png/640px-Akit_TV.png" group-title="006 HABER",Akit TV    
+#EXTINF:-1 tvg-id="Akit.tr" tvg-name="Akit TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/cf/Akit_TV.png/640px-Akit_TV.png" group-title="006 HABER",Akit TV    
   
 https://akittv-live.ercdn.net/akittv/akittv_480p.m3u8  
 https://akittv-live.ercdn.net/akittv/akittv_720p-1740410531.ts  
@@ -388,22 +388,22 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/232358
 #EXTINF:-1 tvg-id="ext" tvg-name="Flash TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/75/Flash_haber_logo.jpeg" group-title="006 HABER",Flash TV   
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8  
 
-#EXTINF:-1 tvg-id="Halk TV TR" tvg-name="Halk TV 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="006 HABER",Halk TV   
+#EXTINF:-1 tvg-id="Halk.TV.tr" tvg-name="Halk TV 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="006 HABER",Halk TV   
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=751s8s9ogjc3&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3hhaber-live.ercdn.net/flashhaber/flashhaber_720p.m3u8  
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Sözcü TV 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="006 HABER",Sözcü TV  
+#EXTINF:-1 tvg-id="SZC.tr" tvg-name="Sözcü TV 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="006 HABER",Sözcü TV  
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8  
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TV 100 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="006 HABER",TV 100   
+#EXTINF:-1 tvg-id="tv.100.tr" tvg-name="TV 100 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="006 HABER",TV 100   
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Mavi Karadeniz" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_103.png?v=15" group-title="006 HABER",Mavi Karadeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8  
 
-#EXTINF:-1 tvg-id="ext" tvg-name="ULUSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png" group-title="006 HABER",ULUSAL TV  
+#EXTINF:-1 tvg-id="Ulusal.1.tr" tvg-name="ULUSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png" group-title="006 HABER",ULUSAL TV  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/6  
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Lider TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPetOFCn_nsYX6EVJwnZujeJFxlUHLm-Htgw&s" group-title="006 HABER",Lider TV  
+#EXTINF:-1 tvg-id="Lider.Haber.tr" tvg-name="Lider TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPetOFCn_nsYX6EVJwnZujeJFxlUHLm-Htgw&s" group-title="006 HABER",Lider TV  
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740435241/ei/yZq8Z9nSGvCAi9oPvff9gAU/ip/92.205.0.142/id/UzE6cBqu3KU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51357423/txs/51357422%2C51357423%2C51357424/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3x-dPriPN61vLK_bA1UcS3YkhMbwFrwodn_Zq-IZ4Czo1Xq7pz6Y4PlbdxiBnxhzrC9noM1S40X/spc/RjZbSSEZcnu6WfHrhV1MlJ6HH4AEd26Zb4Fgied7uZQM309JzvQPIi_i4BbTK6bbKiYFrfw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgW1TaDZPA5mEsu772M7r_BxZV-FoKiquhmQBAueiwPV8CIQDZK5UZ8lyFfh19DRYbuvCgcGHaSfrI7jo2vkkYj0qw1Q%3D%3D/file/index.m3u8
 
 
