@@ -74,7 +74,7 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV 8 HD" tvg-logo="https://www.campaigntr.com/wp-content/uploads/2014/09/tv8-logo.png" group-title="002 ULUSAL",TV 8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7562ejox5fh4&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0p6z3kOBR2kgTOT4gUeXniJri0QlaRyu8g&s" group-title="002 ULUSAL",ATV 
+#EXTINF:-1 tvg-id="Atv.tr" tvg-name="ATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0p6z3kOBR2kgTOT4gUeXniJri0QlaRyu8g&s" group-title="002 ULUSAL",ATV 
 http://stream.tvcdn.net/ulusal/atv.m3u8
 
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="002 ULUSAL",SHOW TV 
