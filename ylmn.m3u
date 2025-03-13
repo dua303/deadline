@@ -436,6 +436,9 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/6
 #EXTINF:-1 tvg-id="Lider.Haber.tr" tvg-name="Lider TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPetOFCn_nsYX6EVJwnZujeJFxlUHLm-Htgw&s" group-title="006 HABER",Lider TV  
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ISTANBUL TV" tvg-logo="" group-title="006 HABER",ISTANBUL TV
+https://stream.castr.com/6606b96e9fa9fb790a255296/live_0303bec01eac11efa26bbdf96dc3f28e/tracks-v1/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Cocuk" tvg-logo="" group-title="007 COCUK",Trt Cocuk
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2833&extension=m3u8
 #EXTINF:-1 tvg-id="babytv.tr" tvg-name="Baby TV" tvg-logo="" group-title="007 COCUK",Baby TV
@@ -524,6 +527,9 @@ https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",KK TV
 http://old.kuzeykibris.tv/m3u8/kktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="011 TURK",SILKWAY 
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/silkway.m3u8
 
 
 
