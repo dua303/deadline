@@ -189,7 +189,7 @@ https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="003 YEREL",Kanal 19
 http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="İlke TV" tvg-logo="http://assets.tvcdn.net/bb28dc1a-2368-4482-ab3a-020bb953fae9.png" group-title="003 YEREL",İlke TV    
+#EXTINF:-1 tvg-id="ext" tvg-name="İlke TV" tvg-logo="http://assets.tvcdn.net/bb28dc1a-2368-4482-ab3a-020bb953fae9.png" group-title="003 YEREL",İlke TV<
 
 https://yayin1.canlitv.fun/canlitv/ilketv.stream/chunklist_w1070477516.m3u8?hash=b6f04e0ceace52ec2fc6ee88f76cab9b  
 
