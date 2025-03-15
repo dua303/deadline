@@ -488,13 +488,13 @@ http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200636.ts
 #EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="Bein Sports 3 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 3 HD
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200639.ts
 #EXTINF:-1 tvg-id="beINSPORTSHD4.tr" tvg-name="Bein Sports 4 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 4 HD
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/81
+http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200641.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports 5 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 5 HD
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200643.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 1 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 1 4K+
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/80
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 2 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 2 4K+
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/78
+#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 1 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 1 
+http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200644.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 2 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 2 
+http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200645.ts
 
 
 
@@ -539,6 +539,7 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png" group-title="010 MUZIK",POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="010 MUZIK",Muzika
 https://st2.mediabay.tv/KTRK-Muzika/tracks-v1a1/mono.m3u8?token=c20e62e45ee006d1dc44810b9761cdafd7561736-f0cddd772c690220e581efd586f3551d-1742053648-1742042848
 #EXTINF:-1 tvg-logo="" group-title="010 MUZIK",Tajik Muzic
