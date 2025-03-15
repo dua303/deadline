@@ -210,6 +210,11 @@ https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
 https://cdn4.yayin.com.tr/tytturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRsfyb2/tvmor.png" group-title="003 YEREL",MOR TV
 https://live.euromediacenter.com/tvmor/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="003 YEREL",BRÜKSEL TÜRK
+https://live.euromediacenter.com/brukselturk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="003 YEREL",BALKAN TÜRK
+https://live.euromediacenter.com/balkanturktv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="MEGA TV SABAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/1200px-Mega_TV_logo_2016.svg.png" group-title="004 SINEMA",MEGA TV SABAN
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
@@ -495,13 +500,60 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/78
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="" group-title="010 MUZIK",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="010 MUZIK",EZGİ TV
+https://live.euromediacenter.com/ezgitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="010 MUZIK",KRAL - KRAL POP
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="010 MUZIK",DREAM TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="010 MUZIK",POWER TÜRK
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="010 MUZIK",POWER TÜRK TAPTAZE
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="010 MUZIK",POWER TÜRK SLOW
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="010 MUZIK",POWER TÜRK AKUSTİK
+http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="010 MUZIK",NUMBER ONE TÜRK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg" group-title="010 MUZIK",NUMBER ONE TÜRK ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="010 MUZIK",NUMBER ONE TÜRK DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg" group-title="010 MUZIK",NUMBER ONE TÜRK DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png" group-title="010 MUZIK",NUMBER ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="010 MUZIK",POWER TV
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVNL477/pdance.png" group-title="010 MUZIK",POWER DANCE
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png" group-title="010 MUZIK",POWER LOVE
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="010 MUZIK",Muzika
+https://st2.mediabay.tv/KTRK-Muzika/tracks-v1a1/mono.m3u8?token=c20e62e45ee006d1dc44810b9761cdafd7561736-f0cddd772c690220e581efd586f3551d-1742053648-1742042848
+#EXTINF:-1 tvg-logo="" group-title="010 MUZIK",Tajik Muzic
+https://st2.mediabay.tv/Mediabay-TJ/tracks-v3a1/mono.m3u8?token=3b65950a7a5bbb9685209bbb9954ef79f4685dc5-9046b142ca41e99402e59dd7ff287755-1742053763-1742042963
+#EXTINF:-1 tvg-logo="" group-title="010 MUZIK",Navo
+https://st2.mediabay.tv/Navo/tracks-v2a1/mono.m3u8?token=aefa4777e499f88f0ba71a2dc2c44bf8a43bb27b-65fd4a89e5503485a5b8637853f925c5-1742053968-1742043168
+#EXTINF:-1 tvg-logo="" group-title="010 MUZIK",Uzbek Music
+https://st2.mediabay.tv/NavoiyTV/tracks-v1a1/mono.m3u8?token=cc599870fa2f206e0573ffc92f2fc2e4d40bd8e3-40e2fe7b367ea91216285fcb51c8a8bd-1742054041-1742043241
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="BIZ TV MUSIC" tvg-logo="https://www.parsatv.com/index_files/channels/bizmusic.jpg" group-title="010 MUZIK",BIZ TV MUSIC
 https://fl.biztv.media/music_480_FbLnBjkOoclIXBLHLbLTuwFOKaihFS/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="011 TURK",TÜRKMENELİ TV
+https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Art TV" tvg-logo="https://www.atr.ua/public/common/logo_atr.svg" group-title="011 TURK",Art TV
 https://atr-live.cdn-02.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8?_=1738939187
 
