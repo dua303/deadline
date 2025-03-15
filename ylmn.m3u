@@ -438,53 +438,59 @@ http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 https://stream.castr.com/6606b96e9fa9fb790a255296/live_0303bec01eac11efa26bbdf96dc3f28e/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Cocuk" tvg-logo="" group-title="007 COCUK",Trt Cocuk
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2833&extension=m3u8
-#EXTINF:-1 tvg-id="babytv.tr" tvg-name="Baby TV" tvg-logo="" group-title="007 COCUK",Baby TV
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3051&extension=m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/308
+#EXTINF:-1 tvg-id="ext" tvg-name="Diyanet Cocuk 4K" tvg-logo="" group-title="007 COCUK",Diyanet Cocuk 4K
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/244105
 #EXTINF:-1 tvg-id="DisneyJunior.tr" tvg-name="Disney JR" tvg-logo="" group-title="007 COCUK",Disney JR
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=9304&extension=m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/291
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="Baby TV" tvg-logo="" group-title="007 COCUK",Baby TV
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/295
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Nick JR" tvg-logo="" group-title="007 COCUK",Nick JR
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=9303&extension=m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/297
 #EXTINF:-1 tvg-id="ext" tvg-name="Moonbug" tvg-logo="" group-title="007 COCUK",Moonbug
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170411&extension=m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Cartoonito" tvg-logo="" group-title="007 COCUK",Cartoonito
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170410&extension=m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/15020
 #EXTINF:-1 tvg-id="ext" tvg-name="Minika Go" tvg-logo="" group-title="007 COCUK",Minika Go
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2922&extension=m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/304
 #EXTINF:-1 tvg-id="ext" tvg-name="Cbeebies HD" tvg-logo="" group-title="007 COCUK",Cbeebies HD
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7431&extension=m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/31473
 #EXTINF:-1 tvg-id="ext" tvg-name="Minika Cocuk" tvg-logo="" group-title="007 COCUK",Minika Cocuk
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2923&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Disney Channel" tvg-logo="" group-title="007 COCUK",Disney Channel
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3001&extension=m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/306
+
 #EXTINF:-1 tvg-id="Nickelodeon.tr" tvg-name="Nickelodeon HD" tvg-logo="" group-title="007 COCUK",Nickelodeon HD
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2900&extension=m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/298
 #EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network" tvg-logo="" group-title="007 COCUK",Cartoon Network
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3011&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Diyanet Cocuk 4K" tvg-logo="" group-title="007 COCUK",Diyanet Cocuk 4K
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=159340&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Hz Muhammet (S.A.V)" tvg-logo="https://w7.pngwing.com/pngs/393/835/png-transparent-arabic-script-mecca-islam-prophet-durood-blue-hz-muhammad-miscellaneous-purple-text-thumbnail.png" group-title="008 DINI",Hz Muhammet (S.A.V)
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181145&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Kur*an-ı Kerim 1" tvg-logo="https://t3.ftcdn.net/jpg/02/69/64/56/360_F_269645677_oAjFKkNrezyIeJ6TmawcwEmERIXlQgi5.jpg" group-title="008 DINI",Kur*an-ı Kerim 1
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181073&extension=m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Kur*an-ı Kerim Meal" tvg-logo="https://png.pngtree.com/png-clipart/20220118/ourmid/pngtree-muslim-logo-design-with-quran-and-mosque-png-image_4335861.png" group-title="008 DINI",Kur*an-ı Kerim Meal
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181074&extension=m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/301
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL COCUK" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="007 COCUK",TR: UNIVERSAL COCUK
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/222340
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL DISNEY" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="007 COCUK",TR: UNIVERSAL DISNEY
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/64153
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: AZOOMEE TV" tvg-logo="https://logo.multicms.info/tvlogo/azoomee.jpg" group-title="007 COCUK",TR: AZOOMEE TV
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/271328
+#EXTINF:0 user-agent="Firefox" tvg-id="NICKTOONS" tvg-name="TR: NICKTOONS" tvg-logo="https://logo.multicms.info/tvlogo/nicktoons.png" group-title="007 COCUK",TR: NICKTOONS
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234450
+#EXTINF:0 user-agent="Firefox" tvg-id="DUCKTV" tvg-name="TR: DUCK TV" tvg-logo="https://logo.multicms.info/tvlogo/duck.png" group-title="007 COCUK",TR: DUCK TV
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234451
+
+
+
 #EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 1 HD
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=35701&extension=m3u8
+http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200630.ts
 #EXTINF:-1 tvg-id="beINSPORTSHD2.tr" tvg-name="Bein Sports 2 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 2 HD
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3032&extension=m3u8
+http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200636.ts
 #EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="Bein Sports 3 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 3 HD
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3022&extension=m3u8
+http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200639.ts
 #EXTINF:-1 tvg-id="beINSPORTSHD4.tr" tvg-name="Bein Sports 4 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 4 HD
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3028&extension=m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/81
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports 5 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 5 HD
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=136249&extension=m3u8
+http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200643.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 1 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 1 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174907&extension=m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/80
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 2 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 2 4K+
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=174908&extension=m3u8
-#EXTINF:-1 tvg-id="beINSPORTMAX2.TR" tvg-name="Bein Sports Max 2 4K" tvg-logo="" group-title="009 SPOR",Bein Sports Max 2 4K
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=7556&extension=m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/78
+
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="" group-title="010 MUZIK",TRT MUZIK
