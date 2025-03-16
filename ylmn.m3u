@@ -141,8 +141,7 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_0.m3u8
 #EXTINF:-1 tvg-id="TGRT.Haber.tr" tvg-name="TGRT EU" tvg-logo="" group-title="002 ULUSAL",TGRT EU
 http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Tivi Türk" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="003 YEREL",Tivi Türk  
-
+#EXTINF:-1 tvg-id="ext"  tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="003 YEREL",TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8?checkedby:iptvcat.com
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 
@@ -163,13 +162,13 @@ http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Süper 7 TV" tvg-logo="http://assets.tvcdn.net/94505dd8-b52d-4b4d-b1e4-9fda2829ed57.png" group-title="003 YEREL",Süper 7 TV
 http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TV 25" tvg-logo="http://assets.tvcdn.net/81f002fb-a59f-480e-9aa0-91b096ab491e.png" group-title="003 YEREL",TV 25  
 
+#EXTINF:-1 tvg-id="ext"  tvg-logo="http://assets.tvcdn.net/81f002fb-a59f-480e-9aa0-91b096ab491e.png" group-title="003 YEREL",TV25
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
 http://stream.tvcdn.net/yerel/tv-25.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Kanal G" tvg-logo="http://assets.tvcdn.net/904d01fa-01cb-4f2d-9b8e-784061c29d00.png" group-title="003 YEREL",Kanal G      
- 
+    
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://assets.tvcdn.net/904d01fa-01cb-4f2d-9b8e-784061c29d00.png" group-title="003 YEREL", KANAL G
 https://radyotelekomtv.com/player/m3u8/909b4a1658eee6d92c395f282ae2ce2f/chunklist_w1440333624.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ONDE TV" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bigclt2zf6hcv5c6vlzx" group-title="003 YEREL",ONDE TV
@@ -201,8 +200,7 @@ http://stream.tvcdn.net/kibris/torba-tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.daktilo.com/sites/1525/uploads/2023/11/28/large/desktop.png" tvg-name="GRT" group-title="003 YEREL",GRT   
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8  
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.multicms.info/tvlogo/frttv.jpg" tvg-name="FRT" group-title="003 YEREL",FRT   
+#EXTINF:-1 tvg-logo="http://logo.multicms.info/tvlogo/frttv.jpg" group-title="003 YEREL",FRT
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2n2tqMz/tyt.png" group-title="003 YEREL",TYT TÜRK
