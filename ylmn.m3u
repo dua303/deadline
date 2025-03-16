@@ -164,6 +164,8 @@ https://stream.castr.com/6606b96e9fa9fb790a255296/live_0303bec01eac11efa26bbdf96
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MAGA TV SINEMA" tvg-logo="" group-title="004 SINEMA",MAGA TV SINEMA
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
+#EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
+https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" tvg-name="Bein Movies Turk 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg" group-title="004 BeIN SINEMA",Bein Movies Turk  
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1767
@@ -196,6 +198,7 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1780
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1773
 #EXTINF:-1 tvg-id="FILMSCREEN.tr" tvg-name="Film Screen" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" group-title="004 DSMART SINEMA",Film Screen  
 http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89282 
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Sinema Yerli 1 4K+" tvg-logo="https://www.superkablonet.com/yukleme/download/584.png" group-title="004 Tivibu SINEMA",Sinema Yerli  
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/179704.ts 
