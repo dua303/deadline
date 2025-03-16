@@ -20,9 +20,9 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="NULL" tvg-name="TeleOn" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/Teleon-TV-live-vipotv-turkey.png" group-title="001 DIZI",TeleOn
 https://stream-cdn-iad3.vaughnsoft.net/play/live_teleonmediagroups.flv
 #EXTINF:-1 tvg-id="CNBC-e.tr" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="001 DIZI",CNBC-e  
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/193220.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="TV8" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="002 ULUSAL",TV8
-https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MELTEM TV.tr" tvg-name="MELTEM TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Meltem-TV-canli-yayin-vipotv.png" group-title="002 ULUSAL",MELTEM TV 
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8 
 #EXTINF:-1 tvg-id="ext" tvg-name="Bir TV" tvg-logo="https://pbs.twimg.com/profile_images/1642157784220221444/0gJNz4mL_400x400.jpg" group-title="002 ULUSAL",Bir TV
@@ -36,7 +36,7 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="TiVi 6" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Tivi-6-izle-vipotv-turkiye.png" group-title="002 ULUSAL",TiVi 6 
 http://stream.tvcdn.net/yerel/tivi6.m3u8
 #EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJKB-PjVdsQnsoTjPrIgIcmNtc8gF7ft90g&s" group-title="002 ULUSAL",TRT 4K     
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/51  
+http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89002  
 #EXTINF:-1 tvg-id="TRT.1.tr " tvg-name="TRT 1 " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="002 ULUSAL",TRT 1 
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="TRT.2.tr " tvg-name="TRT 2 " tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="002 ULUSAL",TRT 2
@@ -51,6 +51,8 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/tlc.png" group-title="002 ULUSAL",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="002 ULUSAL",TV8
+https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV 8 HD" tvg-logo="https://www.campaigntr.com/wp-content/uploads/2014/09/tv8-logo.png" group-title="002 ULUSAL",TV 8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-id="Atv.tr" tvg-name="ATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0p6z3kOBR2kgTOT4gUeXniJri0QlaRyu8g&s" group-title="002 ULUSAL",ATV 
@@ -80,6 +82,7 @@ http://pozzuoli2024.lumos.best:80/ciro33/223344/602008
 #EXTINF:-1 tvg-id="ext" tvg-name="ATV AVRUPA " tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="002 ULUSAL",ATV AVRUPA 
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/180045.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="TV8 INT " tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" group-title="002 ULUSAL",TV8 INT 
+http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/8899
 https://tgn.bozztv.com/dvrfl05/gin-tv8int/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="EURO STAR" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="002 ULUSAL",EURO STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
@@ -187,7 +190,7 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1780
 #EXTINF:-1 tvg-id="MovieSmart Classic.trr" tvg-name="Moviesmart Classic 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="004 DSMART SINEMA",Moviesmart Classic  
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1773
 #EXTINF:-1 tvg-id="FILMSCREEN.tr" tvg-name="Film Screen" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" group-title="004 DSMART SINEMA",Film Screen  
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/66460  
+http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89282 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Sinema Yerli 1 4K+" tvg-logo="https://www.superkablonet.com/yukleme/download/584.png" group-title="004 Tivibu SINEMA",Sinema Yerli  
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/179704.ts 
@@ -196,18 +199,18 @@ http://pozzuoli2024.lumos.best:80/ciro33/223344/602018
 #EXTINF:-1 tvg-id="Sinema.TV.tr" tvg-name="Sinema TV 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV 
 http://pozzuoli2024.lumos.best:80/ciro33/223344/602022
 #EXTINF:-1 tvg-id="Sinema.Aksiyon.tr" tvg-name="Sinema Aksion 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema Aksiyon 
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/167  
+http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89286 
 #EXTINF:-1 tvg-id="Sinema.1001.tr" tvg-name="Sinema TV 1001 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV 1001 
 http://pozzuoli2024.lumos.best:80/ciro33/223344/602015  
 #EXTINF:-1 tvg-id="Sinema.Komedi.tr" tvg-name="Sinema TV Comedy 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV Komedi  
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/168  
+http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89285  
 
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC 4K+" tvg-logo="" group-title="005 BELGESEL",TLC   
-http://pozzuoli2024.lumos.best:80/ciro33/223344/602050 
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8 
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX 4K+" tvg-logo="" group-title="005 BELGESEL",DMAX   
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/274  
+https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8 
 #EXTINF:-1 tvg-id="TRT BELGESEL.tr" tvg-name="TRT Belgesel 4K+" tvg-logo="" group-title="005 BELGESEL",TRT Belgesel   
-http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/180125.ts
+https://canlitvulusal.xyz/live/trtbelgesel/index.m3u8
 #EXTINF:-1 tvg-id="Tarih.TV.tr" tvg-name="Tarih TV" tvg-logo="" group-title="005 BELGESEL",Tarih TV  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/140595  
 #EXTINF:-1 tvg-id="History Channel.tr" tvg-name="History Channel 4K+" tvg-logo="" group-title="005 BELGESEL",History Channel 
@@ -219,7 +222,7 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/8238
 #EXTINF:-1 tvg-id="beIN IZ.tr" tvg-name="Bein IZ TV 4K" tvg-logo="" group-title="005 BELGESEL",Bein IZ TV 
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1806
 #EXTINF:-1 tvg-id="beIN GURME.tr" tvg-name="Bein Gurme 4K" tvg-logo="" group-title="005 BELGESEL",Bein Gurme   
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/271  
+http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89172  
 #EXTINF:-1 tvg-id="Da Vinci Learning.tr" tvg-name="Da Vinci 4K" tvg-logo="" group-title="005 BELGESEL",Da Vinci   
 http://pozzuoli2024.lumos.best:80/ciro33/223344/601867
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL.tr" tvg-name="Discovery Channel HD" tvg-logo="" group-title="005 BELGESEL",Discovery Channel  
@@ -233,7 +236,7 @@ http://pozzuoli2024.lumos.best:80/ciro33/223344/601992
 #EXTINF:-1 tvg-id="NAT.GEO.WILD.tr" tvg-name="Nat Geo Wild 4K+" tvg-logo="" group-title="005 BELGESEL",Nat Geo Wild 
 http://pozzuoli2024.lumos.best:80/ciro33/223344/601990 
 #EXTINF:-1 tvg-id="VIASAT EXPLORE.tr" tvg-name="Viasat Explorer HD" tvg-logo="" group-title="005 BELGESEL",Viasat Explorer   
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234449  
+http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89911 
 #EXTINF:-1 tvg-id="ext" tvg-name="Viasat Nature" tvg-logo="http://logo1010.com/news/nature-hd.png" group-title="005 BELGESEL",Viasat Nature 
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/121060.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="TGRT Belgesel" tvg-logo="" group-title="005 BELGESEL",TGRT Belgesel  
@@ -252,7 +255,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://w7.pngwing.com/pngs/548/607/png-transparent-ntv-hd-logo-thumbnail.png" group-title="006 HABER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8  
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK 4K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicoCNyTXd457xrVJrutJyEXzJYYgFW1Ci6Q&s" group-title="006 HABER",CNN TÜRK  
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/150  
+http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89114
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/1200px-Habert%C3%BCrk_TV_logo.svg.png" group-title="006 HABER",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8  
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/2560px-Haber_Global_logo.svg.png" group-title="006 HABER",Haber Global   
@@ -268,23 +271,25 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-id="24 TV.tr" tvg-name="24 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png" group-title="006 HABER",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 tvg-id="EKOTÃœRK.tr" tvg-name="Eko Türk TV" tvg-logo="https://yt3.googleusercontent.com/6Wg3Dm6OhIf13vjnvW9OZE0gP3LwMMkdgtmsyl1ZtQTTl5kvy-sFNtgmaN0g68I1vpn6gLdo5w=s900-c-k-c0x00ffffff-no-rj" group-title="006 HABER",Eko Türk TV  
+https://ekoturkdvr.blutv.com/blutv_ekoturk_dvr/live.m3u8
 http://pozzuoli2024.lumos.best:80/ciro33/223344/601880
 #EXTINF:-1 tvg-id="EKOL TV.tr" tvg-name="Ekol TV 4K+" tvg-logo="https://yt3.googleusercontent.com/JVAuYddvBYPdqhyyarV_rcCENeakjwr8EzyPGr3oYpgEgQoA-THYuxuTm5xcC0MmMJ16mZRz=s900-c-k-c0x00ffffff-no-rj" group-title="006 HABER",Ekol TV   
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8  
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TV Net  4K+" tvg-logo="https://canlitv.com/resimler/blog/tvnet-sunucusunun-basina-gelmedik-kalmadi.jpg" group-title="006 HABER",TV Net    
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8  
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bloomberg_HT_logo.svg/1024px-Bloomberg_HT_logo.svg.png" group-title="006 HABER",Bloomberg     
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/137  
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8 
 #EXTINF:-1 tvg-id="ext" tvg-name="Finans Türk" tvg-logo="https://finansturktv.com/images/logo.png" group-title="006 HABER",Finans Türk
+https://canlitvulusal.xyz/live/finansturk/index.m3u8
 https://yayin30.haber100.com/live/finansturk/chunklist_w1088819646.m3u8
 #EXTINF:-1 tvg-id="A PARA.tr" tvg-name="A Para 4K" tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA" group-title="006 HABER",A Para   
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50841  
+http://185.234.111.229:8000/play/a01l 
 #EXTINF:-1 tvg-id="ext" tvg-name="TvDen" tvg-logo="https://tvden.com.tr/media/denge/TUolmqfbupYWUDOymOenfreAjISJQPJZMLIXrvbXshdupHCh.png" group-title="006 HABER",TvDen
 https://canli.tvden.com.tr/hls/live.m3u8  
 #EXTINF:-1 tvg-id="ext" tvg-name="Tele 1" tvg-logo="https://w7.pngwing.com/pngs/842/3/png-transparent-tele1-television-turkey-turksat-news-others-television-text-trademark.png" group-title="006 HABER",Tele 1
 http://stream.tvcdn.net/haber/tele-1.m3u8  
 #EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="Krt TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/KRT_Logo_2023.webp" group-title="006 HABER",Krt TV   
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/232358
+http://185.234.111.229:8000/play/a06f
 #EXTINF:-1 tvg-id="ext" tvg-name="Flash TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/75/Flash_haber_logo.jpeg" group-title="006 HABER",Flash TV   
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8  
 #EXTINF:-1 tvg-id="Halk.TV.tr" tvg-name="Halk TV 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="006 HABER",Halk TV   
@@ -296,7 +301,7 @@ https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Mavi Karadeniz" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_103.png?v=15" group-title="006 HABER",Mavi Karadeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8  
 #EXTINF:-1 tvg-id="Ulusal.1.tr" tvg-name="ULUSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png" group-title="006 HABER",ULUSAL TV  
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/6  
+https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8 
 #EXTINF:-1 tvg-id="Lider.Haber.tr" tvg-name="Lider TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPetOFCn_nsYX6EVJwnZujeJFxlUHLm-Htgw&s" group-title="006 HABER",Lider TV  
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ISTANBUL TV" tvg-logo="" group-title="006 HABER",ISTANBUL TV
@@ -331,7 +336,7 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/271328
 #EXTINF:-1 tvg-id="NICKTOONS" tvg-name="TR: NICKTOONS" tvg-logo="https://logo.multicms.info/tvlogo/nicktoons.png" group-title="007 COCUK",TR: NICKTOONS
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234450
 #EXTINF:-1 tvg-id="DUCKTV" tvg-name="TR: DUCK TV" tvg-logo="https://logo.multicms.info/tvlogo/duck.png" group-title="007 COCUK",TR: DUCK TV
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234451
+http://178.219.128.68:64888/DUCKTV
 
 #EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 1 HD
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200630.ts
