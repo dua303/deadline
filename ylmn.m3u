@@ -140,6 +140,7 @@ http://stream.tvcdn.net/yerel/kanal-v.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Engelsiz TV" tvg-logo="https://www.engelsiztv.com.tr/wp-content/uploads/2025/01/engelsiz-logoyeni.jpg" group-title="003 YEREL",Engelsiz TV
 https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist_w1229441475.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Torba TV" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="003 YEREL",Torba TV  
+https://yayin1.canlitv.fun/canlitv/torbatv.stream/chunklist_w1317671384.m3u8?hash=b6f04e0ceace52ec2fc6ee88f76cab9b
 http://stream.tvcdn.net/kibris/torba-tv.m3u8  
 #EXTINF:-1 tvg-id="ext" tvg-name="GRT" tvg-logo="https://static.daktilo.com/sites/1525/uploads/2023/11/28/large/desktop.png" group-title="003 YEREL",GRT   
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8  
