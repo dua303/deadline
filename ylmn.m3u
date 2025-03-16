@@ -309,7 +309,8 @@ https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks
 https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8 
 #EXTINF:-1 tvg-id="Lider.Haber.tr" tvg-name="Lider TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPetOFCn_nsYX6EVJwnZujeJFxlUHLm-Htgw&s" group-title="006 HABER",Lider TV  
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="" group-title="006 HABER",TV5  
+https://tv5-live.ercdn.net/tv5/tv5_720p.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Cocuk" tvg-logo="" group-title="007 COCUK",Trt Cocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
