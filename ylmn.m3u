@@ -118,8 +118,8 @@ http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV 25" tvg-logo="http://assets.tvcdn.net/81f002fb-a59f-480e-9aa0-91b096ab491e.png" group-title="003 YEREL",TV 25  
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Kanal G" tvg-logo="http://assets.tvcdn.net/904d01fa-01cb-4f2d-9b8e-784061c29d00.png" group-title="003 YEREL",Kanal G
-https://radyotelekomtv.com/player/m3u8/909b4a1658eee6d92c395f282ae2ce2f/chunklist_w1311738905.m3u8
-https://radyotelekomtv.com/player/m3u8/909b4a1658eee6d92c395f282ae2ce2f/chunklist_w1547333312.m3u8
+
+https://radyotelekomtv.com/player/m3u8/909b4a1658eee6d92c395f282ae2ce2f/chunklist_w1164695190.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ISTANBUL TV" tvg-logo="" group-title="006 HABER",ISTANBUL TV
 https://stream.castr.com/6606b96e9fa9fb790a255296/live_0303bec01eac11efa26bbdf96dc3f28e/tracks-v1/index.fmp4.m3u8
 https://stream.castr.com/6606b96e9fa9fb790a255296/live_0303bec01eac11efa26bbdf96dc3f28e/index.m3u8
