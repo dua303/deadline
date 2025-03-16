@@ -156,30 +156,32 @@ https://live.euromediacenter.com/balkanturktv/index.m3u8
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MAGA TV SINEMA" tvg-logo="" group-title="004 SINEMA",MAGA TV SINEMA
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" tvg-name="Bein Movies Turk 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg" group-title="004 BeIN SINEMA",Bein Movies Turk 4K+  
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/223
+
+#EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" tvg-name="Bein Movies Turk 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg" group-title="004 BeIN SINEMA",Bein Movies Turk  
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1767
 #EXTINF:-1 tvg-id="beIN MOVIES STARS.tr" tvg-name="Bein Movies Stars 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Stars 
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/224  
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1766 
 #EXTINF:-1 tvg-id="beIN MOVIES ACTION.tr" tvg-name="Bein Movies Action 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Action   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/232361  
-#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE.tr" tvg-name="Bein Movies Premiere 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Premiere 4K+  
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/225  
-#EXTINF:-1 tvg-id="beINMOVIESPREMIERE2HD" tvg-name="Bein Movies Premiere 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Premiere 2 4K+  
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234446  
+#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE.tr" tvg-name="Bein Movies Premiere 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Premiere  
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1764
+#EXTINF:-1 tvg-id="beINMOVIESPREMIERE2HD" tvg-name="Bein Movies Premiere 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Premiere 2  
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1765
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 1 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 1 4K+
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/1699.ts
+http://pozzuoli2024.lumos.best:80/ciro33/223344/601839
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 2 4K+
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/1700.ts
+http://pozzuoli2024.lumos.best:80/ciro33/223344/601821
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 3 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 3 4K+
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/1701.ts
+http://pozzuoli2024.lumos.best:80/ciro33/223344/601840
 #EXTINF:-1 tvg-id="beIN SERIES 1.tr" tvg-name="Bein Series 1 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 1 4K+
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/236519.ts
+http://pozzuoli2024.lumos.best:80/ciro33/223344/601848
 #EXTINF:-1 tvg-id="beIN SERIES 2.tr" tvg-name="Bein Series 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 2 4K+
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/236520.ts
+http://pozzuoli2024.lumos.best:80/ciro33/223344/601849
 #EXTINF:-1 tvg-id="beIN SERIES 3.tr" tvg-name="Bein Series 3 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 3 4K+
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/236521.ts
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/298428
 #EXTINF:-1 tvg-id="beIN SERIES 4.tr" tvg-name="Bein Series 4 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 4 4K+
-http://sine.x-purple.xyz:80/live/apocan@224/224@535/236522.ts
+http://pozzuoli2024.lumos.best:80/ciro33/223344/601838
+
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="Moviesmart Turk 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/MovieSmart_Turk_TR_logo.png?1733490221" group-title="004 DSMART SINEMA",Moviesmart Turk  
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1780
 #EXTINF:-1 tvg-id="MovieSmart Classic.trr" tvg-name="Moviesmart Classic 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="004 DSMART SINEMA",Moviesmart Classic  
@@ -296,10 +298,11 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/6
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ISTANBUL TV" tvg-logo="" group-title="006 HABER",ISTANBUL TV
 https://stream.castr.com/6606b96e9fa9fb790a255296/live_0303bec01eac11efa26bbdf96dc3f28e/tracks-v1/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Cocuk" tvg-logo="" group-title="007 COCUK",Trt Cocuk
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/308
+http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Diyanet Cocuk 4K" tvg-logo="" group-title="007 COCUK",Diyanet Cocuk 4K
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/244105
+http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.tr" tvg-name="Disney JR" tvg-logo="" group-title="007 COCUK",Disney JR
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/291
 #EXTINF:-1 tvg-id="babytv.tr" tvg-name="Baby TV" tvg-logo="" group-title="007 COCUK",Baby TV
@@ -319,17 +322,14 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/306
 #EXTINF:-1 tvg-id="Nickelodeon.tr" tvg-name="Nickelodeon HD" tvg-logo="" group-title="007 COCUK",Nickelodeon HD
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/298
 #EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network" tvg-logo="" group-title="007 COCUK",Cartoon Network
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/301
-#EXTINF:-1 tvg-id="NULL" tvg-name="TR: UNIVERSAL COCUK" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="007 COCUK",TR: UNIVERSAL COCUK
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/222340
-#EXTINF:-1 tvg-id="NULL" tvg-name="TR: UNIVERSAL DISNEY" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="007 COCUK",TR: UNIVERSAL DISNEY
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/64153
+http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 #EXTINF:-1 tvg-id="NULL" tvg-name="TR: AZOOMEE TV" tvg-logo="https://logo.multicms.info/tvlogo/azoomee.jpg" group-title="007 COCUK",TR: AZOOMEE TV
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/271328
 #EXTINF:-1 tvg-id="NICKTOONS" tvg-name="TR: NICKTOONS" tvg-logo="https://logo.multicms.info/tvlogo/nicktoons.png" group-title="007 COCUK",TR: NICKTOONS
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234450
 #EXTINF:-1 tvg-id="DUCKTV" tvg-name="TR: DUCK TV" tvg-logo="https://logo.multicms.info/tvlogo/duck.png" group-title="007 COCUK",TR: DUCK TV
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234451
+
 #EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 1 HD
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200630.ts
 #EXTINF:-1 tvg-id="beINSPORTSHD2.tr" tvg-name="Bein Sports 2 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 2 HD
@@ -337,13 +337,14 @@ http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200636.ts
 #EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="Bein Sports 3 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 3 HD
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200639.ts
 #EXTINF:-1 tvg-id="beINSPORTSHD4.tr" tvg-name="Bein Sports 4 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 4 HD
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/81
+http://pozzuoli2024.lumos.best:80/ciro33/223344/601758
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports 5 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 5 HD
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200643.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 1 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 1 4K+
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/80
+http://pozzuoli2024.lumos.best:80/ciro33/223344/601832
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 2 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 2 4K+
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/78
+http://pozzuoli2024.lumos.best:80/ciro33/223344/601834
+
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="" group-title="010 MUZIK",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="EZGİ TV" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="010 MUZIK",EZGİ TV
