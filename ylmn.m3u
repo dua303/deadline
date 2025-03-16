@@ -63,7 +63,8 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:-1 tvg-id="Star.tr" tvg-name="STAR TV HD+" tvg-logo="https://w7.pngwing.com/pngs/1021/682/png-transparent-star-tv-logo-television-show-television-channel-5-stars-miscellaneous-television-angle.png" group-title="002 ULUSAL",STAR TV
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
-#EXTINF:-1 tvg-id="NOW" tvg-name="NOW TV 4K+" tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp" group-title="002 ULUSAL",NOW TV 4K+
+#EXTINF:-1 tvg-id="NOW" tvg-name="NOW TV 4K+" tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp" group-title="002 ULUSAL",NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-id="Beyaz.TV.tr" tvg-name="BEYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/beyaztv.png" group-title="002 ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
@@ -73,15 +74,16 @@ http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 http://stream.tvcdn.net/diger/woman-tv.m3u8
 #EXTINF:-1 tvg-id="TV.8,5.tr" tvg-name="TR: TV 8.5" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5924449cd6f439663be1e725" group-title="002 ULUSAL",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=758wgkvz08v5&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
-#EXTINF:-1 tvg-id="Teve.2.tr" tvg-name="TEVE 2 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="002 ULUSAL",TEVE 2 4K+
+#EXTINF:-1 tvg-id="Teve.2.tr" tvg-name="TEVE 2 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="002 ULUSAL",TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-#EXTINF:-1 tvg-id="a2.tr" tvg-name="TR: A2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="002 ULUSAL",TR: A2 HD+
+#EXTINF:-1 tvg-id="a2.tr" tvg-name="TR: A2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="002 ULUSAL",TR: A2
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
 #EXTINF:-1 tvg-id="Showmax.tr" tvg-name="SHOW MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/512px-Show_MAX_logo.svg.png" group-title="002 ULUSAL",SHOW MAX
 http://pozzuoli2024.lumos.best:80/ciro33/223344/602008
 #EXTINF:-1 tvg-id="ext" tvg-name="ATV AVRUPA " tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="002 ULUSAL",ATV AVRUPA 
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/180045.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="TV8 INT " tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" group-title="002 ULUSAL",TV8 INT 
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8 INT " tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" group-title="002 ULUSAL",TV8 INT
+
 http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/8899
 https://tgn.bozztv.com/dvrfl05/gin-tv8int/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="EURO STAR" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="002 ULUSAL",EURO STAR
