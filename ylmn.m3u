@@ -213,7 +213,142 @@ http://gl.firecar.cc:80/Yakupkara/020922y/169204
 http://gl.firecar.cc:80/Yakupkara/020922y/14645
 #EXTINF:-1 tvg-id="" tvg-name="VISION PLAY 2 HD" tvg-logo="https://imagizer.imageshack.com/img924/2194/MHXvxT.png" group-title="TR SINEMA",VISION PLAY 2 HD
 http://gl.firecar.cc:80/Yakupkara/020922y/38794
-
+#EXTINF:-1 tvg-id="" tvg-name="MAX AKSIYON HD" tvg-logo="http://188.214.27.75/pcnn/kingboxset.png" group-title="TR SINEMA",MAX AKSIYON HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141055
+#EXTINF:-1 tvg-id="" tvg-name="MAX AKSIYON 2 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxgold.png" group-title="TR SINEMA",MAX AKSIYON 2 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141050
+#EXTINF:-1 tvg-id="" tvg-name="MAX PREMIER HD" tvg-logo="" group-title="TR SINEMA",MAX PREMIER HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141054
+#EXTINF:-1 tvg-id="" tvg-name="MAX VIZYON 2 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxaction.png" group-title="TR SINEMA",MAX VIZYON 2 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141052
+#EXTINF:-1 tvg-id="" tvg-name="MAX ORGINAL HD" tvg-logo="http://188.214.27.75/pcnn/kingboxprime2.png" group-title="TR SINEMA",MAX ORGINAL HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141053
+#EXTINF:-1 tvg-id="" tvg-name="MAX TURK HD" tvg-logo="http://188.214.27.75/pcnn/kingboxgold2.png" group-title="TR SINEMA",MAX TURK HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141049
+#EXTINF:-1 tvg-id="" tvg-name="F BOX IMDB100 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxaction2.png" group-title="TR SINEMA",F BOX IMDB100 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141051
+#EXTINF:-1 tvg-id="" tvg-name="F BOX TURK 1 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxturk.png" group-title="TR SINEMA",F BOX TURK 1 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141048
+#EXTINF:-1 tvg-id="" tvg-name="F BOX TURK 2 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxturk2.png" group-title="TR SINEMA",F BOX TURK 2 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141047
+#EXTINF:-1 tvg-id="cinemax1" tvg-name="LIVING CINEMAX 1" tvg-logo="https://imagizer.imageshack.com/img923/3999/sIGXjb.png" group-title="TR SINEMA",LIVING CINEMAX 1
+http://gl.firecar.cc:80/Yakupkara/020922y/13176
+#EXTINF:-1 tvg-id="cinemax2" tvg-name="LIVING CINEMAX 2" tvg-logo="https://imagizer.imageshack.com/img924/6469/ItONZk.png" group-title="TR SINEMA",LIVING CINEMAX 2
+http://gl.firecar.cc:80/Yakupkara/020922y/45426
+#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 3" tvg-logo="https://imagizer.imageshack.com/img924/3551/TY7Mwu.png" group-title="TR SINEMA",LIVING CINEMAX 3
+http://gl.firecar.cc:80/Yakupkara/020922y/9389
+#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 4" tvg-logo="http://188.214.27.75/pcnn/cinemax4.png" group-title="TR SINEMA",LIVING CINEMAX 4
+http://gl.firecar.cc:80/Yakupkara/020922y/9388
+#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 5" tvg-logo="http://188.214.27.75/pcnn/cinemax5.png" group-title="TR SINEMA",LIVING CINEMAX 5
+http://gl.firecar.cc:80/Yakupkara/020922y/45233
+#EXTINF:-1 tvg-id="" tvg-name="LIVING WESTERN" tvg-logo="http://188.214.27.75/pcnn/western.png" group-title="TR SINEMA",LIVING WESTERN
+http://gl.firecar.cc:80/Yakupkara/020922y/9387
+#EXTINF:-1 tvg-id="" tvg-name="LIVING TURK" tvg-logo="http://188.214.27.75/pcnn/piconTURK.png" group-title="TR SINEMA",LIVING TURK
+http://gl.firecar.cc:80/Yakupkara/020922y/9379
+#EXTINF:-1 tvg-id="" tvg-name="LIVING YESILCAM" tvg-logo="http://188.214.27.75/pcnn/yesilcam.png" group-title="TR SINEMA",LIVING YESILCAM
+http://gl.firecar.cc:80/Yakupkara/020922y/45425
+#EXTINF:-1 tvg-id="" tvg-name="TR: TONS SINEMA TURK" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="TR: SINEMA",TR: TONS SINEMA TURK
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/226961
+#EXTINF:-1 tvg-id="" tvg-name="TR: TONS TURK TV" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="TR: SINEMA",TR: TONS TURK TV
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/127052
+#EXTINF:-1 tvg-id="" tvg-name="TR: TONS YESILCAM FILMLERI" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="TR: SINEMA",TR: TONS YESILCAM FILMLERI
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/226984
+#EXTINF:-1 tvg-id="" tvg-name="TR: TONS KEMAL SUNAL TV" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="TR: SINEMA",TR: TONS KEMAL SUNAL TV
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/129703
+#EXTINF:-1 tvg-id="" tvg-name="TR: TONS SINEMA KORKU" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="TR: SINEMA",TR: TONS SINEMA KORKU
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/226981
+#EXTINF:-1 tvg-id="" tvg-name="TR:TONS SINEMA AKSIYON" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="TR: SINEMA",TR:TONS SINEMA AKSIYON
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/226978
+#EXTINF:-1 tvg-id="" tvg-name="TR: TONS SINEMA BILIM KURGU" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="TR: SINEMA",TR: TONS SINEMA BILIM KURGU
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/226967
+#EXTINF:-1 tvg-id="" tvg-name="TR: TONS SINEMA SAVAS " tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="TR: SINEMA",TR: TONS SINEMA SAVAS 
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/226963
+#EXTINF:-1 tvg-id="" tvg-name="TR: TONS YESILCAM TV" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="TR: SINEMA",TR: TONS YESILCAM TV
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/127053
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX ACTION HD" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: MAX ACTION HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/214584
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: MAX GOLD HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/214585
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX  PREMIUM HD" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: MAX  PREMIUM HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/214586
+#EXTINF:-1 tvg-id="" tvg-name="TR: TONS YESİLCAM TV 2" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="TR: SINEMA",TR: TONS YESİLCAM TV 2
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/223350
+#EXTINF:-1 tvg-id="" tvg-name="TR: PLATIN WESTERN TV" tvg-logo="https://tonstv.xyz/channel_logo/sinema/platinsinema.png" group-title="TR: SINEMA",TR: PLATIN WESTERN TV
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/213085
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX ACTION HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX ACTION HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230281
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX AILE 1 HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX AILE 1 HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230282
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX AKSIYON 1 HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX AKSIYON 1 HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230283
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX AKSIYON 2 HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX AKSIYON 2 HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230284
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX AMAZON PRIME" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX AMAZON PRIME
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230285
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX DISNEY  CINEMA HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX DISNEY  CINEMA HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230286
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX KEMAL SUNAL TV4" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX KEMAL SUNAL TV4
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230293
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX MACERA 2 HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX MACERA 2 HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230294
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX MACERA HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX MACERA HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230295
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX NETFLIX TURK HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX NETFLIX TURK HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230300
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX OSCAR HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX OSCAR HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230301
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX ROMANTIK HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX ROMANTIK HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230302
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX VIZYON DUBLAJ" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX VIZYON DUBLAJ
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230307
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX VIZYON DUBLAJ 2" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX VIZYON DUBLAJ 2
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230308
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX VIZYON TURK 1" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX VIZYON TURK 1
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230309
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX WAR HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX WAR HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230310
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX WESTERN 3 HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX WESTERN 3 HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230312
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX WESTERN HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX WESTERN HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230313
+#EXTINF:-1 tvg-id="" tvg-name="TR FUNMAX YEŞİLÇAM HD" tvg-logo="" group-title="TR: SINEMA",TR FUNMAX YEŞİLÇAM HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/230314
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Aksiyon 1 HD" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: Cine Gold Aksiyon 1 HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136660
+#EXTINF:-1 tvg-id="" tvg-name="TR: FerBox Turk 1" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: FerBox Turk 1
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136661
+#EXTINF:-1 tvg-id="" tvg-name="TR: FerBox Turk 2" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: FerBox Turk 2
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136662
+#EXTINF:-1 tvg-id="" tvg-name="TR: FerBox IMDb 100" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: FerBox IMDb 100
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136663
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Animasyon HD" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: Cine Gold Animasyon HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136664
+#EXTINF:-1 tvg-id="" tvg-name="TR: FerBox Aksiyon 2" tvg-logo="https://files.sikayetvar.com/lg/cmp/18/187267.png?1640379286" group-title="TR: SINEMA",TR: FerBox Aksiyon 2
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136665
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Bilim Kurgu HD" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: Cine Gold Bilim Kurgu HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136666
+#EXTINF:-1 tvg-id="" tvg-name="TR: EU Cinema Yesilcam 4" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: EU Cinema Yesilcam 4
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136667
+#EXTINF:-1 tvg-id="" tvg-name="TR: PRIMEBOX KOMEDI HD" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: PRIMEBOX KOMEDI HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136669
+#EXTINF:-1 tvg-id="" tvg-name="TR: PRIMEBOX TURK 1 HD" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: PRIMEBOX TURK 1 HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136671
+#EXTINF:-1 tvg-id="" tvg-name="TR: PRIMEBOX YESILCAM HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cinema-tv-logo-png-transparent.png" group-title="TR: SINEMA",TR: PRIMEBOX YESILCAM HD
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136674
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZIOON FESTIVAL" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: VIZIOON FESTIVAL
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136677
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZIOON FESTIVAL 2" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: VIZIOON FESTIVAL 2
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136678
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sky Turk 4K" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: Sky Turk 4K
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136681
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sky Turk Aile" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: Sky Turk Aile
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136682
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sky Turk Aksiyon" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: Sky Turk Aksiyon
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136683
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sky Turk gerilim" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: Sky Turk gerilim
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136684
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sky Turk Savas" tvg-logo="https://tonstv.xyz/channel_logo/sinema/cinematv.png" group-title="TR: SINEMA",TR: Sky Turk Savas
+http://ip185.ip-135-125-197.eu:8080/viphyd34/27032022/136685
 
 
 #EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" tvg-name="Bein Movies Turk 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg" group-title="004 BeIN SINEMA",Bein Movies Turk  
@@ -379,11 +514,11 @@ http://pozzuoli2024.lumos.best:80/ciro33/223344/601987
 #EXTINF:-1 tvg-id="ext" tvg-name="Minika Cocuk" tvg-logo="" group-title="007 COCUK",Minika Cocuk
 http://pozzuoli2024.lumos.best:80/ciro33/223344/601986
 #EXTINF:-1 tvg-id="Nickelodeon.tr" tvg-name="Nickelodeon HD" tvg-logo="" group-title="007 COCUK",Nickelodeon HD
-http://pozzuoli2024.lumos.best:80/ciro33/223344/601996
+http://gl.firecar.cc:80/Yakupkara/020922y/2096
 #EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network" tvg-logo="" group-title="007 COCUK",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 #EXTINF:-1 tvg-id="NICKTOONS" tvg-name="TR: NICKTOONS" tvg-logo="https://logo.multicms.info/tvlogo/nicktoons.png" group-title="007 COCUK",TR: NICKTOONS
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234450
+http://gl.firecar.cc:80/Yakupkara/020922y/32262
 
 
 #EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 1 HD
