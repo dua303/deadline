@@ -1,21 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EPIC.DRAMA.tr" tvg-name="Epic Drama" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png" group-title="001 DIZI",Epic Drama
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50426
-
 #EXTINF:-1 tvg-id="FX.tr" tvg-name="Fx HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png" group-title="001 DIZI",Fx HD
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/12
-
 #EXTINF:-1 tvg-id="Dizi Smart Premium.tr" tvg-name="Premium Dizismart " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="001 DIZI",Premium Dizismart
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/15714
-
 #EXTINF:-1 tvg-id="ext" tvg-name="DIZI SMART MAX" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/DIZISMART%20MAX.png" group-title="001 DIZI",DIZI SMART MAX
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/32147
-
 #EXTINF:-1 tvg-id="BBC First" tvg-name="TR: BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_First_Logo_2014.svg/200px-BBC_First_Logo_2014.svg.png" group-title="001 DIZI",TR: BBC First   
-
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/165462
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TR:BLUTV PLAY 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png" group-title="001 DIZI",BLUTV PLAY 1 HD
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TR:BLUTV PLAY 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay2.png" group-title="001 DIZI",BLUTV PLAY 2 HD
@@ -24,51 +17,34 @@ https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TR:TRT NOSTALJİ HD" tvg-logo="https://yt3.googleusercontent.com/aTkDrJ4-tvQBycXJkhMgBBfX-o4iw0AMykmjfRCSiixpXIxmPj3spULmpXtKvSxn0aQeNfWNOQ=s900-c-k-c0x00ffffff-no-rj" group-title="001 DIZI",TRT NOSTALJİ HD
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-
 #EXTINF:-1 tvg-id="NULL" tvg-name="TeleOn" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/Teleon-TV-live-vipotv-turkey.png" group-title="001 DIZI",TeleOn
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teleonmediagroups.flv
 #EXTINF:-1 tvg-id="CNBC-e.tr" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="001 DIZI",CNBC-e  
-  
 http://134432.universalx.eu:80/rozibaruh/LazESF1SUc/254694
-http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="002 ULUSAL",TV8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="002 ULUSAL",TV8
 https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MELTEM TV.tr" tvg-name="MELTEM TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Meltem-TV-canli-yayin-vipotv.png" group-title="002 ULUSAL",MELTEM TV 
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8 
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Bir TV" tvg-logo="https://pbs.twimg.com/profile_images/1642157784220221444/0gJNz4mL_400x400.jpg" group-title="002 ULUSAL",Bir TV
 https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
-
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/360tv.png" group-title="002 ULUSAL",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/tv4-canli-izleyin-vipotv-turkiye.png" group-title="002 ULUSAL",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="Cine1 Tv.tr" tvg-name="CINE1" tvg-logo="https://vipotv.com/wp-content/uploads/2023/04/Cine1-izle-vipotv.png" group-title="002 ULUSAL",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="TiVi 6" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Tivi-6-izle-vipotv-turkiye.png" group-title="002 ULUSAL",TiVi 6 
 http://stream.tvcdn.net/yerel/tivi6.m3u8
-
 #EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJKB-PjVdsQnsoTjPrIgIcmNtc8gF7ft90g&s" group-title="002 ULUSAL",TRT 4K     
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/51  
-
-
 #EXTINF:-1 tvg-id="TRT.1.tr " tvg-name="TRT 1 " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="002 ULUSAL",TRT 1 
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
-
 #EXTINF:-1 tvg-id="TRT.2.tr " tvg-name="TRT 2 " tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="002 ULUSAL",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="TRT.AVAZ.tr" tvg-name="TRT Avaz" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trtavaztv.png" group-title="002 ULUSAL",TRT Avaz 
-
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-id="TRTTÜRK.tr" tvg-name="TRT Türk " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png" group-title="002 ULUSAL",TRT Türk 
-
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="TRT.Belgesel.tr" tvg-name="TRT BELGESEL" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Belgesel-canli-izle-vipotv-en-kaliteli-belgesel-filmleri-burada.png" group-title="002 ULUSAL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/dmaxtv.png" group-title="002 ULUSAL",DMAX
@@ -77,78 +53,52 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="TV 8 HD" tvg-logo="https://www.campaigntr.com/wp-content/uploads/2014/09/tv8-logo.png" group-title="002 ULUSAL",TV 8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7562ejox5fh4&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="Atv.tr" tvg-name="ATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0p6z3kOBR2kgTOT4gUeXniJri0QlaRyu8g&s" group-title="002 ULUSAL",ATV 
 https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
-http://stream.tvcdn.net/ulusal/atv.m3u8
-
 #EXTINF:-1 tvg-id="Show.tr" tvg-name="SHOW TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="002 ULUSAL",SHOW TV 
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-
 #EXTINF:-1 tvg-id="KANAL D HD" tvg-name="KANAL D" tvg-logo="https://w1.pngwing.com/pngs/291/105/png-transparent-cartoon-network-logo-kanal-d-television-television-channel-kanal-7-serial-live-television-blue-thumbnail.png" group-title="002 ULUSAL",KANAL D
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
-
-
 #EXTINF:-1 tvg-id="Star.tr" tvg-name="STAR TV HD+" tvg-logo="https://w7.pngwing.com/pngs/1021/682/png-transparent-star-tv-logo-television-show-television-channel-5-stars-miscellaneous-television-angle.png" group-title="002 ULUSAL",STAR TV
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
-
 #EXTINF:-1 tvg-id="NOW" tvg-name="NOW TV 4K+" tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp" group-title="002 ULUSAL",NOW TV 4K+
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
-
 #EXTINF:-1 tvg-id="Beyaz.TV.tr" tvg-name="BEYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/beyaztv.png" group-title="002 ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
-
 #EXTINF:-1 tvg-id="Kanal.7.tr" tvg-name="KANAL 7" tvg-logo="https://e7.pngegg.com/pngimages/888/174/png-clipart-kanal-7-television-turksat-4a-drop-off-canal-kanal-2-television-text-thumbnail.png" group-title="002 ULUSAL",KANAL 7 
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
-
-
 #EXTINF:-1 tvg-id="WomanTV.tr" tvg-name="Woman TV" tvg-logo="http://assets.tvcdn.net/f85e5a28-5d65-405e-a079-be0a7893b8bd.png" group-title="002 ULUSAL",Woman TV
 http://stream.tvcdn.net/diger/woman-tv.m3u8
-
 #EXTINF:-1 tvg-id="TV.8,5.tr" tvg-name="TR: TV 8.5" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5924449cd6f439663be1e725" group-title="002 ULUSAL",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=758wgkvz08v5&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 #EXTINF:-1 tvg-id="Teve.2.tr" tvg-name="TEVE 2 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="002 ULUSAL",TEVE 2 4K+
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="a2.tr" tvg-name="TR: A2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="002 ULUSAL",TR: A2 HD+
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
-
 #EXTINF:-1 tvg-id="Showmax.tr" tvg-name="SHOW MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/512px-Show_MAX_logo.svg.png" group-title="002 ULUSAL",SHOW MAX
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/31363
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="002 ULUSAL" ,ATV AVRUPA 
+#EXTINF:-1 tvg-id="ext" tvg-name="ATV AVRUPA " tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="002 ULUSAL",ATV AVRUPA 
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/180045.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" group-title="002 ULUSAL" ,TV8 INT 
+#EXTINF:-1 tvg-id="ext" tvg-name="TV8 INT " tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" group-title="002 ULUSAL",TV8 INT 
 https://tgn.bozztv.com/dvrfl05/gin-tv8int/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="002 ULUSAL",EURO STAR
+#EXTINF:-1 tvg-id="ext" tvg-name="EURO STAR" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="002 ULUSAL",EURO STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="002 ULUSAL",SHOW TÜRK
+#EXTINF:-1 tvg-id="ext" tvg-name="SHOW TÜRK" tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="002 ULUSAL",SHOW TÜRK
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="002 ULUSAL",EURO D
+#EXTINF:-1 tvg-id="ext" tvg-name="EURO D" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="002 ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="002 ULUSAL",KANAL 7 AVRUPA
+#EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="002 ULUSAL",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="Vav.Tv.tr" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="002 ULUSAL",VAV TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="Diyanet.TV.tr" tvg-name="Diyanet TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/2560px-Diyanet_TV_logo.svg.png" group-title="002 ULUSAL",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_0.m3u8
 #EXTINF:-1 tvg-id="TGRT.Haber.tr" tvg-name="TGRT EU" tvg-logo="" group-title="002 ULUSAL",TGRT EU
 http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
-#EXTINF:-1 tvg-id="ext"  tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="003 YEREL",TIVI TURK
-
+#EXTINF:-1 tvg-id="ext" tvg-name="Tivi Türk" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="003 YEREL",Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8?checkedby:iptvcat.com
-http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Cine 6" tvg-logo="https://www.cine6tv.com.tr/uploads/logo/Emin-Kopyas%C4%B1-kopyas%C4%B1-250-x-250-piksel-_20250206_032915_0000.png" group-title="003 YEREL",Cine 6
 https://tivi44.ozelip.com:3614/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Rize Türk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="003 YEREL",Rize Türk
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="sdm" tvg-name="SDM Sinema" tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png" group-title="003 YEREL",SDM Sinema
@@ -163,77 +113,54 @@ http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Süper 7 TV" tvg-logo="http://assets.tvcdn.net/94505dd8-b52d-4b4d-b1e4-9fda2829ed57.png" group-title="003 YEREL",Süper 7 TV
 http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
-
-#EXTINF:-1 tvg-id="ext"  tvg-logo="http://assets.tvcdn.net/81f002fb-a59f-480e-9aa0-91b096ab491e.png" group-title="003 YEREL",TV25
-
+#EXTINF:-1 tvg-id="ext" tvg-name="TV 25" tvg-logo="http://assets.tvcdn.net/81f002fb-a59f-480e-9aa0-91b096ab491e.png" group-title="003 YEREL",TV 25  
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
-http://stream.tvcdn.net/yerel/tv-25.m3u8
-
-    
-#EXTINF:-1 tvg-id="ext" tvg-logo="http://assets.tvcdn.net/904d01fa-01cb-4f2d-9b8e-784061c29d00.png" group-title="003 YEREL", KANAL G
-
+#EXTINF:-1 tvg-id="ext" tvg-name="Kanal G" tvg-logo="http://assets.tvcdn.net/904d01fa-01cb-4f2d-9b8e-784061c29d00.png" group-title="003 YEREL",Kanal G      
 https://radyotelekomtv.com/player/m3u8/909b4a1658eee6d92c395f282ae2ce2f/chunklist_w1440333624.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="ONDE TV" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bigclt2zf6hcv5c6vlzx" group-title="003 YEREL",ONDE TV
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ÜN TV" tvg-logo="https://www.konyapedia.com/storage/%C3%BCniversite%20televizyonu.jpg" group-title="003 YEREL",ÜN TV  
 https://yayin1.canlitv.fun/canlitv/untv.stream/chunklist_w1386735050.m3u8?hash=b6f04e0ceace52ec2fc6ee88f76cab9b
-
 #EXTINF:-1 tvg-id="ext" tvg-name="CANKIRI TV" tvg-logo="https://cankiritv.com.tr/images/genel/cankirilogoZ-ZKopya_1.png" group-title="003 YEREL",CANKIRI TV  
 https://yayin1.canlitv.fun/canlitv/cankiritv.stream/chunklist_w1381922302.m3u8?hash=b6f04e0ceace52ec2fc6ee88f76cab9b
-  
 #EXTINF:-1 tvg-id="ext" tvg-name="TRAKYATURK" tvg-logo="https://trakyaturktv.com/uploads/2023/10/settings/6519f50f032b3-1696199951-202310-238.png" group-title="003 YEREL",TRAKYATURK
-
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="GZT TV" tvg-logo="" group-title="003 YEREL",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="LIFE TV" tvg-logo="" group-title="003 YEREL",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="003 YEREL",Kanal 19
+#EXTINF:-1 tvg-id="ext" tvg-name="Kanal 19" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="003 YEREL",Kanal 19
 http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
-#EXTINF:-1 tvg-id="ext"  tvg-logo="" group-title="003 YEREL",İlke
+#EXTINF:-1 tvg-id="ext" tvg-name="İlke TV" tvg-logo="http://assets.tvcdn.net/bb28dc1a-2368-4482-ab3a-020bb953fae9.png" group-title="003 YEREL",İlke TV    
 https://yayin1.canlitv.fun/canlitv/ilketv.stream/chunklist_w1070477516.m3u8?hash=b6f04e0ceace52ec2fc6ee88f76cab9b  
-
 #EXTINF:-1 tvg-id="KanalV.tr" tvg-name="Kanal V" tvg-logo="http://assets.tvcdn.net/0c455b18-ce0f-435f-be77-4416d112918e.png" group-title="003 YEREL",Kanal V
 http://stream.tvcdn.net/yerel/kanal-v.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Engelsiz TV" tvg-logo="https://www.engelsiztv.com.tr/wp-content/uploads/2025/01/engelsiz-logoyeni.jpg" group-title="003 YEREL",Engelsiz TV
 https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist_w1229441475.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" tvg-name="Torba TV" group-title="003 YEREL",Torba TV  
+#EXTINF:-1 tvg-id="ext" tvg-name="Torba TV" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="003 YEREL",Torba TV  
 http://stream.tvcdn.net/kibris/torba-tv.m3u8  
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.daktilo.com/sites/1525/uploads/2023/11/28/large/desktop.png" tvg-name="GRT" group-title="003 YEREL",GRT   
+#EXTINF:-1 tvg-id="ext" tvg-name="GRT" tvg-logo="https://static.daktilo.com/sites/1525/uploads/2023/11/28/large/desktop.png" group-title="003 YEREL",GRT   
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8  
-#EXTINF:-1 tvg-logo="http://logo.multicms.info/tvlogo/frttv.jpg" group-title="003 YEREL",FRT
-
-https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2n2tqMz/tyt.png" group-title="003 YEREL",TYT TÜRK
+#EXTINF:-1 tvg-id="ext" tvg-name="FRT" tvg-logo="http://logo.multicms.info/tvlogo/frttv.jpg" group-title="003 YEREL",FRT   
+https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8  
+#EXTINF:-1 tvg-id="ext" tvg-name="TYT TÜRK" tvg-logo="https://i.ibb.co/N2n2tqMz/tyt.png" group-title="003 YEREL",TYT TÜRK
 https://cdn4.yayin.com.tr/tytturk/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qRsfyb2/tvmor.png" group-title="003 YEREL",MOR TV
+#EXTINF:-1 tvg-id="ext" tvg-name="MOR TV" tvg-logo="https://i.ibb.co/qRsfyb2/tvmor.png" group-title="003 YEREL",MOR TV
 https://live.euromediacenter.com/tvmor/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="003 YEREL",BRÜKSEL TÜRK
+#EXTINF:-1 tvg-id="ext" tvg-name="BRÜKSEL TÜRK" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="003 YEREL",BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="003 YEREL",BALKAN TÜRK
+#EXTINF:-1 tvg-id="ext" tvg-name="BALKAN TÜRK" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="003 YEREL",BALKAN TÜRK
 https://live.euromediacenter.com/balkanturktv/index.m3u8
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="MEGA TV SABAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/1200px-Mega_TV_logo_2016.svg.png" group-title="004 SINEMA",MEGA TV SABAN
 https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MAGA TV SINEMA" tvg-logo="" group-title="004 SINEMA",MAGA TV SINEMA
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" tvg-name="Bein Movies Turk 4K+" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg" group-title="004 BeIN SINEMA",Bein Movies Turk 4K+  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/223
-
 #EXTINF:-1 tvg-id="beIN MOVIES STARS.tr" tvg-name="Bein Movies Stars 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Stars 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/224  
 #EXTINF:-1 tvg-id="beIN MOVIES ACTION.tr" tvg-name="Bein Movies Action 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Action   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/232361  
-
 #EXTINF:-1 tvg-id="beIN MOVIES PREMIERE.tr" tvg-name="Bein Movies Premiere 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Premiere 4K+  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/225  
 #EXTINF:-1 tvg-id="beINMOVIESPREMIERE2HD" tvg-name="Bein Movies Premiere 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Premiere 2 4K+  
@@ -252,197 +179,122 @@ http://sine.x-purple.xyz:80/live/apocan@224/224@535/236520.ts
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/236521.ts
 #EXTINF:-1 tvg-id="beIN SERIES 4.tr" tvg-name="Bein Series 4 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 4 4K+
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/236522.ts
-
-
-
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="Moviesmart Turk 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/MovieSmart_Turk_TR_logo.png?1733490221" group-title="004 DSMART SINEMA",Moviesmart Turk  
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1780
-
-
 #EXTINF:-1 tvg-id="MovieSmart Classic.trr" tvg-name="Moviesmart Classic 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="004 DSMART SINEMA",Moviesmart Classic  
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1773
-
 #EXTINF:-1 tvg-id="FILMSCREEN.tr" tvg-name="Film Screen" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" group-title="004 DSMART SINEMA",Film Screen  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/66460  
-
-
-
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Sinema Yerli 1 4K+" tvg-logo="https://www.superkablonet.com/yukleme/download/584.png" group-title="004 Tivibu SINEMA",Sinema Yerli  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/165  
-
-
 #EXTINF:-1 tvg-id="Sinema.TV.Aile2.tr" tvg-name="Sinema Aile 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema Aile 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/166  
-
-
 #EXTINF:-1 tvg-id="Sinema.TV.tr" tvg-name="Sinema TV 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/163
-
-
 #EXTINF:-1 tvg-id="Sinema.Aksiyon.tr" tvg-name="Sinema Aksion 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema Aksiyon 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/167  
-
 #EXTINF:-1 tvg-id="Sinema.1001.tr" tvg-name="Sinema TV 1001 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV 1001 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/164  
-
-
 #EXTINF:-1 tvg-id="Sinema.Komedi.tr" tvg-name="Sinema TV Comedy 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV Komedi  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/168  
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC 4K+" tvg-logo="" group-title="005 BELGESEL",TLC   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/14  
-
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX 4K+" tvg-logo="" group-title="005 BELGESEL",DMAX   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/274  
-
 #EXTINF:-1 tvg-id="TRT BELGESEL.tr" tvg-name="TRT Belgesel 4K+" tvg-logo="" group-title="005 BELGESEL",TRT Belgesel   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50847  
-
 #EXTINF:-1 tvg-id="Tarih.TV.tr" tvg-name="Tarih TV" tvg-logo="" group-title="005 BELGESEL",Tarih TV  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/140595  
-
 #EXTINF:-1 tvg-id="History Channel.tr" tvg-name="History Channel 4K+" tvg-logo="" group-title="005 BELGESEL",History Channel 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/278
-
 #EXTINF:-1 tvg-id="Viasat.History.tr" tvg-name="Viasat History HD+" tvg-logo="" group-title="005 BELGESEL",Viasat History   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/47970  
-
 #EXTINF:-1 tvg-id="BBC EARTH.tr" tvg-name="BBC Earth HD" tvg-logo="" group-title="005 BELGESEL",BBC Earth HD  
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/8238
-
-
 #EXTINF:-1 tvg-id="beIN IZ.tr" tvg-name="Bein IZ TV 4K" tvg-logo="" group-title="005 BELGESEL",Bein IZ TV 
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1806
-
 #EXTINF:-1 tvg-id="beIN GURME.tr" tvg-name="Bein Gurme 4K" tvg-logo="" group-title="005 BELGESEL",Bein Gurme   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/271  
-
 #EXTINF:-1 tvg-id="Da Vinci Learning.tr" tvg-name="Da Vinci 4K" tvg-logo="" group-title="005 BELGESEL",Da Vinci   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/253  
-
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL.tr" tvg-name="Discovery Channel HD" tvg-logo="" group-title="005 BELGESEL",Discovery Channel  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/264  
-
 #EXTINF:-1 tvg-id="ext" tvg-name="ID HD 4K+" tvg-logo="" group-title="005 BELGESEL",ID    
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/261  
-
 #EXTINF:-1 tvg-id="Love Nature.tr" tvg-name="Love Nature 4K+" tvg-logo="" group-title="005 BELGESEL",Love Nature   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50428  
-
-#EXTINF:-1 tvg-id=""NATIONAL GEOGRAPHIC HD.tr" tvg-name="National Geo HD" tvg-logo="" group-title="005 BELGESEL",National Geo HD  
+#EXTINF:-1 tvg-id="ext" tvg-name="National Geo HD" tvg-logo="" group-title="005 BELGESEL",National Geo HD  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/286  
-
 #EXTINF:-1 tvg-id="NAT.GEO.WILD.tr" tvg-name="Nat Geo Wild 4K+" tvg-logo="" group-title="005 BELGESEL",Nat Geo Wild 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/282  
-
 #EXTINF:-1 tvg-id="VIASAT EXPLORE.tr" tvg-name="Viasat Explorer HD" tvg-logo="" group-title="005 BELGESEL",Viasat Explorer   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234449  
-
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature" tvg-logo="http://logo1010.com/news/nature-hd.png" group-title="005 BELGESEL",Viasat Nature 
+#EXTINF:-1 tvg-id="ext" tvg-name="Viasat Nature" tvg-logo="http://logo1010.com/news/nature-hd.png" group-title="005 BELGESEL",Viasat Nature 
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/121060.ts
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TGRT Belgesel" tvg-logo="" group-title="005 BELGESEL",TGRT Belgesel  
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="005 BELGESEL",CGTN BELGESEL
+#EXTINF:-1 tvg-id="ext" tvg-name="CGTN BELGESEL" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="005 BELGESEL",CGTN BELGESEL
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="BENGU TURK" tvg-logo="https://benguturkcom.teimg.com/benguturk-com/uploads/2023/04/bengu-turk-logo-vector-kirmizi-1.jpg" group-title="006 HABER",BENGU TURK  
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8  
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TURK HABER" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2024/06/LOGO_EXTRASMALL.png" group-title="006 HABER",TURK HABER  
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalB.tr" tvg-name="Kanal B" tvg-logo="http://assets.tvcdn.net/855d4cc7-027f-4c11-9e06-2471764dfc30.png" group-title="006 HABER",Kanal B  
-
 https://cdn900.canlitv.vip/kanalb.m3u8?tkn=3-pxhQDcHp-d4tN9P7PvMg&tms=1741587373&hst=tv.canlitv.vip&ip=45.11.202.86
-https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined?hash=7c197b6bafdc8d8cbf08be96e4235801
-
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="http://logo.multicms.info/tvlogo/trthaberhd.png" group-title="006 HABER",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8  
-
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://w7.pngwing.com/pngs/548/607/png-transparent-ntv-hd-logo-thumbnail.png" group-title="006 HABER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8  
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK 4K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicoCNyTXd457xrVJrutJyEXzJYYgFW1Ci6Q&s" group-title="006 HABER",CNN TÜRK  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/150  
-
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/1200px-Habert%C3%BCrk_TV_logo.svg.png" group-title="006 HABER",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8  
-
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/2560px-Haber_Global_logo.svg.png" group-title="006 HABER",Haber Global   
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8  
-
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="006 HABER",TGRT Haber 
 https://canli.tgrthaber.com/tgrt.m3u8  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="006 HABER",A HABER
+#EXTINF:-1 tvg-id="ext" tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="006 HABER",A HABER
 https://canlitvulusal.xyz/live/ahaber/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="006 HABER",ÜLKE
+#EXTINF:-1 tvg-id="ext" tvg-name="ÜLKE" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="006 HABER",ÜLKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png" group-title="006 HABER",AKIT TV
+#EXTINF:-1 tvg-id="ext" tvg-name="AKIT TV" tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png" group-title="006 HABER",AKIT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
-
-
-
 #EXTINF:-1 tvg-id="24 TV.tr" tvg-name="24 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png" group-title="006 HABER",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-
 #EXTINF:-1 tvg-id="EKOTÃœRK.tr" tvg-name="Eko Türk TV" tvg-logo="https://yt3.googleusercontent.com/6Wg3Dm6OhIf13vjnvW9OZE0gP3LwMMkdgtmsyl1ZtQTTl5kvy-sFNtgmaN0g68I1vpn6gLdo5w=s900-c-k-c0x00ffffff-no-rj" group-title="006 HABER",Eko Türk TV  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/31415  
 #EXTINF:-1 tvg-id="EKOL TV.tr" tvg-name="Ekol TV 4K+" tvg-logo="https://yt3.googleusercontent.com/JVAuYddvBYPdqhyyarV_rcCENeakjwr8EzyPGr3oYpgEgQoA-THYuxuTm5xcC0MmMJ16mZRz=s900-c-k-c0x00ffffff-no-rj" group-title="006 HABER",Ekol TV   
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8  
-
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TV Net  4K+" tvg-logo="https://canlitv.com/resimler/blog/tvnet-sunucusunun-basina-gelmedik-kalmadi.jpg" group-title="006 HABER",TV Net    
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8  
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bloomberg_HT_logo.svg/1024px-Bloomberg_HT_logo.svg.png" group-title="006 HABER",Bloomberg     
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/137  
-
-#EXTINF:-1 tvg-id="" tvg-name="Finans Türk" tvg-logo="https://finansturktv.com/images/logo.png" group-title="006 HABER",Finans Türk
+#EXTINF:-1 tvg-id="ext" tvg-name="Finans Türk" tvg-logo="https://finansturktv.com/images/logo.png" group-title="006 HABER",Finans Türk
 https://yayin30.haber100.com/live/finansturk/chunklist_w1088819646.m3u8
-
 #EXTINF:-1 tvg-id="A PARA.tr" tvg-name="A Para 4K" tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA" group-title="006 HABER",A Para   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50841  
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TvDen" tvg-logo="https://tvden.com.tr/media/denge/TUolmqfbupYWUDOymOenfreAjISJQPJZMLIXrvbXshdupHCh.png" group-title="006 HABER",TvDen
 https://canli.tvden.com.tr/hls/live.m3u8  
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Tele 1" tvg-logo="https://w7.pngwing.com/pngs/842/3/png-transparent-tele1-television-turkey-turksat-news-others-television-text-trademark.png" group-title="006 HABER",Tele 1
 http://stream.tvcdn.net/haber/tele-1.m3u8  
-
 #EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="Krt TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/KRT_Logo_2023.webp" group-title="006 HABER",Krt TV   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/232358
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Flash TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/75/Flash_haber_logo.jpeg" group-title="006 HABER",Flash TV   
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8  
-
 #EXTINF:-1 tvg-id="Halk.TV.tr" tvg-name="Halk TV 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="006 HABER",Halk TV   
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=751s8s9ogjc3&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3hhaber-live.ercdn.net/flashhaber/flashhaber_720p.m3u8  
-
 #EXTINF:-1 tvg-id="SZC.tr" tvg-name="Sözcü TV 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="006 HABER",Sözcü TV  
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8  
-
 #EXTINF:-1 tvg-id="tv.100.tr" tvg-name="TV 100 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="006 HABER",TV 100   
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Mavi Karadeniz" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_103.png?v=15" group-title="006 HABER",Mavi Karadeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8  
-
 #EXTINF:-1 tvg-id="Ulusal.1.tr" tvg-name="ULUSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png" group-title="006 HABER",ULUSAL TV  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/6  
-
 #EXTINF:-1 tvg-id="Lider.Haber.tr" tvg-name="Lider TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPetOFCn_nsYX6EVJwnZujeJFxlUHLm-Htgw&s" group-title="006 HABER",Lider TV  
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ISTANBUL TV" tvg-logo="" group-title="006 HABER",ISTANBUL TV
+#EXTINF:-1 tvg-id="ext" tvg-name="ISTANBUL TV" tvg-logo="" group-title="006 HABER",ISTANBUL TV
 https://stream.castr.com/6606b96e9fa9fb790a255296/live_0303bec01eac11efa26bbdf96dc3f28e/tracks-v1/index.fmp4.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Cocuk" tvg-logo="" group-title="007 COCUK",Trt Cocuk
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/308
 #EXTINF:-1 tvg-id="ext" tvg-name="Diyanet Cocuk 4K" tvg-logo="" group-title="007 COCUK",Diyanet Cocuk 4K
@@ -451,7 +303,6 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/244105
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/291
 #EXTINF:-1 tvg-id="babytv.tr" tvg-name="Baby TV" tvg-logo="" group-title="007 COCUK",Baby TV
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/295
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Nick JR" tvg-logo="" group-title="007 COCUK",Nick JR
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/297
 #EXTINF:-1 tvg-id="ext" tvg-name="Moonbug" tvg-logo="" group-title="007 COCUK",Moonbug
@@ -464,24 +315,20 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/304
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/31473
 #EXTINF:-1 tvg-id="ext" tvg-name="Minika Cocuk" tvg-logo="" group-title="007 COCUK",Minika Cocuk
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/306
-
 #EXTINF:-1 tvg-id="Nickelodeon.tr" tvg-name="Nickelodeon HD" tvg-logo="" group-title="007 COCUK",Nickelodeon HD
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/298
 #EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network" tvg-logo="" group-title="007 COCUK",Cartoon Network
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/301
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL COCUK" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="007 COCUK",TR: UNIVERSAL COCUK
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR: UNIVERSAL COCUK" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="007 COCUK",TR: UNIVERSAL COCUK
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/222340
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL DISNEY" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="007 COCUK",TR: UNIVERSAL DISNEY
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR: UNIVERSAL DISNEY" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="007 COCUK",TR: UNIVERSAL DISNEY
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/64153
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: AZOOMEE TV" tvg-logo="https://logo.multicms.info/tvlogo/azoomee.jpg" group-title="007 COCUK",TR: AZOOMEE TV
+#EXTINF:-1 tvg-id="NULL" tvg-name="TR: AZOOMEE TV" tvg-logo="https://logo.multicms.info/tvlogo/azoomee.jpg" group-title="007 COCUK",TR: AZOOMEE TV
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/271328
-#EXTINF:0 user-agent="Firefox" tvg-id="NICKTOONS" tvg-name="TR: NICKTOONS" tvg-logo="https://logo.multicms.info/tvlogo/nicktoons.png" group-title="007 COCUK",TR: NICKTOONS
+#EXTINF:-1 tvg-id="NICKTOONS" tvg-name="TR: NICKTOONS" tvg-logo="https://logo.multicms.info/tvlogo/nicktoons.png" group-title="007 COCUK",TR: NICKTOONS
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234450
-#EXTINF:0 user-agent="Firefox" tvg-id="DUCKTV" tvg-name="TR: DUCK TV" tvg-logo="https://logo.multicms.info/tvlogo/duck.png" group-title="007 COCUK",TR: DUCK TV
+#EXTINF:-1 tvg-id="DUCKTV" tvg-name="TR: DUCK TV" tvg-logo="https://logo.multicms.info/tvlogo/duck.png" group-title="007 COCUK",TR: DUCK TV
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234451
-
-
-
 #EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 1 HD
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200630.ts
 #EXTINF:-1 tvg-id="beINSPORTSHD2.tr" tvg-name="Bein Sports 2 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 2 HD
@@ -489,107 +336,76 @@ http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200636.ts
 #EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="Bein Sports 3 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 3 HD
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200639.ts
 #EXTINF:-1 tvg-id="beINSPORTSHD4.tr" tvg-name="Bein Sports 4 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 4 HD
-http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200641.ts
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/81
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports 5 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 5 HD
 http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200643.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 1 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 1 
-http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200644.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 2 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 2 
-http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/200645.ts
-
-
-
+#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 1 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 1 4K+
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/80
+#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 2 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 2 4K+
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/78
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="" group-title="010 MUZIK",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="010 MUZIK",EZGİ TV
+#EXTINF:-1 tvg-id="ext" tvg-name="EZGİ TV" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="010 MUZIK",EZGİ TV
 https://live.euromediacenter.com/ezgitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="010 MUZIK",KRAL - KRAL POP
+#EXTINF:-1 tvg-id="ext" tvg-name="KRAL - KRAL POP" tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="010 MUZIK",KRAL - KRAL POP
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="010 MUZIK",DREAM TÜRK
+#EXTINF:-1 tvg-id="ext" tvg-name="DREAM TÜRK" tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="010 MUZIK",DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="010 MUZIK",POWER TÜRK
+#EXTINF:-1 tvg-id="ext" tvg-name="POWER TÜRK" tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="010 MUZIK",POWER TÜRK
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="010 MUZIK",POWER TÜRK TAPTAZE
+#EXTINF:-1 tvg-id="ext" tvg-name="POWER TÜRK TAPTAZE" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="010 MUZIK",POWER TÜRK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="010 MUZIK",POWER TÜRK SLOW
+#EXTINF:-1 tvg-id="ext" tvg-name="POWER TÜRK SLOW" tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="010 MUZIK",POWER TÜRK SLOW
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="010 MUZIK",POWER TÜRK AKUSTİK
+#EXTINF:-1 tvg-id="ext" tvg-name="POWER TÜRK AKUSTİK" tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="010 MUZIK",POWER TÜRK AKUSTİK
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="010 MUZIK",NUMBER ONE TÜRK
+#EXTINF:-1 tvg-id="ext" tvg-name="NUMBER ONE TÜRK" tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="010 MUZIK",NUMBER ONE TÜRK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg" group-title="010 MUZIK",NUMBER ONE TÜRK ASK
+#EXTINF:-1 tvg-id="ext" tvg-name="NUMBER ONE TÜRK ASK" tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg" group-title="010 MUZIK",NUMBER ONE TÜRK ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="010 MUZIK",NUMBER ONE TÜRK DAMAR
+#EXTINF:-1 tvg-id="ext" tvg-name="NUMBER ONE TÜRK DAMAR" tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="010 MUZIK",NUMBER ONE TÜRK DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg" group-title="010 MUZIK",NUMBER ONE TÜRK DANCE
+#EXTINF:-1 tvg-id="ext" tvg-name="NUMBER ONE TÜRK DANCE" tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg" group-title="010 MUZIK",NUMBER ONE TÜRK DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png" group-title="010 MUZIK",NUMBER ONE
+#EXTINF:-1 tvg-id="ext" tvg-name="NUMBER ONE" tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png" group-title="010 MUZIK",NUMBER ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="010 MUZIK",POWER TV
+#EXTINF:-1 tvg-id="ext" tvg-name="POWER TV" tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="010 MUZIK",POWER TV
 https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVNL477/pdance.png" group-title="010 MUZIK",POWER DANCE
+#EXTINF:-1 tvg-id="ext" tvg-name="POWER DANCE" tvg-logo="https://i.ibb.co/FVNL477/pdance.png" group-title="010 MUZIK",POWER DANCE
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png" group-title="010 MUZIK",POWER LOVE
+#EXTINF:-1 tvg-id="ext" tvg-name="POWER LOVE" tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png" group-title="010 MUZIK",POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="010 MUZIK",Muzika
+#EXTINF:-1 tvg-id="ext" tvg-name="Muzika" tvg-logo="" group-title="010 MUZIK",Muzika
 https://st2.mediabay.tv/KTRK-Muzika/tracks-v1a1/mono.m3u8?token=c20e62e45ee006d1dc44810b9761cdafd7561736-f0cddd772c690220e581efd586f3551d-1742053648-1742042848
-#EXTINF:-1 tvg-logo="" group-title="010 MUZIK",Tajik Muzic
+#EXTINF:-1 tvg-id="ext" tvg-name="Tajik Muzic" tvg-logo="" group-title="010 MUZIK",Tajik Muzic
 https://st2.mediabay.tv/Mediabay-TJ/tracks-v3a1/mono.m3u8?token=3b65950a7a5bbb9685209bbb9954ef79f4685dc5-9046b142ca41e99402e59dd7ff287755-1742053763-1742042963
-#EXTINF:-1 tvg-logo="" group-title="010 MUZIK",Navo
+#EXTINF:-1 tvg-id="ext" tvg-name="Navo" tvg-logo="" group-title="010 MUZIK",Navo
 https://st2.mediabay.tv/Navo/tracks-v2a1/mono.m3u8?token=aefa4777e499f88f0ba71a2dc2c44bf8a43bb27b-65fd4a89e5503485a5b8637853f925c5-1742053968-1742043168
-#EXTINF:-1 tvg-logo="" group-title="010 MUZIK",Uzbek Music
+#EXTINF:-1 tvg-id="ext" tvg-name="Uzbek Music" tvg-logo="" group-title="010 MUZIK",Uzbek Music
 https://st2.mediabay.tv/NavoiyTV/tracks-v1a1/mono.m3u8?token=cc599870fa2f206e0573ffc92f2fc2e4d40bd8e3-40e2fe7b367ea91216285fcb51c8a8bd-1742054041-1742043241
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="BIZ TV MUSIC" tvg-logo="https://www.parsatv.com/index_files/channels/bizmusic.jpg" group-title="010 MUZIK",BIZ TV MUSIC
 https://fl.biztv.media/music_480_FbLnBjkOoclIXBLHLbLTuwFOKaihFS/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="011 TURK",TÜRKMENELİ TV
+#EXTINF:-1 tvg-id="ext" tvg-name="TÜRKMENELİ TV" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="011 TURK",TÜRKMENELİ TV
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Art TV" tvg-logo="https://www.atr.ua/public/common/logo_atr.svg" group-title="011 TURK",Art TV
 https://atr-live.cdn-02.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8?_=1738939187
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",BRT 1
+#EXTINF:-1 tvg-id="ext" tvg-name="BRT 1" tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",BRT 1
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",BRT 2
+#EXTINF:-1 tvg-id="ext" tvg-name="BRT 2" tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",BRT 2
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",ADA TV
+#EXTINF:-1 tvg-id="ext" tvg-name="ADA TV" tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",ADA TV
 https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",KANAL T
+#EXTINF:-1 tvg-id="ext" tvg-name="KANAL T" tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",KANAL T
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",GENÇ TV
+#EXTINF:-1 tvg-id="ext" tvg-name="GENÇ TV" tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",GENÇ TV
 https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",KIBRIS TV
+#EXTINF:-1 tvg-id="ext" tvg-name="KIBRIS TV" tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",KIBRIS TV
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",SİM TV
+#EXTINF:-1 tvg-id="ext" tvg-name="SİM TV" tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",SİM TV
 https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",TV 2020
+#EXTINF:-1 tvg-id="ext" tvg-name="TV 2020" tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",TV 2020
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",KK TV
+#EXTINF:-1 tvg-id="ext" tvg-name="KK TV" tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",KK TV
 http://old.kuzeykibris.tv/m3u8/kktv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="011 TURK",SILKWAY 
+#EXTINF:-1 tvg-id="ext" tvg-name="SILKWAY " tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="011 TURK",SILKWAY 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/silkway.m3u8
-
-
-
-
-
