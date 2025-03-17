@@ -22,7 +22,8 @@ https://euc12-0.playlist.ttvnw.net/v1/playlist/CvsFpnRQpsqQ5thY5UzSXXLYtCpXNJQTg
 https://stream-cdn-iad3.vaughnsoft.net/play/live_teleonmediagroups.flv
 #EXTINF:-1 tvg-id="CNBC-e.tr" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="001 DIZI",CNBC-e  
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
-http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/193220.ts
+# ? https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
+# ? http://191.96.100.121:80/live/mgtkrt78954/21092024emn58/193220.ts
 
 #EXTINF:-1 tvg-id="MELTEM TV.tr" tvg-name="MELTEM TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Meltem-TV-canli-yayin-vipotv.png" group-title="002 ULUSAL",MELTEM TV 
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8 
