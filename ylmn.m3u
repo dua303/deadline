@@ -263,20 +263,26 @@ http://pozzuoli2024.lumos.best:80/ciro33/223344/601839
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1764
 #EXTINF:-1 tvg-id="beINMOVIESPREMIERE2HD" tvg-name="Bein Movies Premiere 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Premiere 2  
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1765
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES FAMILY HD" tvg-logo="http://188.214.27.75/pcnn/family.png" group-title="004 BeIN SINEMA",beIN MOVIES FAMILY HD
+http://gl.firecar.cc:80/Yakupkara/020922y/32219
+#EXTINF:-1 tvg-id="" tvg-name="beIN SERIES COMEDY" tvg-logo="http://188.214.27.75/pcnn/bein_series_comedy.png" group-title="004 BeIN SINEMA",beIN SERIES COMEDY
+http://gl.firecar.cc:80/Yakupkara/020922y/1685
+#EXTINF:-1 tvg-id="1" tvg-name="beIN SERIES DRAMA" tvg-logo="http://188.214.27.75/pcnn/bein_series_drama.png" group-title="004 BeIN SINEMA",beIN SERIES DRAMA
+http://gl.firecar.cc:80/Yakupkara/020922y/5877
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 1 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 1 4K+
 http://gl.firecar.cc:80/Yakupkara/020922y/141030
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 2 4K+
-http://gl.firecar.cc:80/Yakupkara/020922y/26591
+http://gl.firecar.cc:80/Yakupkara/020922y/141029
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Box Office 3 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 3 4K+
-http://pozzuoli2024.lumos.best:80/ciro33/223344/601840
+http://gl.firecar.cc:80/Yakupkara/020922y/69148
 #EXTINF:-1 tvg-id="beIN SERIES 1.tr" tvg-name="Bein Series 1 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 1 4K+
-http://pozzuoli2024.lumos.best:80/ciro33/223344/601848
+http://gl.firecar.cc:80/Yakupkara/020922y/5869
 #EXTINF:-1 tvg-id="beIN SERIES 2.tr" tvg-name="Bein Series 2 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 2 4K+
-http://pozzuoli2024.lumos.best:80/ciro33/223344/601849
+http://gl.firecar.cc:80/Yakupkara/020922y/26591
 #EXTINF:-1 tvg-id="beIN SERIES 3.tr" tvg-name="Bein Series 3 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 3 4K+
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/298428
+http://gl.firecar.cc:80/Yakupkara/020922y/5870
 #EXTINF:-1 tvg-id="beIN SERIES 4.tr" tvg-name="Bein Series 4 4K+" tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 4 4K+
-http://pozzuoli2024.lumos.best:80/ciro33/223344/601838
+http://gl.firecar.cc:80/Yakupkara/020922y/5868
 
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-name="Moviesmart Turk 4K+" tvg-logo="https://tvprofil.com/img/kanali-logo/MovieSmart_Turk_TR_logo.png?1733490221" group-title="004 DSMART SINEMA",Moviesmart Turk  
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1780
