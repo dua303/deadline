@@ -508,8 +508,8 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="POWER LOVE" tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png" group-title="010 MUZIK",POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-
-
+#EXTINF:-1  group-title="010 MUZIK",MUSIKA
+https://st2.mediabay.tv/KG_KTRK-Muzika/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BIZ TV MUSIC" tvg-logo="https://www.parsatv.com/index_files/channels/bizmusic.jpg" group-title="010 MUZIK",BIZ TV MUSIC
 https://fl.biztv.media/music_480_FbLnBjkOoclIXBLHLbLTuwFOKaihFS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TÜRKMENELİ TV" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="011 TURK",TÜRKMENELİ TV
