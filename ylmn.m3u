@@ -156,6 +156,8 @@ https://live.euromediacenter.com/tvmor/index.m3u8
 https://live.euromediacenter.com/brukselturk/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BALKAN TÜRK" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="003 YEREL",BALKAN TÜRK
 https://live.euromediacenter.com/balkanturktv/index.m3u8
+#EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",ONCU TV
+https://edge.socialsmart.tv/oncurtv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Kanal G" tvg-logo="http://assets.tvcdn.net/904d01fa-01cb-4f2d-9b8e-784061c29d00.png" group-title="003 YEREL",Kanal G
 
 https://radyotelekomtv.com/player/m3u8/909b4a1658eee6d92c395f282ae2ce2f/chunklist_w1164695190.m3u8
