@@ -158,6 +158,8 @@ https://live.euromediacenter.com/brukselturk/index.m3u8
 https://live.euromediacenter.com/balkanturktv/index.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",ONCU TV
 https://edge.socialsmart.tv/oncurtv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",MUGLA TURK
+https://edge.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Kanal G" tvg-logo="http://assets.tvcdn.net/904d01fa-01cb-4f2d-9b8e-784061c29d00.png" group-title="003 YEREL",Kanal G
 
 https://radyotelekomtv.com/player/m3u8/909b4a1658eee6d92c395f282ae2ce2f/chunklist_w1164695190.m3u8
@@ -170,6 +172,8 @@ https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
 https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
+#EXTINF:-1 group-title="004 SINEMA",Grand Cinema 
+https://gcinemahls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL HD" tvg-logo="http://188.214.27.75/pcnn/universal.png" group-title="TR SINEMA",UNIVERSAL HD
 http://gl.firecar.cc:80/Yakupkara/020922y/171498
@@ -464,8 +468,12 @@ https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-id="trtsporyildiz" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" group-title="009 SPOR",TRT Spor Yıldız
 https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?app=web&platform=trtspor
 #EXTINF:-1 tvg-name="A Spor" tvg-id="aspor" tvg-logo="https://bursasporxcom.teimg.com/crop/1280x720/bursasporx-com/uploads/2024/10/imaj-aspor.jpg" group-title="009 SPOR",A Spor
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 https://tv.arectv13.sbs/live/aspor.m3u8
-
+#EXTINF:-1  group-title="009 SPOR",HT Spor
+http://185.234.111.229:8000/play/a016
+#EXTINF:-1  group-title="009 SPOR",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="" group-title="010 MUZIK",TRT MUZIK
