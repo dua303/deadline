@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/sht
 #EXTINF:-1 tvg-id="ext" tvg-name="EURO D" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="002 ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-#EXTINF:-1, group-title="002 ULUSAL" AL: Kanal D drama
+#EXTINF:-1 group-title="002 ULUSAL", Kanal D drama
 http://ssl1.polar1.site:8080/Eduartmuqaj/d0:d0:03:47:2b:8b/13675
 
 #EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="002 ULUSAL",KANAL 7 AVRUPA
