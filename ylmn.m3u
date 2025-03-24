@@ -181,8 +181,7 @@ https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
 https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
-#EXTINF:-1 group-title="004 SINEMA",Grand Cinema 
-https://gcinemahls.wns.live/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL HD" tvg-logo="http://188.214.27.75/pcnn/universal.png" group-title="TR SINEMA",UNIVERSAL HD
 http://gl.firecar.cc:80/Yakupkara/020922y/171498
@@ -479,73 +478,57 @@ https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?app=web&platform=trtsp
 #EXTINF:-1 tvg-name="A Spor" tvg-id="aspor" tvg-logo="https://bursasporxcom.teimg.com/crop/1280x720/bursasporx-com/uploads/2024/10/imaj-aspor.jpg" group-title="009 SPOR",A Spor
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 https://tv.arectv13.sbs/live/aspor.m3u8
+
 #EXTINF:-1  group-title="009 SPOR",HT Spor
 http://185.234.111.229:8000/play/a016
+
 #EXTINF:-1  group-title="009 SPOR",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 FHD" tvg-logo="https://i.ibb.co/Q38Hqw3V/14.png" group-title="TR ⭐ SPOR",S SPORT 1 FHD
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 FHD" tvg-logo="https://i.ibb.co/Q38Hqw3V/14.png" group-title="009 SPOR",S SPORT 1 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2025
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 FHD" tvg-logo="https://i.ibb.co/LdG43yVj/16.png" group-title="TR ⭐ SPOR",S SPORT 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 FHD" tvg-logo="https://i.ibb.co/LdG43yVj/16.png" group-title="009 SPOR",S SPORT 2 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2028
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporsmart.tr" tvg-name="SPOR SMART 1 FHD" tvg-logo="https://i.ibb.co/r2RrchDD/22.png" group-title="TR ⭐ SPOR",SPOR SMART 1 FHD
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2031
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR SMART 2 FHD" tvg-logo="https://i.ibb.co/YVPN4HS/24.png" group-title="TR ⭐ SPOR",SPOR SMART 2 FHD
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2033
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR FHD" tvg-logo="https://i.ibb.co/TBWdgJrx/34.png" group-title="TR ⭐ SPOR",TIVIBUSPOR FHD
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2040
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 1 FHD" tvg-logo="https://i.ibb.co/mVkj4m56/29.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 1 FHD
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2042
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 2 FHD" tvg-logo="https://i.ibb.co/tT4DpbTW/31.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 2 FHD
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2044
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://i.ibb.co/CsVq1mk7/3.png" group-title="TR ⭐ SPOR",EUROSPORT 1 FHD
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2036
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.tr" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://i.ibb.co/4nJHZJNK/5.png" group-title="TR ⭐ SPOR",EUROSPORT 2 FHD
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2037
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportstv.tr" tvg-name="SPORTS TV FHD" tvg-logo="https://i.ibb.co/twnN1rQy/26.png" group-title="TR ⭐ SPOR",SPORTS TV FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportstv.tr" tvg-name="SPORTS TV FHD" tvg-logo="https://i.ibb.co/twnN1rQy/26.png" group-title="009 SPOR",SPORTS TV 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/196080
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fbtv.tr" tvg-name="FB TV HD" tvg-logo="https://i.ibb.co/svY45TjG/8.png" group-title="TR ⭐ SPOR",FB TV HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fbtv.tr" tvg-name="FB TV HD" tvg-logo="https://i.ibb.co/svY45TjG/8.png" group-title="009 SPOR",FB TV HD
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/541402
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbatv.tr" tvg-name="NBA TV FHD" tvg-logo="https://i.ibb.co/TDmtjzXf/12.png" group-title="TR ⭐ SPOR",NBA TV FHD
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2048
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbatv.tr" tvg-name="NBA TV HD" tvg-logo="https://i.ibb.co/nqxrQWzt/13.png" group-title="TR ⭐ SPOR",NBA TV HD
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbatv.tr" tvg-name="NBA TV HD" tvg-logo="https://i.ibb.co/nqxrQWzt/13.png" group-title="009 SPOR",NBA TV HD
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2049
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT 3 SPOR (TBMM) FHD" tvg-logo="https://i.ibb.co/b51WzkRd/37.png" group-title="TR ⭐ SPOR",TRT 3 SPOR (TBMM) FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT 3 SPOR (TBMM) FHD" tvg-logo="https://i.ibb.co/b51WzkRd/37.png" group-title="009 SPOR",TRT 3 SPOR (TBMM) 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2020
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FIGHTBOX FHD" tvg-logo="https://i.ibb.co/Kj71xr1s/9.png" group-title="TR ⭐ SPOR",FIGHTBOX FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FIGHTBOX FHD" tvg-logo="https://i.ibb.co/Kj71xr1s/9.png" group-title="009 SPOR",FIGHTBOX FHD
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2047
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 1" tvg-logo="https://i.ibb.co/jvb1SbKK/18.png" group-title="TR ⭐ SPOR",S SPORT PLUS 1
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 1" tvg-logo="https://i.ibb.co/jvb1SbKK/18.png" group-title="009 SPOR",S SPORT PLUS 1
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/393375
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 2" tvg-logo="https://i.ibb.co/zLCn3jK/19.png" group-title="TR ⭐ SPOR",S SPORT PLUS 2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 2" tvg-logo="https://i.ibb.co/zLCn3jK/19.png" group-title="009 SPOR",S SPORT PLUS 2
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/471724
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 3" tvg-logo="https://i.ibb.co/tP4G2g7k/20.png" group-title="TR ⭐ SPOR",S SPORT PLUS 3
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 3" tvg-logo="https://i.ibb.co/tP4G2g7k/20.png" group-title="009 SPOR",S SPORT PLUS 3
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/432053
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 4" tvg-logo="https://i.ibb.co/qLJTYxcq/21.png" group-title="TR ⭐ SPOR",S SPORT PLUS 4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 4" tvg-logo="https://i.ibb.co/qLJTYxcq/21.png" group-title="009 SPOR",S SPORT PLUS 4
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/432052
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 HD" tvg-logo="https://i.ibb.co/yc3fbfKY/15.png" group-title="TR ⭐ SPOR",S SPORT 1 HD
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2026
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 HD" tvg-logo="https://i.ibb.co/1fryc1RH/17.png" group-title="TR ⭐ SPOR",S SPORT 2 HD
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2029
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporsmart.tr" tvg-name="SPOR SMART 1 HD" tvg-logo="https://i.ibb.co/hFYwjhM7/23.png" group-title="TR ⭐ SPOR",SPOR SMART 1 HD
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporsmart.tr" tvg-name="SPOR SMART 1 HD" tvg-logo="https://i.ibb.co/hFYwjhM7/23.png" group-title="009 SPOR",SPOR SMART 1 HD
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2032
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR SMART 2 HD" tvg-logo="https://i.ibb.co/QjN2Zzwd/25.png" group-title="TR ⭐ SPOR",SPOR SMART 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR SMART 2 HD" tvg-logo="https://i.ibb.co/QjN2Zzwd/25.png" group-title="009 SPOR",SPOR SMART 2 HD
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2034
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR HD" tvg-logo="https://i.ibb.co/BH4Zdzpj/35.png" group-title="TR ⭐ SPOR",TIVIBUSPOR HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR HD" tvg-logo="https://i.ibb.co/BH4Zdzpj/35.png" group-title="009 SPOR",TIVIBUSPOR HD
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2041
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/C53Ts5Zw/30.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 1 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://i.ibb.co/C53Ts5Zw/30.png" group-title="009 SPOR",TIVIBUSPOR 1 HD
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2043
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/9mKZZC7y/32.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://i.ibb.co/9mKZZC7y/32.png" group-title="009 SPOR",TIVIBUSPOR 2 HD
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2045
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/gZsXYDLf/33.png" group-title="TR ⭐ SPOR",TIVIBUSPOR 3 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://i.ibb.co/gZsXYDLf/33.png" group-title="009 SPOR",TIVIBUSPOR 3 HD
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/33296
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.ibb.co/wNL6NXTz/4.png" group-title="TR ⭐ SPOR",EUROSPORT 1 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.ibb.co/wNL6NXTz/4.png" group-title="009 SPOR",EUROSPORT 1 HD
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/196082
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.tr" tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.ibb.co/dJm6NWTw/6.png" group-title="TR ⭐ SPOR",EUROSPORT 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.tr" tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.ibb.co/dJm6NWTw/6.png" group-title="009 SPOR",EUROSPORT 2 HD
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/196081
 
 
