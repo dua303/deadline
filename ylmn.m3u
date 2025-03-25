@@ -136,9 +136,8 @@ https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Kanal 19" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="003 YEREL",Kanal 19
 http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="İlke TV" tvg-logo="http://assets.tvcdn.net/bb28dc1a-2368-4482-ab3a-020bb953fae9.png" group-title="003 YEREL",İlke TV    
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/583514
-https://yayin1.canlitv.fun/canlitv/ilketv.stream/chunklist_w1070477516.m3u8
+
+
 #EXTINF:-1 tvg-id="KanalV.tr" tvg-name="Kanal V" tvg-logo="http://assets.tvcdn.net/0c455b18-ce0f-435f-be77-4416d112918e.png" group-title="003 YEREL",Kanal V
 http://stream.tvcdn.net/yerel/kanal-v.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Engelsiz TV" tvg-logo="https://www.engelsiztv.com.tr/wp-content/uploads/2025/01/engelsiz-logoyeni.jpg" group-title="003 YEREL",Engelsiz TV
@@ -408,6 +407,9 @@ https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="" group-title="006 HABER",TV5  
 https://tv5-live.ercdn.net/tv5/tv5_720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="İlke TV" tvg-logo="http://assets.tvcdn.net/bb28dc1a-2368-4482-ab3a-020bb953fae9.png" group-title="006 HABER",İlke TV    
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/583514
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Cocuk" tvg-logo="" group-title="007 COCUK",Trt Cocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
