@@ -46,19 +46,19 @@ http://stream.tvcdn.net/yerel/tivi6.m3u8
 #EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJKB-PjVdsQnsoTjPrIgIcmNtc8gF7ft90g&s" group-title="002 ULUSAL",TRT 4K     
 http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89002  
 #EXTINF:-1 tvg-id="TRT.1.tr " tvg-name="TRT 1 " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="002 ULUSAL",TRT 1 
-http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/20484
+https://trt.daioncdn.net/trt-1/master_720p.m3u8
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="TRT.2.tr " tvg-name="TRT 2 " tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="002 ULUSAL",TRT 2
-http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/186242
+
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT.AVAZ.tr" tvg-name="TRT Avaz" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trtavaztv.png" group-title="002 ULUSAL",TRT Avaz 
-http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/194903
+
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTTÜRK.tr" tvg-name="TRT Türk " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png" group-title="002 ULUSAL",TRT Türk 
-http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/196978
+
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT.Belgesel.tr" tvg-name="TRT BELGESEL" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Belgesel-canli-izle-vipotv-en-kaliteli-belgesel-filmleri-burada.png" group-title="002 ULUSAL",TRT BELGESEL
-http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/13286
+
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/dmaxtv.png" group-title="002 ULUSAL",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
