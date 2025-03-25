@@ -48,12 +48,12 @@ http://stream.tvcdn.net/yerel/tivi6.m3u8
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1841
 http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89002  
 #EXTINF:-1 tvg-id="TRT.1.tr " tvg-name="TRT 1 " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trt-1-izle-vipotv-turkiye-ulusal-kanal.png" group-title="002 ULUSAL",TRT 1 
-https://trt.daioncdn.net/trt-1/master_720p.m3u8
+https://trt.daioncdn.net/trt-1/master.m3u8
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="TRT.2.tr " tvg-name="TRT 2 " tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/trt2logobeyaz.png" group-title="002 ULUSAL",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT.AVAZ.tr" tvg-name="TRT Avaz" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/trtavaztv.png" group-title="002 ULUSAL",TRT Avaz 
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTÜRK.tr" tvg-name="TRT Türk " tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Turk-canli-izle-vpiotv-turkiye-haber-bilgi-eglence-servisi.png" group-title="002 ULUSAL",TRT Türk 
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT.Belgesel.tr" tvg-name="TRT BELGESEL" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/TRT-Belgesel-canli-izle-vipotv-en-kaliteli-belgesel-filmleri-burada.png" group-title="002 ULUSAL",TRT BELGESEL
