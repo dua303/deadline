@@ -96,8 +96,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/sht
 #EXTINF:-1 tvg-id="ext" tvg-name="EURO D" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="002 ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="KANAL D DRAMA" tvg-logo="" group-title="002 ULUSAL",KANAL D DRAMA
-http://ssl1.polar1.site:8080/Eduartmuqaj/d0:d0:03:47:2b:8b/13675
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="002 ULUSAL",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
@@ -167,8 +166,7 @@ https://edge.socialsmart.tv/oncurtv/bant1/chunks.m3u8
 https://edge.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="MEGA TV SABAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/1200px-Mega_TV_logo_2016.svg.png" group-title="004 SINEMA",MEGA TV SABAN
-https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="MAGA TV SINEMA" tvg-logo="" group-title="004 SINEMA",MAGA TV SINEMA
 https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
