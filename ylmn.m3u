@@ -86,7 +86,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
 #EXTINF:-1 tvg-id="Showmax.tr" tvg-name="SHOW MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/512px-Show_MAX_logo.svg.png" group-title="002 ULUSAL",SHOW MAX
 https://ciner-live.ercdn.net/showmax/showmax_720p.m3u8?e=1742939887&st=-7t0X7PN4EDd5VWhOmhMRA&tv=1
-http://pozzuoli2024.lumos.best:80/ciro33/223344/602008
+
 #EXTINF:-1 tvg-id="ext" tvg-name="ATV AVRUPA " tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="002 ULUSAL",ATV AVRUPA 
 http://gl.firecar.cc:80/Yakupkara/020922y/10306
 #EXTINF:-1 tvg-id="ext" tvg-name="EURO STAR" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="002 ULUSAL",EURO STAR
@@ -125,8 +125,6 @@ http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Süper 7 TV" tvg-logo="http://assets.tvcdn.net/94505dd8-b52d-4b4d-b1e4-9fda2829ed57.png" group-title="003 YEREL",Süper 7 TV
 http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
 
-
-https://stream.castr.com/6606b96e9fa9fb790a255296/live_0303bec01eac11efa26bbdf96dc3f28e/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ONDE TV" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/bigclt2zf6hcv5c6vlzx" group-title="003 YEREL",ONDE TV
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 
