@@ -580,6 +580,7 @@ https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV 2020" tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",TV 2020
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="KK TV" tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png" group-title="011 TURK",KK TV
+http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SILKWAY " tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="011 TURK",SILKWAY 
@@ -588,7 +589,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/sil
 #EXTINF:-1 tvg-id="NULL" tvg-name="TeleOn" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/Teleon-TV-live-vipotv-turkey.png" group-title="001 DIZI",TeleOn
 https://tx.flv.nimo.tv/live/su2139512740036rcc6e9e02ff3aac4949edfc4134d816a4.flv?wsSecret=d418866858d0da5bff251e343cee6f45&wsTime=67df2ebe&seqid=3168431775567&ctype=nimo_media_web&ver=1&appid=81&tp=1742679742394&needwm=1&ratio=500&dMod=mseh-0&sdkPcdn=1_1&u=1423539382261&t=100&sv=2412091148&sdk_sid=1742679740445&a_block=0
 https://stream-cdn-iad3.vaughnsoft.net/play/live_teleonmediagroups.flv
-http://old.kuzeykibris.tv/m3u8/kktv.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TV 25" tvg-logo="http://assets.tvcdn.net/81f002fb-a59f-480e-9aa0-91b096ab491e.png" group-title="003 YEREL",TV 25  
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
