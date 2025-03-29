@@ -155,6 +155,7 @@ https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FRT" tvg-logo="http://logo.multicms.info/tvlogo/frttv.jpg" group-title="003 YEREL",FRT   
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8  
 #EXTINF:-1 tvg-id="ext" tvg-name="TYT TÜRK" tvg-logo="https://i.ibb.co/N2n2tqMz/tyt.png" group-title="003 YEREL",TYT TÜRK
+https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.ts.m3u8
 https://cdn4.yayin.com.tr/tytturk/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MOR TV" tvg-logo="https://i.ibb.co/qRsfyb2/tvmor.png" group-title="003 YEREL",MOR TV
 https://live.euromediacenter.com/tvmor/index.m3u8
