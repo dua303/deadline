@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EPIC.DRAMA.tr" tvg-name="Epic Drama" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png" group-title="001 DIZI",Epic Drama
-http://promaxnox1.cfd:80/live/Atas74/VHwrXXNCW3/67186.ts
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/195990
 
 
@@ -13,8 +12,9 @@ http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/15714
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/496000
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/32147
 #EXTINF:-1 tvg-id="BBC First" tvg-name="TR: BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_First_Logo_2014.svg/200px-BBC_First_Logo_2014.svg.png" group-title="001 DIZI",TR: BBC First   
+
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/165462
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/226878
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TR:BLUTV PLAY 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png" group-title="001 DIZI",BLUTV PLAY 1 
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
@@ -647,8 +647,7 @@ http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/silkway.m3u8
 
 #EXTINF:-1 tvg-id="NULL" tvg-name="TeleOn" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/Teleon-TV-live-vipotv-turkey.png" group-title="001 DIZI",TeleOn
-https://tx.flv.nimo.tv/live/su2139512740036rcc6e9e02ff3aac4949edfc4134d816a4.flv?wsSecret=d418866858d0da5bff251e343cee6f45&wsTime=67df2ebe&seqid=3168431775567&ctype=nimo_media_web&ver=1&appid=81&tp=1742679742394&needwm=1&ratio=500&dMod=mseh-0&sdkPcdn=1_1&u=1423539382261&t=100&sv=2412091148&sdk_sid=1742679740445&a_block=0
-https://stream-cdn-iad3.vaughnsoft.net/play/live_teleonmediagroups.flv
+https://al.flv.nimo.tv/live/su2139512740036rcc6e9e02ff3aac4949edfc4134d816a4.flv?wsSecret=fa109f4bab1f508b43fe291972f8410f&wsTime=67e9d25b&seqid=2482838737282&ctype=nimo_media_web&ver=1&appid=81&tp=1743376987655&needwm=1&ratio=500&dMod=mseh-0&sdkPcdn=1_1&u=740255450155&t=100&sv=2412091148&sdk_sid=1743377000377&a_block=0
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TV 25" tvg-logo="http://assets.tvcdn.net/81f002fb-a59f-480e-9aa0-91b096ab491e.png" group-title="003 YEREL",TV 25  
