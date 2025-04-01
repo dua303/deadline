@@ -51,7 +51,7 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" group-title="002 ULUSAL",TV8
 https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8 HD.tr" group-title="002 ULUSAL",TV 8
+#EXTINF:-1 tvg-id="TV8.tr" group-title="002 ULUSAL",TV 8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-id="Atv.tr" group-title="002 ULUSAL",ATV 
 https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
@@ -66,7 +66,7 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-id="Beyaz.TV.tr" group-title="002 ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
-#EXTINF:-1 tvg-id="KANAL 7.tr" group-title="002 ULUSAL",KANAL 7 
+#EXTINF:-1 tvg-id="KANAL7.tr" group-title="002 ULUSAL",KANAL 7 
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:-1 tvg-id="WomanTV.tr" tvg-name="Woman TV" tvg-logo="http://assets.tvcdn.net/f85e5a28-5d65-405e-a079-be0a7893b8bd.png" group-title="002 ULUSAL",Woman TV
 http://stream.tvcdn.net/diger/woman-tv.m3u8
