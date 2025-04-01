@@ -68,23 +68,23 @@ http://stream.tvcdn.net/ulusal/now-tv.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="KANAL7.tr" group-title="002 ULUSAL",KANAL 7 
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
-#EXTINF:-1 tvg-id="WomanTV.tr" tvg-name="Woman TV" tvg-logo="http://assets.tvcdn.net/f85e5a28-5d65-405e-a079-be0a7893b8bd.png" group-title="002 ULUSAL",Woman TV
+#EXTINF:-1 tvg-id="WomanTV.tr" group-title="002 ULUSAL",Woman TV
 http://stream.tvcdn.net/diger/woman-tv.m3u8
-#EXTINF:-1 tvg-id="TV.8,5.tr" tvg-name="TR: TV 8.5" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5924449cd6f439663be1e725" group-title="002 ULUSAL",TV 8.5
+#EXTINF:-1 tvg-id="TV.8,5.tr" group-title="002 ULUSAL",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=758wgkvz08v5&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
-#EXTINF:-1 tvg-id="Teve.2.tr" tvg-name="TEVE 2 4K+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="002 ULUSAL",TEVE 2
+#EXTINF:-1 tvg-id="Teve.2.tr" group-title="002 ULUSAL",TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-#EXTINF:-1 tvg-id="a2.tr" tvg-name="TR: A2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="002 ULUSAL",TR: A2
+#EXTINF:-1 tvg-id="a2.tr" group-title="002 ULUSAL",TR: A2
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
-#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="SHOW MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/512px-Show_MAX_logo.svg.png" group-title="002 ULUSAL",SHOW MAX
+#EXTINF:-1 tvg-id="SHOW MAX.tr"  group-title="002 ULUSAL",SHOW MAX
 http://pena46tv.xyz:80/play/xGpfVqrJl3DbO8bz8p6N560nMIvxHvpEoxRUcJuSkZc
-#EXTINF:-1 tvg-id="ext" tvg-name="ATV AVRUPA " tvg-logo="https://i.ibb.co/PtH4wGr/atvavr.png" group-title="002 ULUSAL",ATV AVRUPA 
+#EXTINF:-1 tvg-id="ATV AVRUPA.tr" group-title="002 ULUSAL",ATV AVRUPA 
 http://gl.firecar.cc:80/Yakupkara/020922y/10306
-#EXTINF:-1 tvg-id="ext" tvg-name="EURO STAR" tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png" group-title="002 ULUSAL",EURO STAR
+#EXTINF:-1 tvg-id="EUROSTAR.tr" group-title="002 ULUSAL",EURO STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SHOW TÜRK" tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="002 ULUSAL",SHOW TÜRK
+#EXTINF:-1 tvg-id="SHOW TURK.tr" group-title="002 ULUSAL",SHOW TÜRK
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="EURO D" tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png" group-title="002 ULUSAL",EURO D
+#EXTINF:-1 tvg-id="EURO D.tr" group-title="002 ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
 
