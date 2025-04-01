@@ -9,27 +9,27 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/165462
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/495936
 #EXTINF:-1 tvg-id="DIZI SMART MAX" group-title="001 DIZI",DIZI SMART MAX
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/496000
-#EXTINF:-1 tvg-id="ext" tvg-name="TR:BLUTV PLAY 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png" group-title="001 DIZI",BLUTV PLAY 1 
+#EXTINF:-1 tvg-id="BLUTV PLAY 1" group-title="001 DIZI",BLUTV PLAY 1 
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TR:BLUTV PLAY 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay2.png" group-title="001 DIZI",BLUTV PLAY 2 
+#EXTINF:-1 tvg-id="BLUTV PLAY 2" group-title="001 DIZI",BLUTV PLAY 2 
 https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TR:TABİİ TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZkaQcRqhRniHcy6WrDuWpqEZRWsUn6i8lXg&s" group-title="001 DIZI",TABİİ TV
+#EXTINF:-1 tvg-id="TABİİ TV" group-title="001 DIZI",TABİİ TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TR:TRT NOSTALJİ HD" tvg-logo="https://yt3.googleusercontent.com/aTkDrJ4-tvQBycXJkhMgBBfX-o4iw0AMykmjfRCSiixpXIxmPj3spULmpXtKvSxn0aQeNfWNOQ=s900-c-k-c0x00ffffff-no-rj" group-title="001 DIZI",TRT NOSTALJİ HD
+#EXTINF:-1 tvg-id="TRT NOSTALJİ"  group-title="001 DIZI",TRT NOSTALJİ
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-id="CNBC-e.tr" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="001 DIZI",CNBC-e  
+#EXTINF:-1 tvg-id="CNBC-e.tr" group-title="001 DIZI",CNBC-e  
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/553120
-#EXTINF:-1 tvg-id="MELTEM TV.tr" tvg-name="MELTEM TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Meltem-TV-canli-yayin-vipotv.png" group-title="002 ULUSAL",MELTEM TV 
+#EXTINF:-1 tvg-id="MELTEM TV.tr" group-title="002 ULUSAL",MELTEM TV 
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8 
-#EXTINF:-1 tvg-id="ext" tvg-name="Bir TV" tvg-logo="https://pbs.twimg.com/profile_images/1642157784220221444/0gJNz4mL_400x400.jpg" group-title="002 ULUSAL",Bir TV
+#EXTINF:-1 tvg-id="BIR TV" group-title="002 ULUSAL",Bir TV
 https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
-#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/360tv.png" group-title="002 ULUSAL",360
+#EXTINF:-1 tvg-id="360.tr" group-title="002 ULUSAL",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/tv4-canli-izleyin-vipotv-turkiye.png" group-title="002 ULUSAL",TV 4
+#EXTINF:-1 tvg-id="TV4.tr" group-title="002 ULUSAL",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-id="Cine1 Tv.tr" tvg-name="CINE1" tvg-logo="https://vipotv.com/wp-content/uploads/2023/04/Cine1-izle-vipotv.png" group-title="002 ULUSAL",CINE1
+#EXTINF:-1 tvg-id="CINE 1.tr" group-title="002 ULUSAL",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-#EXTINF:-1 tvg-id="Tivi6" tvg-name="TiVi 6" tvg-logo="https://vipotv.com/wp-content/uploads/2022/03/Tivi-6-izle-vipotv-turkiye.png" group-title="002 ULUSAL",TiVi 6 
+#EXTINF:-1 tvg-id="TIVI 6" group-title="002 ULUSAL",TiVi 6 
 http://stream.tvcdn.net/yerel/tivi6.m3u8
 
 #EXTINF:-1 tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJKB-PjVdsQnsoTjPrIgIcmNtc8gF7ft90g&s" group-title="002 ULUSAL",TRT 4K     
