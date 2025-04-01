@@ -66,9 +66,9 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-id="Beyaz.TV.tr" group-title="002 ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
-#EXTINF:-1 tvg-id="KANAL7.tr" group-title="002 ULUSAL",KANAL 7 
+#EXTINF:-1 tvg-id="KANAL.7.tr" group-title="002 ULUSAL",KANAL 7 
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
-#EXTINF:-1 tvg-id="WomanTV.tr" group-title="002 ULUSAL",Woman TV
+#EXTINF:-1 tvg-id="Woman.TV.tr" group-title="002 ULUSAL",Woman TV
 http://stream.tvcdn.net/diger/woman-tv.m3u8
 #EXTINF:-1 tvg-id="TV.8,5.tr" group-title="002 ULUSAL",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=758wgkvz08v5&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
@@ -86,11 +86,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/est
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 #EXTINF:-1 tvg-id="EURO D.tr" group-title="002 ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png" group-title="002 ULUSAL",KANAL 7 AVRUPA
+#EXTINF:-1 tvg-id="KANAL 7 AVRUPA.tr" group-title="002 ULUSAL",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Vav.Tv.tr" tvg-name="VAV TV" tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/vav-tv-canli-izle-vipotv-turkey.png" group-title="002 ULUSAL",VAV TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="Diyanet.TV.tr" tvg-name="Diyanet TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/2560px-Diyanet_TV_logo.svg.png" group-title="002 ULUSAL",Diyanet TV
