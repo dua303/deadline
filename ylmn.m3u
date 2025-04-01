@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="EPIC.DRAMA.tr" tvg-name="Epic Drama" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png" group-title="001 DIZI",Epic Drama
+#EXTINF:-1 tvg-id="EPIC.DRAMA.tr" group-title="001 DIZI",Epic Drama
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/195990
-#EXTINF:-1 tvg-id="FX.tr" tvg-name="Fx HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2560px-FX-logo.svg.png" group-title="001 DIZI",Fx 
+#EXTINF:-1 tvg-id="FX.tr" group-title="001 DIZI",Fx 
 http://gl.firecar.cc:80/Yakupkara/020922y/10795
-#EXTINF:-1 tvg-id="BBC First" tvg-name="TR: BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_First_Logo_2014.svg/200px-BBC_First_Logo_2014.svg.png" group-title="001 DIZI",TR: BBC First   
+#EXTINF:-1 tvg-id="BBC First" group-title="001 DIZI",TR: BBC First   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/165462
-#EXTINF:-1 tvg-id="DIZI PREMIUM" tvg-name="Premium Dizismart " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="001 DIZI",Premium Dizismart
+#EXTINF:-1 tvg-id="DIZI PREMIUM" group-title="001 DIZI",DIZI PREMIUM
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/495936
-#EXTINF:-1 tvg-id="ext" tvg-name="DIZI SMART MAX" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/DIZISMART%20MAX.png" group-title="001 DIZI",DIZI SMART MAX
+#EXTINF:-1 tvg-id="DIZI SMART MAX" group-title="001 DIZI",DIZI SMART MAX
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/496000
 #EXTINF:-1 tvg-id="ext" tvg-name="TR:BLUTV PLAY 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png" group-title="001 DIZI",BLUTV PLAY 1 
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
