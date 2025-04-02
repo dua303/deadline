@@ -478,18 +478,7 @@ http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/6100
 
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-id="TabiiSpor" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43023.jpeg" group-title="009 SPOR",Tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 1" tvg-id="TabiiSpor1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43005.jpeg" group-title="009 SPOR",Tabii Spor 1
-https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 2" tvg-id="TabiiSpor2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43008.jpeg" group-title="009 SPOR",Tabii Spor 2
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 3" tvg-id="TabiiSpor3" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43011.jpeg" group-title="009 SPOR",Tabii Spor 3
-https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 4" tvg-id="TabiiSpor4" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43014.jpeg" group-title="009 SPOR",Tabii Spor 4
-https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 5" tvg-id="TabiiSpor5" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43017.jpeg" group-title="009 SPOR",Tabii Spor 5
-https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="Tabii Spor 6" tvg-id="TabiiSpor6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43020.jpeg" group-title="009 SPOR",Tabii Spor 6
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
+
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TrtSpor" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/40480_0-0-465-261.jpeg" group-title="009 SPOR",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-id="trtsporyildiz" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" group-title="009 SPOR",TRT Spor Yıldız
@@ -584,8 +573,7 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="POWER LOVE" tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png" group-title="010 MUZIK",POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1  group-title="010 MUZIK",MUSIKA
-https://st2.mediabay.tv/KG_KTRK-Muzika/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="BIZ TV MUSIC" tvg-logo="https://www.parsatv.com/index_files/channels/bizmusic.jpg" group-title="010 MUZIK",BIZ TV MUSIC
 https://fl.biztv.media/music_480_FbLnBjkOoclIXBLHLbLTuwFOKaihFS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TÜRKMENELİ TV" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="011 TURK",TÜRKMENELİ TV
@@ -620,16 +608,7 @@ https://al.flv.nimo.tv/live/su2139512740036rcc6e9e02ff3aac4949edfc4134d816a4.flv
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TV 25" tvg-logo="http://assets.tvcdn.net/81f002fb-a59f-480e-9aa0-91b096ab491e.png" group-title="003 YEREL",TV 25  
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ÜN TV" tvg-logo="https://www.konyapedia.com/storage/%C3%BCniversite%20televizyonu.jpg" group-title="003 YEREL",ÜN TV  
-https://yayin1.canlitv.fun/canlitv/untv.stream/chunklist_w1386735050.m3u8?hash=b6f04e0ceace52ec2fc6ee88f76cab9b
-#EXTINF:-1 tvg-id="ext" tvg-name="CANKIRI TV" tvg-logo="https://cankiritv.com.tr/images/genel/cankirilogoZ-ZKopya_1.png" group-title="003 YEREL",CANKIRI TV  
-https://yayin1.canlitv.fun/canlitv/cankiritv.stream/chunklist_w1381922302.m3u8?hash=b6f04e0ceace52ec2fc6ee88f76cab9b
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Kanal G" tvg-logo="http://assets.tvcdn.net/904d01fa-01cb-4f2d-9b8e-784061c29d00.png" group-title="003 YEREL",Kanal G
-https://radyotelekomtv.com/player/m3u8/909b4a1658eee6d92c395f282ae2ce2f/chunklist_w275641094.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="ISTANBUL TV" tvg-logo="" group-title="003 YEREL",ISTANBUL TV
-https://stream.castr.com/6606b96e9fa9fb790a255296/live_0303bec01eac11efa26bbdf96dc3f28e/tracks-v1/index.fmp4.m3u8
 
 
 
