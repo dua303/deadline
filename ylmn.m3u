@@ -410,75 +410,75 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 #EXTINF:-1 tvg-id="Halk.TV.tr" group-title="006 HABER",Halk TV   
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=751s8s9ogjc3&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3hhaber-live.ercdn.net/flashhaber/flashhaber_720p.m3u8  
 
-#EXTINF:-1 tvg-id="SZC.tr" tvg-name="Sözcü TV 2 4K" tvg-logo="" group-title="006 HABER",Sözcü TV  
+#EXTINF:-1 tvg-id="SZC.tr"  group-title="006 HABER",Sözcü TV  
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8  
-#EXTINF:-1 tvg-id="tv.100.tr" tvg-name="TV 100 4K+" tvg-logo="" group-title="006 HABER",TV 100   
+#EXTINF:-1 tvg-id="tv.100.tr" group-title="006 HABER",TV 100   
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Mavi Karadeniz" tvg-logo="" group-title="006 HABER",Mavi Karadeniz
+#EXTINF:-1 tvg-id="ext"  group-title="006 HABER",Mavi Karadeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8  
-#EXTINF:-1 tvg-id="Ulusal.1.tr" tvg-name="ULUSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png" group-title="006 HABER",ULUSAL TV  
+#EXTINF:-1 tvg-id="Ulusal.1.tr" group-title="006 HABER",ULUSAL TV  
 https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8 
-#EXTINF:-1 tvg-id="Lider.Haber.tr" tvg-name="Lider TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPetOFCn_nsYX6EVJwnZujeJFxlUHLm-Htgw&s" group-title="006 HABER",Lider TV  
+#EXTINF:-1 tvg-id="Lider.Haber.tr"  group-title="006 HABER",Lider TV  
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 
-#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="" group-title="006 HABER",TV5  
+#EXTINF:-1 tvg-id="TV5"  group-title="006 HABER",TV5  
 https://tv5-live.ercdn.net/tv5/tv5_720p.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="İlke TV" tvg-logo="" group-title="006 HABER",İlke TV    
+#EXTINF:-1 tvg-id="ext"  group-title="006 HABER",İlke TV    
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/583514
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Cocuk" tvg-logo="" group-title="007 COCUK",Trt Cocuk
+#EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Trt Cocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Diyanet Cocuk 4K" tvg-logo="" group-title="007 COCUK",Diyanet Cocuk 
+#EXTINF:-1 tvg-id="ext"  tvg-logo="" group-title="007 COCUK",Diyanet Cocuk 
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.tr" tvg-name="Disney JR" tvg-logo="" group-title="007 COCUK",Disney JR
+#EXTINF:-1 tvg-id="DisneyJunior.tr" t group-title="007 COCUK",Disney JR
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481408
-#EXTINF:-1 tvg-id="ext" tvg-name="Nick JR" tvg-logo="" group-title="007 COCUK",Nick JR
+#EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Nick JR
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481401
-#EXTINF:-1 tvg-id="ext" tvg-name="Cartoonito" tvg-logo="" group-title="007 COCUK",Cartoonito
+#EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Cartoonito
 http://sunxtinyur6.cfd:80/aliuzun090724ay/369063890553/2064
-#EXTINF:-1 tvg-id="ext" tvg-name="Minika Go" tvg-logo="" group-title="007 COCUK",Minika Go
+#EXTINF:-1 tvg-id="ext" group-title="007 COCUK",Minika Go
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481397
-#EXTINF:-1 tvg-id="ext" tvg-name="Minika Cocuk" tvg-logo="" group-title="007 COCUK",Minika Cocuk
+#EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Minika Cocuk
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481396
-#EXTINF:-1 tvg-id="Nickelodeon.tr" tvg-name="Nickelodeon HD" tvg-logo="" group-title="007 COCUK",Nickelodeon HD
+#EXTINF:-1 tvg-id="Nickelodeon.tr" group-title="007 COCUK",Nickelodeon HD
 http://gl.firecar.cc:80/Yakupkara/020922y/2096
-#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network" tvg-logo="" group-title="007 COCUK",Cartoon Network
+#EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
-#EXTINF:-1 tvg-id="NICKTOONS" tvg-name="TR: NICKTOONS" tvg-logo="https://logo.multicms.info/tvlogo/nicktoons.png" group-title="007 COCUK",TR: NICKTOONS
+#EXTINF:-1 tvg-id="NICKTOONS" group-title="007 COCUK",TR: NICKTOONS
 http://gl.firecar.cc:80/Yakupkara/020922y/32262
 
 
-#EXTINF:-1 tvg-id="beINSPORTSHD1.tr" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 1
+#EXTINF:-1 tvg-id="beINSPORTSHD1.tr"   group-title="009 SPOR",Bein Sports 1
 http://pena46tv.xyz:80/play/xGpfVqrJl3DbO8bz8p6N59F8xwAfKTXxHHaYB1YN-Io
 http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/334642
-#EXTINF:-1 tvg-id="beINSPORTSHD2.tr" tvg-name="Bein Sports 2 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 2 
+#EXTINF:-1 tvg-id="beINSPORTSHD2.tr"  group-title="009 SPOR",Bein Sports 2 
 http://livasubat27.xyz:80/live/fatiharnhem/ey9VYZWhu7/19.ts
 http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/35730
-#EXTINF:-1 tvg-id="beINSPORTSHD3.tr" tvg-name="Bein Sports 3 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 3 
+#EXTINF:-1 tvg-id="beINSPORTSHD3.tr"  group-title="009 SPOR",Bein Sports 3 
 http://lobitv.xyz:8080/mehmettasdemir/9s2Qfk6Q5c/196217
 http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/6097
-#EXTINF:-1 tvg-id="beINSPORTSHD4.tr" tvg-name="Bein Sports 4 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 4 
+#EXTINF:-1 tvg-id="beINSPORTSHD4.tr"  group-title="009 SPOR",Bein Sports 4 
 http://lobitv.xyz:8080/mehmettasdemir/9s2Qfk6Q5c/6098
 http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/6098
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports 5 HD" tvg-logo="" group-title="009 SPOR",Bein Sports 5 HD
+#EXTINF:-1 tvg-id="ext"  group-title="009 SPOR",Bein Sports 5 HD
 http://lobitv.xyz:8080/mehmettasdemir/9s2Qfk6Q5c/125936
 http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/125936
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 1 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 1 
+#EXTINF:-1 tvg-id="ext" group-title="009 SPOR",Bein Sports Max 1 
 http://lobitv.xyz:8080/mehmettasdemir/9s2Qfk6Q5c/6099
 http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/6099
-#EXTINF:-1 tvg-id="ext" tvg-name="Bein Sports Max 2 4K+" tvg-logo="" group-title="009 SPOR",Bein Sports Max 2 
+#EXTINF:-1 tvg-id="ext" group-title="009 SPOR",Bein Sports Max 2 
 http://lobitv.xyz:8080/mehmettasdemir/9s2Qfk6Q5c/6100
 http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/6100
 
-#EXTINF:-1 tvg-name="Tabii Spor" tvg-id="TabiiSpor" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43023.jpeg" group-title="009 SPOR",Tabii Spor
+#EXTINF:-1 tvg-name="Tabii Spor"  group-title="009 SPOR",Tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TrtSpor" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/40480_0-0-465-261.jpeg" group-title="009 SPOR",TRT SPOR
+#EXTINF:-1 tvg-name="TRT SPOR"  group-title="009 SPOR",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-id="trtsporyildiz" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" group-title="009 SPOR",TRT Spor Yıldız
+#EXTINF:-1 tvg-name="TRT Spor Yıldız"  group-title="009 SPOR",TRT Spor Yıldız
 https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?app=web&platform=trtspor
-#EXTINF:-1 tvg-name="A Spor" tvg-id="aspor" tvg-logo="https://bursasporxcom.teimg.com/crop/1280x720/bursasporx-com/uploads/2024/10/imaj-aspor.jpg" group-title="009 SPOR",A Spor
+#EXTINF:-1 tvg-name="A Spor"  group-title="009 SPOR",A Spor
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 http://lobitv.xyz:8080/mehmettasdemir/9s2Qfk6Q5c/6113
 https://tv.arectv13.sbs/live/aspor.m3u8
