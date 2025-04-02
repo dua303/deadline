@@ -265,42 +265,42 @@ http://gl.firecar.cc:80/Yakupkara/020922y/45425
 
 
 
-#EXTINF:-1 tvg-id="beIN MOVIES TURK.tr"  tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg" group-title="004 BeIN SINEMA",Bein Movies Turk  
+#EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" group-title="004 BeIN SINEMA",Bein Movies Turk  
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2759
-#EXTINF:-1 tvg-id="beIN MOVIES STARS.tr"  tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Stars 
+#EXTINF:-1 tvg-id="beIN MOVIES STARS.tr"  group-title="004 BeIN SINEMA",Bein Movies Stars 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2758
-#EXTINF:-1 tvg-id="beIN MOVIES ACTION.tr" tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Action   
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION.tr" group-title="004 BeIN SINEMA",Bein Movies Action   
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2756 
-#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE.tr"  tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Premiere  
+#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE.tr"   group-title="004 BeIN SINEMA",Bein Movies Premiere  
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2762
-#EXTINF:-1 tvg-id="beINMOVIESPREMIERE2HD"  tvg-logo="" group-title="004 BeIN SINEMA",Bein Movies Premiere 2  
+#EXTINF:-1 tvg-id="beINMOVIESPREMIERE2HD"  group-title="004 BeIN SINEMA",Bein Movies Premiere 2  
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2764
-#EXTINF:-1 tvg-id=""  tvg-logo="http://188.214.27.75/pcnn/family.png" group-title="004 BeIN SINEMA",beIN MOVIES FAMILY HD
+#EXTINF:-1 tvg-id=""   group-title="004 BeIN SINEMA",beIN MOVIES FAMILY HD
 http://gl.firecar.cc:80/Yakupkara/020922y/32219
-#EXTINF:-1 tvg-id=""  tvg-logo="http://188.214.27.75/pcnn/bein_series_comedy.png" group-title="004 BeIN SINEMA",beIN SERIES COMEDY
+#EXTINF:-1 tvg-id=""   group-title="004 BeIN SINEMA",beIN SERIES COMEDY
 http://gl.firecar.cc:80/Yakupkara/020922y/1685
-#EXTINF:-1 tvg-id="ext"  tvg-logo="http://188.214.27.75/pcnn/bein_series_drama.png" group-title="004 BeIN SINEMA",beIN SERIES DRAMA
+#EXTINF:-1 tvg-id="ext"   group-title="004 BeIN SINEMA",beIN SERIES DRAMA
 http://gl.firecar.cc:80/Yakupkara/020922y/5877
-#EXTINF:-1 tvg-id="ext"  tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 1 
+#EXTINF:-1 tvg-id="ext"   group-title="004 BeIN SINEMA",Bein Box Office 1 
 http://gl.firecar.cc:80/Yakupkara/020922y/141030
 #EXTINF:-1 tvg-id="ext"  tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 2 
 http://gl.firecar.cc:80/Yakupkara/020922y/141029
-#EXTINF:-1 tvg-id="ext"  tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 3 
+#EXTINF:-1 tvg-id="ext"   group-title="004 BeIN SINEMA",Bein Box Office 3 
 http://gl.firecar.cc:80/Yakupkara/020922y/69148
-#EXTINF:-1 tvg-id="beIN SERIES 1.tr"  tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 1 
+#EXTINF:-1 tvg-id="beIN SERIES 1.tr"   group-title="004 BeIN SINEMA",Bein Series 1 
 http://gl.firecar.cc:80/Yakupkara/020922y/5869
 #EXTINF:-1 tvg-id="beIN SERIES 2.tr"  tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 2 
 http://gl.firecar.cc:80/Yakupkara/020922y/26591
-#EXTINF:-1 tvg-id="beIN SERIES 3.tr" " tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 3 
+#EXTINF:-1 tvg-id="beIN SERIES 3.tr" "  group-title="004 BeIN SINEMA",Bein Series 3 
 http://gl.firecar.cc:80/Yakupkara/020922y/5870
-#EXTINF:-1 tvg-id="beIN SERIES 4.tr"  tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 4 
+#EXTINF:-1 tvg-id="beIN SERIES 4.tr"   group-title="004 BeIN SINEMA",Bein Series 4 
 http://gl.firecar.cc:80/Yakupkara/020922y/5868
 
-#EXTINF:-1 tvg-id="FILMSCREEN.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/FILMSCREEN.png" group-title="004 DSMART SINEMA",Film Screen  
+#EXTINF:-1 tvg-id="FILMSCREEN.tr"  group-title="004 DSMART SINEMA",Film Screen  
 http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89282
-#EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/MovieSmart_Turk_TR_logo.png?1733490221" group-title="004 DSMART SINEMA",Moviesmart Turk  
+#EXTINF:-1 tvg-id="MovieSmart Turk.tr"  group-title="004 DSMART SINEMA",Moviesmart Turk  
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/495999
-#EXTINF:-1 tvg-id="MovieSmart Classic.trr"  tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="004 DSMART SINEMA",Moviesmart Classic  
+#EXTINF:-1 tvg-id="MovieSmart Classic.trr"  group-title="004 DSMART SINEMA",Moviesmart Classic  
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2746
 
  
@@ -308,111 +308,106 @@ http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2746
 
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Sinema Yerli 1 4K+" tvg-logo="https://www.superkablonet.com/yukleme/download/584.png" group-title="004 Tivibu SINEMA",Sinema Yerli  
+#EXTINF:-1 tvg-id="ext" group-title="004 Tivibu SINEMA",Sinema Yerli  
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2776 
-#EXTINF:-1 tvg-id="Sinema.TV.Aile2.tr" tvg-name="Sinema Aile 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema Aile 
+#EXTINF:-1 tvg-id="Sinema.TV.Aile2.tr"  group-title="004 Tivibu SINEMA",Sinema Aile 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2777 
-#EXTINF:-1 tvg-id="Sinema.TV.tr" tvg-name="Sinema TV 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV 
+#EXTINF:-1 tvg-id="Sinema.TV.tr"  group-title="004 Tivibu SINEMA",Sinema TV 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2773
-#EXTINF:-1 tvg-id="Sinema.Aksiyon.tr" tvg-name="Sinema Aksion 1 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema Aksiyon 
+#EXTINF:-1 tvg-id="Sinema.Aksiyon.tr"  group-title="004 Tivibu SINEMA",Sinema Aksiyon 
 http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89286 
-#EXTINF:-1 tvg-id="Sinema.1001.tr" tvg-name="Sinema TV 1001 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV 1001 
+#EXTINF:-1 tvg-id="Sinema.1001.tr"  group-title="004 Tivibu SINEMA",Sinema TV 1001 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/195742  
-#EXTINF:-1 tvg-id="Sinema.Komedi.tr" tvg-name="Sinema TV Comedy 4K+" tvg-logo="" group-title="004 Tivibu SINEMA",Sinema TV Komedi  
+#EXTINF:-1 tvg-id="Sinema.Komedi.tr" group-title="004 Tivibu SINEMA",Sinema TV Komedi  
 http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89285  
 
-#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC 4K+" tvg-logo="" group-title="005 BELGESEL",TLC   
-https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8 
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX 4K+" tvg-logo="" group-title="005 BELGESEL",DMAX   
-https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8 
-#EXTINF:-1 tvg-id="TRT BELGESEL.tr" tvg-name="TRT Belgesel 4K+" tvg-logo="" group-title="005 BELGESEL",TRT Belgesel   
-https://canlitvulusal.xyz/live/trtbelgesel/index.m3u8
-#EXTINF:-1 tvg-id="Tarih.TV.tr" tvg-name="Tarih TV" tvg-logo="" group-title="005 BELGESEL",Tarih TV 
+
+#EXTINF:-1 tvg-id="Tarih.TV.tr"  group-title="005 BELGESEL",Tarih TV 
 http://sunxtinyur6.cfd:80/engingunel1/eg06082019/193709
-#EXTINF:-1 tvg-id="History Channel.tr" tvg-name="History Channel 4K+" tvg-logo="" group-title="005 BELGESEL",History Channel 
+#EXTINF:-1 tvg-id="History Channel.tr"   group-title="005 BELGESEL",History Channel 
 http://gl.firecar.cc:80/Yakupkara/020922y/25966
-#EXTINF:-1 tvg-id="Viasat.History.tr" tvg-name="Viasat History HD+" tvg-logo="" group-title="005 BELGESEL",Viasat History   
+#EXTINF:-1 tvg-id="Viasat.History.tr"  group-title="005 BELGESEL",Viasat History   
 http://sunxtinyur6.cfd:80/engingunel1/eg06082019/178
-#EXTINF:-1 tvg-id="BBC EARTH.tr" tvg-name="BBC Earth HD" tvg-logo="" group-title="005 BELGESEL",BBC Earth HD  
+#EXTINF:-1 tvg-id="BBC EARTH.tr"  group-title="005 BELGESEL",BBC Earth HD  
 http://promaxnox1.cfd:80/live/Atas74/VHwrXXNCW3/813475.ts
-#EXTINF:-1 tvg-id="beIN IZ.tr" tvg-name="Bein IZ TV 4K" tvg-logo="" group-title="005 BELGESEL",Bein IZ TV 
+#EXTINF:-1 tvg-id="beIN IZ.tr"group-title="005 BELGESEL",Bein IZ TV 
 http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/105919
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1806
-#EXTINF:-1 tvg-id="beIN GURME.tr" tvg-name="Bein Gurme 4K" tvg-logo="" group-title="005 BELGESEL",Bein Gurme   
+#EXTINF:-1 tvg-id="beIN GURME.tr" group-title="005 BELGESEL",Bein Gurme   
 http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89172  
-#EXTINF:-1 tvg-id="Da Vinci Learning.tr" tvg-name="Da Vinci 4K" tvg-logo="" group-title="005 BELGESEL",Da Vinci   
+#EXTINF:-1 tvg-id="Da Vinci Learning.tr"  group-title="005 BELGESEL",Da Vinci   
 http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/6293
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.tr" tvg-name="Discovery Channel HD" tvg-logo="" group-title="005 BELGESEL",Discovery Channel  
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.tr"  group-title="005 BELGESEL",Discovery Channel  
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481291  
-#EXTINF:-1 tvg-id="ext" tvg-name="ID HD 4K+" tvg-logo="" group-title="005 BELGESEL",ID    
+#EXTINF:-1 tvg-id="ext" group-title="005 BELGESEL",ID    
 http://promaxnox1.cfd:80/live/Atas74/VHwrXXNCW3/813468.ts
-#EXTINF:-1 tvg-id="Love Nature.tr" tvg-name="Love Nature 4K+" tvg-logo="" group-title="005 BELGESEL",Love Nature   
+#EXTINF:-1 tvg-id="Love Nature.tr" group-title="005 BELGESEL",Love Nature   
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481277
-#EXTINF:-1 tvg-id="ext" tvg-name="National Geo HD" tvg-logo="" group-title="005 BELGESEL",National Geo  
+#EXTINF:-1 tvg-id="ext"  group-title="005 BELGESEL",National Geo  
 http://aybytv.xyz:8080/Koopesnaf14mrt/nkSV7wR45D/6286
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481295
-#EXTINF:-1 tvg-id="NAT.GEO.WILD.tr" tvg-name="Nat Geo Wild 4K+" tvg-logo="" group-title="005 BELGESEL",Nat Geo Wild 
+#EXTINF:-1 tvg-id="NAT.GEO.WILD.tr"  group-title="005 BELGESEL",Nat Geo Wild 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481293
-#EXTINF:-1 tvg-id="VIASAT EXPLORE.tr" tvg-name="Viasat Explorer HD" tvg-logo="" group-title="005 BELGESEL",Viasat Explorer   
+#EXTINF:-1 tvg-id="VIASAT EXPLORE.tr"  group-title="005 BELGESEL",Viasat Explorer   
 http://pena46tv.xyz:80/play/xGpfVqrJl3DbO8bz8p6N56IRc54Lf87rPoAh0XFza9Y
 http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89911 
-#EXTINF:-1 tvg-id="ext" tvg-name="Viasat Nature" tvg-logo="http://logo1010.com/news/nature-hd.png" group-title="005 BELGESEL",Viasat Nature 
+#EXTINF:-1 tvg-id="ext" group-title="005 BELGESEL",Viasat Nature 
 http://pena46tv.xyz:80/play/xGpfVqrJl3DbO8bz8p6N5w3wK15_af9CEGYjsqRIYc4
 http://sine.x-purple.xyz:80/live/apocan@224/224@535/121060.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="TGRT Belgesel" tvg-logo="" group-title="005 BELGESEL",TGRT Belgesel  
+#EXTINF:-1 tvg-id="ext" group-title="005 BELGESEL",TGRT Belgesel  
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CGTN BELGESEL" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="005 BELGESEL",CGTN BELGESEL
+#EXTINF:-1 tvg-id="ext"  group-title="005 BELGESEL",CGTN BELGESEL
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="BENGU TURK" tvg-logo="https://benguturkcom.teimg.com/benguturk-com/uploads/2023/04/bengu-turk-logo-vector-kirmizi-1.jpg" group-title="006 HABER",BENGU TURK  
+#EXTINF:-1 tvg-id="ext" group-title="006 HABER",BENGU TURK  
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8  
-#EXTINF:-1 tvg-id="ext" tvg-name="TURK HABER" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2024/06/LOGO_EXTRASMALL.png" group-title="006 HABER",TURK HABER  
+#EXTINF:-1 tvg-id="ext"  group-title="006 HABER",TURK HABER  
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalB.tr" tvg-name="Kanal B" tvg-logo="http://assets.tvcdn.net/855d4cc7-027f-4c11-9e06-2471764dfc30.png" group-title="006 HABER",Kanal B  
+#EXTINF:-1 tvg-id="KanalB.tr" group-title="006 HABER",Kanal B  
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="http://logo.multicms.info/tvlogo/trthaberhd.png" group-title="006 HABER",TRT Haber
+#EXTINF:-1 tvg-id="TRTHaber.tr"  group-title="006 HABER",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8  
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://w7.pngwing.com/pngs/548/607/png-transparent-ntv-hd-logo-thumbnail.png" group-title="006 HABER",NTV
+#EXTINF:-1 tvg-id="NTV.tr" group-title="006 HABER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8  
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TÜRK 4K+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicoCNyTXd457xrVJrutJyEXzJYYgFW1Ci6Q&s" group-title="006 HABER",CNN TÜRK  
+#EXTINF:-1 tvg-id="CNNTurk.tr"  group-title="006 HABER",CNN TÜRK  
 http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89114
-#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Türk" tvg-logo="" group-title="006 HABER",Haber Türk
+#EXTINF:-1 tvg-id="Haberturk.tr"  group-title="006 HABER",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8  
-#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global 4K+" tvg-logo="" group-title="006 HABER",Haber Global   
+#EXTINF:-1 tvg-id="HaberGlobal.tr"  group-title="006 HABER",Haber Global   
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8  
-#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="006 HABER",TGRT Haber 
+#EXTINF:-1 tvg-id="TGRTHaber.tr" group-title="006 HABER",TGRT Haber 
 https://canli.tgrthaber.com/tgrt.m3u8  
-#EXTINF:-1 tvg-id="ext" tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="006 HABER",A HABER
+#EXTINF:-1 tvg-id="ext" group-title="006 HABER",A HABER
 https://canlitvulusal.xyz/live/ahaber/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ÜLKE" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="006 HABER",ÜLKE
+#EXTINF:-1 tvg-id="ext"  group-title="006 HABER",ÜLKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AKIT TV" tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png" group-title="006 HABER",AKIT TV
+#EXTINF:-1 tvg-id="ext"  group-title="006 HABER",AKIT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 tvg-id="24 TV.tr" tvg-name="24 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png" group-title="006 HABER",24 TV
+#EXTINF:-1 tvg-id="24 TV.tr"  group-title="006 HABER",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:-1 tvg-id="EKOTÃœRK.tr" tvg-name="Eko Türk TV" tvg-logo="" group-title="006 HABER",Eko Türk TV  
+#EXTINF:-1 tvg-id="EKOTÃœRK.tr"  group-title="006 HABER",Eko Türk TV  
 https://ekoturkdvr.blutv.com/blutv_ekoturk_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="EKOL TV.tr" tvg-name="Ekol TV 4K+" tvg-logo="" group-title="006 HABER",Ekol TV   
+#EXTINF:-1 tvg-id="EKOL TV.tr"  group-title="006 HABER",Ekol TV   
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8  
-#EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TV Net  4K+" tvg-logo="https://canlitv.com/resimler/blog/tvnet-sunucusunun-basina-gelmedik-kalmadi.jpg" group-title="006 HABER",TV Net    
+#EXTINF:-1 tvg-id="TVNET.tr" group-title="006 HABER",TV Net    
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8  
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg 4K" tvg-logo="" group-title="006 HABER",Bloomberg     
+#EXTINF:-1 tvg-id="BloombergHT.tr" group-title="006 HABER",Bloomberg     
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8 
-#EXTINF:-1 tvg-id="ext" tvg-name="Finans Türk" tvg-logo="https://finansturktv.com/images/logo.png" group-title="006 HABER",Finans Türk
+#EXTINF:-1 tvg-id="ext"  group-title="006 HABER",Finans Türk
 https://canlitvulusal.xyz/live/finansturk/index.m3u8
 https://yayin30.haber100.com/live/finansturk/chunklist_w1088819646.m3u8
-#EXTINF:-1 tvg-id="A PARA.tr" tvg-name="A Para 4K" tvg-logo="" group-title="006 HABER",A Para   
+#EXTINF:-1 tvg-id="A PARA.tr"  group-title="006 HABER",A Para   
 http://185.234.111.229:8000/play/a01l 
-#EXTINF:-1 tvg-id="ext" tvg-name="TvDen" tvg-logo="" group-title="006 HABER",TvDen
+#EXTINF:-1 tvg-id="ext"  group-title="006 HABER",TvDen
 https://canli.tvden.com.tr/hls/live.m3u8  
-#EXTINF:-1 tvg-id="ext" tvg-name="Tele 1" tvg-logo="" group-title="006 HABER",Tele 1
+#EXTINF:-1 tvg-id="ext"  group-title="006 HABER",Tele 1
 http://stream.tvcdn.net/haber/tele-1.m3u8  
-#EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="Krt TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/KRT_Logo_2023.webp" group-title="006 HABER",Krt TV   
+#EXTINF:-1 tvg-id="KRTTV.tr"  group-title="006 HABER",Krt TV   
 http://185.234.111.229:8000/play/a06f
-#EXTINF:-1 tvg-id="ext" tvg-name="Flash TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/75/Flash_haber_logo.jpeg" group-title="006 HABER",Flash TV   
+#EXTINF:-1 tvg-id="ext" group-title="006 HABER",Flash TV   
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8  
-#EXTINF:-1 tvg-id="Halk.TV.tr" tvg-name="Halk TV 1 4K" tvg-logo="" group-title="006 HABER",Halk TV   
+#EXTINF:-1 tvg-id="Halk.TV.tr" group-title="006 HABER",Halk TV   
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=751s8s9ogjc3&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3hhaber-live.ercdn.net/flashhaber/flashhaber_720p.m3u8  
 
 #EXTINF:-1 tvg-id="SZC.tr" tvg-name="Sözcü TV 2 4K" tvg-logo="" group-title="006 HABER",Sözcü TV  
