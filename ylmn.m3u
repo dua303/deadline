@@ -32,6 +32,15 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="TIVI 6" group-title="002 ULUSAL",TiVi 6 
 http://stream.tvcdn.net/yerel/tivi6.m3u8
 
+#EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" group-title="004 BeIN SINEMA",Bein Movies Turk  
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2759
+#EXTINF:-1 tvg-id="MovieSmart Turk.tr"  group-title="004 DSMART SINEMA",Moviesmart Turk  
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/495999
+#EXTINF:-1 tvg-id="MovieSmart Classic.trr"  group-title="004 DSMART SINEMA",Moviesmart Classic  
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2746
+#EXTINF:-1 tvg-id="ext" group-title="004 Tivibu SINEMA",Sinema Yerli  
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2776
+
 #EXTINF:-1 tvg-id="TRT 4K"  group-title="002 ULUSAL",TRT 4K     
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1841
 #EXTINF:-1 tvg-id="TRT.1.tr" group-title="002 ULUSAL",TRT 1 
