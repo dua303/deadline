@@ -511,13 +511,10 @@ https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2025
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 FHD" tvg-logo="https://i.ibb.co/LdG43yVj/16.png" group-title="009 SPOR",S SPORT 2 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2028
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportstv.tr" tvg-name="SPORTS TV FHD" tvg-logo="https://i.ibb.co/twnN1rQy/26.png" group-title="009 SPOR",SPORTS TV 
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/196080
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fbtv.tr" tvg-name="FB TV HD" tvg-logo="https://i.ibb.co/svY45TjG/8.png" group-title="009 SPOR",FB TV HD
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/541402
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbatv.tr" tvg-name="NBA TV HD" tvg-logo="https://i.ibb.co/nqxrQWzt/13.png" group-title="009 SPOR",NBA TV HD
 http://turkboxtitan.com:8080/23Memik726/FdL25072023/2048
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2049
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT 3 SPOR (TBMM) FHD" tvg-logo="https://i.ibb.co/b51WzkRd/37.png" group-title="009 SPOR",TRT 3 SPOR (TBMM) 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2020
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FIGHTBOX FHD" tvg-logo="https://i.ibb.co/Kj71xr1s/9.png" group-title="009 SPOR",FIGHTBOX FHD
