@@ -205,6 +205,31 @@ https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
 https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
 
+#EXTINF:-1,TR.FILMBOX ACTION
+http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116109.ts
+#EXTINF:-1,TR.FILMBOX YERLI
+http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116119.ts
+#EXTINF:-1,TR.FILMBOX FAMILY
+http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116118.ts
+#EXTINF:-1,TR.FILMBOX EXTRA HD
+http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116110.ts
+#EXTINF:-1,TR.FILMBOX BILIMKURGU
+http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116113.ts
+#EXTINF:-1,TR.FILMBOX FANTASTIC
+http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116114.ts
+#EXTINF:-1,TR.FILMBOX HORROR
+http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116116.ts
+#EXTINF:-1,TR.FILMBOX COMEDY
+http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116117.ts
+#EXTINF:-1,TR.FILMBOX ROMANTIC
+http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116112.ts
+#EXTINF:-1,TR.FILMBOX DRAMA
+http://xc1.vpnip.in:80/live/Kax7PUbqGgUE/cw2e3hjKvnVS/116115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dream Box Savas FHD" tvg-logo="https://i.hizliresim.com/hh2sr82.png" group-title="TR • 7/24 DUBLAJ FILMLER",Dream Box Savas FHD
+http://css69.activcards.info:80/mehmetkemaliclik84k3/gfZaS6hDu58T/258854
+#EXTINF:-1 tvg-id="" tvg-name="Smart Box Savas FHD" tvg-logo="https://i.hizliresim.com/r3immf3.png" group-title="TR • 7/24 DUBLAJ FILMLER",Smart Box Savas FHD
+http://css69.activcards.info:80/mehmetkemaliclik84k3/gfZaS6hDu58T/258870
+
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL HD" tvg-logo="http://188.214.27.75/pcnn/universal.png" group-title="TR SINEMA",UNIVERSAL HD
 http://gl.firecar.cc:80/Yakupkara/020922y/171498
@@ -479,6 +504,19 @@ http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481396
 #EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Animasyon FHD" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="TR • 7/24 COCUK",Cinema Animasyon FHD
+http://css69.activcards.info:80/mehmetkemaliclik84k3/gfZaS6hDu58T/259024
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon FHD" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="TR • 7/24 COCUK",Animasyon FHD
+http://css69.activcards.info:80/mehmetkemaliclik84k3/gfZaS6hDu58T/259025
+#EXTINF:-1 tvg-id="" tvg-name="Animsyon FHD" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • 7/24 COCUK",Animsyon FHD
+http://css69.activcards.info:80/mehmetkemaliclik84k3/gfZaS6hDu58T/259027
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon FHD" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="TR • 7/24 COCUK",Animasyon FHD
+http://css69.activcards.info:80/mehmetkemaliclik84k3/gfZaS6hDu58T/259028
+#EXTINF:-1 tvg-id="" tvg-name="Animsyon FHD" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="TR • 7/24 COCUK",Animsyon FHD
+http://css69.activcards.info:80/mehmetkemaliclik84k3/gfZaS6hDu58T/259029
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="TR • 7/24 COCUK",Animasyon
+http://css69.activcards.info:80/mehmetkemaliclik84k3/gfZaS6hDu58T/259031
+
 
 #EXTINF:-1 tvg-id="beINSPORTSHD1.tr"   group-title="009 SPOR",Bein Sports 1
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/89
@@ -576,6 +614,12 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="010 MUZIK",POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1,TR: MEZZO LIVE HD
+http://main.9985460.xyz:8080/vns251/wPCSPVnGRk/206646
+#EXTINF:-1,TR: STINGRAY Classica
+http://main.9985460.xyz:8080/vns251/wPCSPVnGRk/168434
+
 
 #EXTINF:-1 tvg-id="ext"  group-title="010 MUZIK",BIZ TV MUSIC
 https://fl.biztv.media/music_480_FbLnBjkOoclIXBLHLbLTuwFOKaihFS/tracks-v1a1/mono.m3u8
