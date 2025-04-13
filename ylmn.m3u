@@ -288,6 +288,28 @@ http://gl.firecar.cc:80/Yakupkara/020922y/9379
 http://gl.firecar.cc:80/Yakupkara/020922y/45425
 
 
+
+
+#EXTINF:-1 tvg-id="FILMSCREEN.tr"  group-title="004 DSMART SINEMA",Film Screen  
+http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89282
+#EXTINF:-1 tvg-id="MovieSmart Turk.tr"  group-title="004 DSMART SINEMA",Moviesmart Turk  
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/495999
+#EXTINF:-1 tvg-id="MovieSmart Classic.trr"  group-title="004 DSMART SINEMA",Moviesmart Classic  
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2746
+
+#EXTINF:-1 tvg-id="ext" group-title="004 Tivibu SINEMA",Sinema Yerli  
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2776 
+#EXTINF:-1 tvg-id="Sinema.TV.Aile2.tr"  group-title="004 Tivibu SINEMA",Sinema Aile 
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2777 
+#EXTINF:-1 tvg-id="Sinema.TV.tr"  group-title="004 Tivibu SINEMA",Sinema TV 
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2773
+#EXTINF:-1 tvg-id="Sinema.Aksiyon.tr"  group-title="004 Tivibu SINEMA",Sinema Aksiyon 
+http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89286 
+#EXTINF:-1 tvg-id="Sinema.1001.tr"  group-title="004 Tivibu SINEMA",Sinema TV 1001 
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/195742  
+#EXTINF:-1 tvg-id="Sinema.Komedi.tr" group-title="004 Tivibu SINEMA",Sinema TV Komedi  
+http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89285  
+
 #EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" group-title="004 BeIN SINEMA",Bein Movies Turk  
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2759
 #EXTINF:-1 tvg-id="beIN MOVIES STARS.tr"  group-title="004 BeIN SINEMA",Bein Movies Stars 
@@ -319,25 +341,14 @@ http://gl.firecar.cc:80/Yakupkara/020922y/5870
 #EXTINF:-1 tvg-id="beIN SERIES 4.tr"   group-title="004 BeIN SINEMA",Bein Series 4 
 http://gl.firecar.cc:80/Yakupkara/020922y/5868
 
-#EXTINF:-1 tvg-id="FILMSCREEN.tr"  group-title="004 DSMART SINEMA",Film Screen  
-http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89282
-#EXTINF:-1 tvg-id="MovieSmart Turk.tr"  group-title="004 DSMART SINEMA",Moviesmart Turk  
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/495999
-#EXTINF:-1 tvg-id="MovieSmart Classic.trr"  group-title="004 DSMART SINEMA",Moviesmart Classic  
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2746
-
-#EXTINF:-1 tvg-id="ext" group-title="004 Tivibu SINEMA",Sinema Yerli  
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2776 
-#EXTINF:-1 tvg-id="Sinema.TV.Aile2.tr"  group-title="004 Tivibu SINEMA",Sinema Aile 
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2777 
-#EXTINF:-1 tvg-id="Sinema.TV.tr"  group-title="004 Tivibu SINEMA",Sinema TV 
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2773
-#EXTINF:-1 tvg-id="Sinema.Aksiyon.tr"  group-title="004 Tivibu SINEMA",Sinema Aksiyon 
-http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89286 
-#EXTINF:-1 tvg-id="Sinema.1001.tr"  group-title="004 Tivibu SINEMA",Sinema TV 1001 
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/195742  
-#EXTINF:-1 tvg-id="Sinema.Komedi.tr" group-title="004 Tivibu SINEMA",Sinema TV Komedi  
-http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89285  
+#EXTINF:-1 tvg-id="beIN IZ.tr"group-title="005 BELGESEL",Bein H&E
+http://turkboxtitan.com:8080/23Memik726/FdL25072023/585204
+#EXTINF:-1 tvg-id="beIN IZ.tr"group-title="005 BELGESEL",Bein IZ 
+http://turkboxtitan.com:8080/23Memik726/FdL25072023/481268
+#EXTINF:-1 tvg-id="beIN GURME.tr" group-title="005 BELGESEL",Bein Gurme   
+http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89172
+#EXTINF:-1 tvg-id="ext" group-title="005 BELGESEL",ID    
+http://promaxnox1.cfd:80/live/Atas74/VHwrXXNCW3/813468.ts
 
 #EXTINF:-1 tvg-id="Tarih.TV.tr"  group-title="005 BELGESEL",Tarih TV 
 http://sunxtinyur6.cfd:80/engingunel1/eg06082019/193709
@@ -347,26 +358,17 @@ http://gl.firecar.cc:80/Yakupkara/020922y/25966
 http://sunxtinyur6.cfd:80/engingunel1/eg06082019/178
 #EXTINF:-1 tvg-id="BBC EARTH.tr"  group-title="005 BELGESEL",BBC Earth HD  
 http://promaxnox1.cfd:80/live/Atas74/VHwrXXNCW3/813475.ts
-#EXTINF:-1 tvg-id="beIN IZ.tr"group-title="005 BELGESEL",Bein H&E
-http://turkboxtitan.com:8080/23Memik726/FdL25072023/585204
-#EXTINF:-1 tvg-id="beIN IZ.tr"group-title="005 BELGESEL",Bein IZ 
-http://turkboxtitan.com:8080/23Memik726/FdL25072023/481268
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1806
-#EXTINF:-1 tvg-id="beIN GURME.tr" group-title="005 BELGESEL",Bein Gurme   
-http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89172  
-#EXTINF:-1 tvg-id="Da Vinci Learning.tr"  group-title="005 BELGESEL",Da Vinci   
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/253
+
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL.tr"  group-title="005 BELGESEL",Discovery Channel  
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481291  
-#EXTINF:-1 tvg-id="ext" group-title="005 BELGESEL",ID    
-http://promaxnox1.cfd:80/live/Atas74/VHwrXXNCW3/813468.ts
-#EXTINF:-1 tvg-id="Love Nature.tr" group-title="005 BELGESEL",Love Nature   
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481277
+
 #EXTINF:-1 tvg-id="ext"  group-title="005 BELGESEL",National Geo  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/282
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481295
 #EXTINF:-1 tvg-id="NAT.GEO.WILD.tr"  group-title="005 BELGESEL",Nat Geo Wild 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481293
+#EXTINF:-1 tvg-id="Love Nature.tr" group-title="005 BELGESEL",Love Nature   
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481277
 #EXTINF:-1 tvg-id="VIASAT EXPLORE.tr"  group-title="005 BELGESEL",Viasat Explorer   
 http://pena46tv.xyz:80/play/xGpfVqrJl3DbO8bz8p6N56IRc54Lf87rPoAh0XFza9Y
 http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89911 
@@ -400,9 +402,8 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" group-title="006 HABER",TGRT Haber 
 https://canli.tgrthaber.com/tgrt.m3u8  
 #EXTINF:-1 tvg-id="ext" group-title="006 HABER",A HABER
-http://turkboxtitan.com:8080/23Memik726/FdL25072023/481356
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8
-https://canlitvulusal.xyz/live/ahaber/index.m3u8
+
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",ÜLKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",AKIT TV
@@ -451,6 +452,16 @@ https://tv5-live.ercdn.net/tv5/tv5_720p.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",İlke TV    
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/583514
 
+
+#EXTINF:-1 tvg-id="Da Vinci Learning.tr"  group-title="005 BELGESEL",Da Vinci   
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/253
+#EXTINF:-1 tvg-id="NICKTOONS" group-title="007 COCUK",TR: NICKTOONS
+http://gl.firecar.cc:80/Yakupkara/020922y/32262
+#EXTINF:-1 tvg-id="Nickelodeon.tr" group-title="007 COCUK",Nickelodeon HD
+http://gl.firecar.cc:80/Yakupkara/020922y/2096
+#EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Cartoonito
+http://sunxtinyur6.cfd:80/aliuzun090724ay/369063890553/2064
+
 #EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Trt Cocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
 #EXTINF:-1 tvg-id="ext"  tvg-logo="" group-title="007 COCUK",Diyanet Cocuk 
@@ -459,18 +470,15 @@ http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481408
 #EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Nick JR
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481401
-#EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Cartoonito
-http://sunxtinyur6.cfd:80/aliuzun090724ay/369063890553/2064
+
 #EXTINF:-1 tvg-id="ext" group-title="007 COCUK",Minika Go
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481397
 #EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Minika Cocuk
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481396
-#EXTINF:-1 tvg-id="Nickelodeon.tr" group-title="007 COCUK",Nickelodeon HD
-http://gl.firecar.cc:80/Yakupkara/020922y/2096
+
 #EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
-#EXTINF:-1 tvg-id="NICKTOONS" group-title="007 COCUK",TR: NICKTOONS
-http://gl.firecar.cc:80/Yakupkara/020922y/32262
+
 
 #EXTINF:-1 tvg-id="beINSPORTSHD1.tr"   group-title="009 SPOR",Bein Sports 1
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/89
