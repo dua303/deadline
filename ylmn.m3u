@@ -445,7 +445,8 @@ http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",Mavi Karadeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8  
-#EXTINF:-1 tvg-id="Ulusal.1.tr" group-title="006 HABER",ULUSAL TV  
+#EXTINF:-1 tvg-id="Ulusal.1.tr" group-title="006 HABER",ULUSAL TV 
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/6
 https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8 
 #EXTINF:-1 tvg-id="Lider.Haber.tr"  group-title="006 HABER",Lider TV  
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
