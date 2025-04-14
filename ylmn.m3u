@@ -142,12 +142,11 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
 #EXTINF:-1 tvg-id="KanalV.tr"  group-title="003 YEREL",Kanal V
 http://stream.tvcdn.net/yerel/kanal-v.m3u8
-#EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Engelsiz TV
-https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist_w1229441475.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",GRT   
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8  
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",TYT TÜRK
+https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
 https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/index.m3u8
