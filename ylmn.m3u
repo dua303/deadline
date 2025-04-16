@@ -69,6 +69,7 @@ https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/64
 #EXTINF:-1 tvg-id="TV8.tr" group-title="002 ULUSAL",TV 8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-id="Atv.tr" group-title="002 ULUSAL",ATV 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
 #EXTINF:-1 tvg-id="Show.tr" group-title="002 ULUSAL",SHOW TV 
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
@@ -416,6 +417,7 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" group-title="006 HABER",TGRT Haber 
 https://canli.tgrthaber.com/tgrt.m3u8  
 #EXTINF:-1 tvg-id="ext" group-title="006 HABER",A HABER
+http://tvskor99.xyz:80/izzztt1009/19k09h20/102435
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8
 
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",ÜLKE
