@@ -45,11 +45,9 @@ http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/2776
 #EXTINF:-1 tvg-id="TRT 4K"  group-title="002 ULUSAL",TRT 4K     
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1841
 #EXTINF:-1 tvg-id="TRT.1.tr" group-title="002 ULUSAL",TRT 1 
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1844
-http://stream.tvcdn.net/ulusal/trt-1.m3u8
+https://trt.daioncdn.net/trt-1/master_720p.m3u8
 #EXTINF:-1 tvg-id="TRT.2.tr" group-title="002 ULUSAL",TRT 2
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1846
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT.AVAZ.tr"  group-title="002 ULUSAL",TRT Avaz 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1880
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
