@@ -73,16 +73,17 @@ https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185
 #EXTINF:-1 tvg-id="Show.tr" group-title="002 ULUSAL",SHOW TV 
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="KANAL D.tr" group-title="002 ULUSAL",KANAL D
-http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1852
 #EXTINF:-1 tvg-id="Star.tr" group-title="002 ULUSAL",STAR TV
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1854
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 #EXTINF:-1 tvg-id="NOW" group-title="002 ULUSAL",NOW TV
 http://turkboxtitan.com:8080/23Memik726/FdL25072023/1856
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
+
 #EXTINF:-1 tvg-id="Beyaz.TV.tr" group-title="002 ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.tr" group-title="002 ULUSAL",KANAL 7 
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1864
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:-1 tvg-id="Woman.TV.tr" group-title="002 ULUSAL",Woman TV
 http://stream.tvcdn.net/diger/woman-tv.m3u8
