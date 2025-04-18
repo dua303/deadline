@@ -30,7 +30,8 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="CINE 1.tr" group-title="002 ULUSAL",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="TIVI 6" group-title="002 ULUSAL",TiVi 6 
-http://stream.tvcdn.net/yerel/tivi6.m3u8
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" group-title="004 BeIN SINEMA",Bein Movies Turk  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/223
