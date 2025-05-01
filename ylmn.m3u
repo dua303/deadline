@@ -124,8 +124,12 @@ http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",SuperTurk TV
 http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",İsviçre TV
+https://isvicre.isvicretv.com/player/m3u8/d6ab97d2fe330ee4b3bf034918f51b5d/d6ab97d2fe330ee4b3bf034918f51b5d.m3u8
+https://isvicre.isvicretv.com/player/m3u8/d6ab97d2fe330ee4b3bf034918f51b5d/d6ab97d2fe330ee4b3bf034918f51b5d.m3u8
 http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Deniz Postası TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Süper 7 TV
 http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
