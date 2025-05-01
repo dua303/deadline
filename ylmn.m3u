@@ -63,6 +63,8 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" group-title="002 ULUSAL",TV8
 https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" group-title="002 ULUSAL",TV 8
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1883
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1883
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-id="Atv.tr" group-title="002 ULUSAL",ATV 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
@@ -70,9 +72,10 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="KANAL D.tr" group-title="002 ULUSAL",KANAL D
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1852
-#EXTINF:-1 tvg-id="Star.tr" group-title="002 ULUSAL",STAR TV
+#EXTINF:-1 tvg-id="Star.tr" group-title="002 ULUSAL",STAR TV 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1854
-http://stream.tvcdn.net/ulusal/star-tv.m3u8
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1854
+
 #EXTINF:-1 tvg-id="NOW" group-title="002 ULUSAL",NOW TV
 http://turkboxtitan.com:8080/23Memik726/FdL25072023/1856
 
@@ -80,7 +83,8 @@ http://turkboxtitan.com:8080/23Memik726/FdL25072023/1856
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.tr" group-title="002 ULUSAL",KANAL 7 
 http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1864
-http://stream.tvcdn.net/ulusal/kanal-7.m3u8
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1864
+
 #EXTINF:-1 tvg-id="Woman.TV.tr" group-title="002 ULUSAL",Woman TV
 http://stream.tvcdn.net/diger/woman-tv.m3u8
 #EXTINF:-1  group-title="002 ULUSAL",TV 8.5
@@ -360,10 +364,12 @@ http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89172
 http://promaxnox1.cfd:80/live/Atas74/VHwrXXNCW3/813468.ts
 
 #EXTINF:-1 tvg-id="Tarih.TV.tr"  group-title="005 BELGESEL",Tarih TV 
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/574937
 http://sunxtinyur6.cfd:80/engingunel1/eg06082019/193709
 #EXTINF:-1 tvg-id="History Channel.tr"   group-title="005 BELGESEL",History Channel 
 http://gl.firecar.cc:80/Yakupkara/020922y/25966
 #EXTINF:-1 tvg-id="Viasat.History.tr"  group-title="005 BELGESEL",Viasat History   
+http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/481275
 http://sunxtinyur6.cfd:80/engingunel1/eg06082019/178
 #EXTINF:-1 tvg-id="BBC EARTH.tr"  group-title="005 BELGESEL",BBC Earth HD  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/258
