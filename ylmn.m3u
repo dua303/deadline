@@ -37,14 +37,18 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" group-title="004 BeIN SINEMA",Bein Movies Turk  
+http://gl.firecar.cc:80/Yakupkara/020922y/5876
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/223
 
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr"  group-title="004 DSMART SINEMA",Moviesmart Turk  
+http://gl.firecar.cc:80/Yakupkara/020922y/5866
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/5866
 #EXTINF:-1 tvg-id="MovieSmart Classic.trr"  group-title="004 DSMART SINEMA",Moviesmart Classic  
+http://gl.firecar.cc:80/Yakupkara/020922y/10796
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/10796
 #EXTINF:-1 tvg-id="ext" group-title="004 Tivibu SINEMA",Sinema Yerli  
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/12059
+http://gl.firecar.cc:80/Yakupkara/020922y/12059
 
 #EXTINF:-1 tvg-id="TRT 4K"  group-title="002 ULUSAL",TRT 4K     
 http://65a.tek65.eu:80/live/Huseyinabaci/q5jBSshKZrfG/333042.ts
@@ -67,39 +71,44 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" group-title="002 ULUSAL",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" group-title="002 ULUSAL",TV8
+http://gl.firecar.cc:80/Yakupkara/020922y/14235
 https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" group-title="002 ULUSAL",TV 8
-http://65a.tek65.eu:80/live/Huseyinabaci/q5jBSshKZrfG/150005.ts
+http://gl.firecar.cc:80/Yakupkara/020922y/10311
 http://65a.tek65.eu:80/live/Huseyinabaci/q5jBSshKZrfG/150005.ts
 #EXTINF:-1 tvg-id="Atv.tr" group-title="002 ULUSAL",ATV 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="Show.tr" group-title="002 ULUSAL",SHOW TV 
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="KANAL D.tr" group-title="002 ULUSAL",KANAL D
+http://gl.firecar.cc:80/Yakupkara/020922y/14243
 http://65a.tek65.eu:80/live/Huseyinabaci/q5jBSshKZrfG/714.ts
 #EXTINF:-1 tvg-id="Star.tr" group-title="002 ULUSAL",STAR TV 
+http://gl.firecar.cc:80/Yakupkara/020922y/14239
 http://65a.tek65.eu:80/live/Huseyinabaci/q5jBSshKZrfG/796.ts
 http://65a.tek65.eu:80/live/Huseyinabaci/q5jBSshKZrfG/724.ts
 
 #EXTINF:-1 tvg-id="NOW" group-title="002 ULUSAL",NOW TV
+http://gl.firecar.cc:80/Yakupkara/020922y/14237
 http://65a.tek65.eu:80/live/Huseyinabaci/q5jBSshKZrfG/4942.ts
 
 #EXTINF:-1 tvg-id="Beyaz.TV.tr" group-title="002 ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.tr" group-title="002 ULUSAL",KANAL 7 
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50845
+http://gl.firecar.cc:80/Yakupkara/020922y/15807
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50845
 #EXTINF:-1 tvg-id="Woman.TV.tr" group-title="002 ULUSAL",Woman TV
 https://s01.webcaster.cloud/wmtv/live_1080p-414717.ts
 https://s01.webcaster.cloud/wmtv/live_1080p-414717.ts
 #EXTINF:-1  group-title="002 ULUSAL",TV 8.5
+http://gl.firecar.cc:80/Yakupkara/020922y/15802
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=758wgkvz08v5&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 #EXTINF:-1 tvg-id="Teve.2.tr" group-title="002 ULUSAL",TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="a2.tr" group-title="002 ULUSAL",A2
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
 #EXTINF:-1 tvg-id="SHOW MAX.tr"  group-title="002 ULUSAL",SHOW MAX
-http://turkboxtitan.com:8080/LeventYalova46788x/bSG26Rs2ap3b/1873
+http://gl.firecar.cc:80/Yakupkara/020922y/15973
 #EXTINF:-1 tvg-id="SHOW MAX.tr"  group-title="002 ULUSAL",SHOW TURK 
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2227
 #EXTINF:-1 tvg-id="ATV AVRUPA.tr" group-title="002 ULUSAL",ATV AVRUPA 
@@ -119,6 +128,13 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 #EXTINF:-1 tvg-id="TGRT.Haber.tr"  group-title="002 ULUSAL",TGRT EU
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/29825
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/29825
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EMAX" tvg-logo="" group-title="002 ULUSAL",EMAX 
+http://gl.firecar.cc:80/Yakupkara/020922y/174335
+#EXTINF:-1 tvg-id="ext" group-title="003 YEREL",TYT TÜRK
+http://gl.firecar.cc:80/Yakupkara/020922y/23641
+http://gl.firecar.cc:80/Yakupkara/020922y/23641
 
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8?checkedby:iptvcat.com
@@ -151,9 +167,7 @@ http://stream.tvcdn.net/yerel/kanal-v.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",GRT   
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8  
-#EXTINF:-1 tvg-id="ext" group-title="003 YEREL",TYT TÜRK
-https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
-https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",BALKAN TÜRK
