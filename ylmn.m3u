@@ -99,8 +99,8 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 http://gl.firecar.cc:80/Yakupkara/020922y/15807
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50845
 #EXTINF:-1 tvg-id="Woman.TV.tr" group-title="002 ULUSAL",Woman TV
-https://s01.webcaster.cloud/wmtv/live_1080p-414717.ts
-https://s01.webcaster.cloud/wmtv/live_1080p-414717.ts
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:-1  group-title="002 ULUSAL",TV 8.5
 http://gl.firecar.cc:80/Yakupkara/020922y/15802
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=758wgkvz08v5&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
@@ -140,20 +140,6 @@ http://gl.firecar.cc:80/Yakupkara/020922y/23641
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="ext" group-title="003 YEREL",SuperTurk Max
-http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
-#EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",SuperTurk TV
-http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
-#EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",İsviçre TV
-https://isvicre.isvicretv.com/player/m3u8/d6ab97d2fe330ee4b3bf034918f51b5d/d6ab97d2fe330ee4b3bf034918f51b5d.m3u8
-https://isvicre.isvicretv.com/player/m3u8/d6ab97d2fe330ee4b3bf034918f51b5d/d6ab97d2fe330ee4b3bf034918f51b5d.m3u8
-http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
-#EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Deniz Postası TV
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
-#EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Süper 7 TV
-http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",ONDE TV
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",TRAKYATURK
@@ -161,10 +147,6 @@ https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="003 YEREL",Kanal 19
-http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
-#EXTINF:-1 tvg-id="KanalV.tr"  group-title="003 YEREL",Kanal V
-http://stream.tvcdn.net/yerel/kanal-v.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",GRT   
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8  
@@ -202,8 +184,9 @@ http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 https://yayin1.canlitv.fun/canlitv/torbatv.stream/chunklist_w447894108.m3u8?hash=41d989f1b70283d68bc356840e806919
 http://stream.tvcdn.net/kibris/torba-tv.m3u8  
 
-#EXTINF:-1 tvg-id="ext" tvg-name="MAGA TV SINEMA" tvg-logo="" group-title="004 SINEMA",MAGA TV SINEMA
-https://tv208.radyotelekom.com.tr:3580/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="ext"  group-title="011 TURK",TÜRKMENELİ TV
+https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
 https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Cine 6
@@ -281,91 +264,21 @@ http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPJjxCPGiO1N-eGgpAfeaEk4
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPJG8Pb1mIVkkqeqSxkQDY9Q
 #EXTINF:-1 xui-id="43443" tvg-id="" tvg-name="MOON STAR YERLi KOMEDi" tvg-logo="http://pena46tv.xyz:80/images/4336f469e18da75826f46245921b3e41.png" group-title="SİNEMA",MOON STAR YERLi KOMEDi
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPGs3TDzdc7sFBruaWxsiEJU
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL HD" tvg-logo="http://188.214.27.75/pcnn/universal.png" group-title="TR SINEMA",UNIVERSAL HD
-http://gl.firecar.cc:80/Yakupkara/020922y/171498
-#EXTINF:-1 tvg-id="" tvg-name="CINESTAR PREMIERE 1 HD" tvg-logo="http://188.214.27.75/pcnn/cinestarprem.png" group-title="TR SINEMA",CINESTAR PREMIERE 1 HD
-http://gl.firecar.cc:80/Yakupkara/020922y/171191
 #EXTINF:-1 tvg-id="" tvg-name="TURK PLAY TV HD" tvg-logo="http://188.214.27.75/pcnn/play.png" group-title="TR SINEMA",TURK PLAY TV HD
 http://gl.firecar.cc:80/Yakupkara/020922y/31095
-#EXTINF:-1 tvg-id="" tvg-name="PLAY TV 2 HD" tvg-logo="http://188.214.27.75/pcnn/play2.png" group-title="TR SINEMA",PLAY TV 2 HD
-http://gl.firecar.cc:80/Yakupkara/020922y/139879
-#EXTINF:-1 tvg-id="" tvg-name="PLAY TV 3 HD" tvg-logo="http://188.214.27.75/pcnn/play3.png" group-title="TR SINEMA",PLAY TV 3 HD
-http://gl.firecar.cc:80/Yakupkara/020922y/171166
-#EXTINF:-1 tvg-id="" tvg-name="CINE 5 HD" tvg-logo="http://188.214.27.75/pcnn/cin5.png" group-title="TR SINEMA",CINE 5 HD
-http://gl.firecar.cc:80/Yakupkara/020922y/170295
-#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM HD" tvg-logo="http://188.214.27.75/pcnn/cineprem.png" group-title="TR SINEMA",CINE PREMIUM HD
-http://gl.firecar.cc:80/Yakupkara/020922y/31097
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA TV HD" tvg-logo="http://188.214.27.75/pcnn/cinem.png" group-title="TR SINEMA",CINEMA TV HD
-http://gl.firecar.cc:80/Yakupkara/020922y/169128
-#EXTINF:-1 tvg-id="" tvg-name="TV MOVIE HD" tvg-logo="http://188.214.27.75/pcnn/tvmovie.png" group-title="TR SINEMA",TV MOVIE HD
-http://gl.firecar.cc:80/Yakupkara/020922y/169127
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://188.214.27.75/pcnn/hbo.png" group-title="TR SINEMA",HBO HD
-http://gl.firecar.cc:80/Yakupkara/020922y/169126
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME HD" tvg-logo="http://188.214.27.75/pcnn/showtim.png" group-title="TR SINEMA",SHOWTIME HD
-http://gl.firecar.cc:80/Yakupkara/020922y/37036
-#EXTINF:-1 tvg-id="" tvg-name="TNT FILM HD" tvg-logo="http://188.214.27.75/pcnn/tntfhd.png" group-title="TR SINEMA",TNT FILM HD
-http://gl.firecar.cc:80/Yakupkara/020922y/48452
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HD" tvg-logo="http://188.214.27.75/pcnn/filmboxh.png" group-title="TR SINEMA",FILMBOX HD
-http://gl.firecar.cc:80/Yakupkara/020922y/1660
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ACTION HD" tvg-logo="http://188.214.27.75/pcnn/filmboxact.png" group-title="TR SINEMA",FILMBOX ACTION HD
-http://gl.firecar.cc:80/Yakupkara/020922y/138799
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX PREMIUM HD" tvg-logo="http://188.214.27.75/pcnn/filmboxprem.png" group-title="TR SINEMA",FILMBOX PREMIUM HD
-http://gl.firecar.cc:80/Yakupkara/020922y/23644
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX EXTRA HD" tvg-logo="http://188.214.27.75/pcnn/filmboxextr.png" group-title="TR SINEMA",FILMBOX EXTRA HD
-http://gl.firecar.cc:80/Yakupkara/020922y/48448
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FAMILY HD" tvg-logo="http://188.214.27.75/pcnn/filmboxfam.png" group-title="TR SINEMA",FILMBOX FAMILY HD
-http://gl.firecar.cc:80/Yakupkara/020922y/48450
-#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HORROR HD" tvg-logo="http://188.214.27.75/pcnn/filmboxhorr.png" group-title="TR SINEMA",FILMBOX HORROR HD
-http://gl.firecar.cc:80/Yakupkara/020922y/169185
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ CINE 1 HD" tvg-logo="http://188.214.27.75/pcnn/canalcine1.png" group-title="TR SINEMA",CANAL+ CINE 1 HD
-http://gl.firecar.cc:80/Yakupkara/020922y/169202
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ CINE 2 HD" tvg-logo="http://188.214.27.75/pcnn/canalcine2.png" group-title="TR SINEMA",CANAL+ CINE 2 HD
-http://gl.firecar.cc:80/Yakupkara/020922y/169203
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ CINE 3 HD" tvg-logo="http://188.214.27.75/pcnn/canalcine3.png" group-title="TR SINEMA",CANAL+ CINE 3 HD
-http://gl.firecar.cc:80/Yakupkara/020922y/169204
-#EXTINF:-1 tvg-id="" tvg-name="VISION PLAY 1 HD" tvg-logo="https://imagizer.imageshack.com/img923/6403/G3ZNMW.png" group-title="TR SINEMA",VISION PLAY 1 HD
-http://gl.firecar.cc:80/Yakupkara/020922y/14645
-#EXTINF:-1 tvg-id="" tvg-name="VISION PLAY 2 HD" tvg-logo="https://imagizer.imageshack.com/img924/2194/MHXvxT.png" group-title="TR SINEMA",VISION PLAY 2 HD
-http://gl.firecar.cc:80/Yakupkara/020922y/38794
-#EXTINF:-1 tvg-id="" tvg-name="MAX AKSIYON HD" tvg-logo="http://188.214.27.75/pcnn/kingboxset.png" group-title="TR SINEMA",MAX AKSIYON HD
-http://gl.firecar.cc:80/Yakupkara/020922y/141055
-#EXTINF:-1 tvg-id="" tvg-name="MAX AKSIYON 2 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxgold.png" group-title="TR SINEMA",MAX AKSIYON 2 HD
-http://gl.firecar.cc:80/Yakupkara/020922y/141050
-#EXTINF:-1 tvg-id="" tvg-name="MAX PREMIER HD" tvg-logo="" group-title="TR SINEMA",MAX PREMIER HD
-http://gl.firecar.cc:80/Yakupkara/020922y/141054
-#EXTINF:-1 tvg-id="" tvg-name="MAX VIZYON 2 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxaction.png" group-title="TR SINEMA",MAX VIZYON 2 HD
-http://gl.firecar.cc:80/Yakupkara/020922y/141052
-#EXTINF:-1 tvg-id="" tvg-name="MAX ORGINAL HD" tvg-logo="http://188.214.27.75/pcnn/kingboxprime2.png" group-title="TR SINEMA",MAX ORGINAL HD
-http://gl.firecar.cc:80/Yakupkara/020922y/141053
 #EXTINF:-1 tvg-id="" tvg-name="MAX TURK HD" tvg-logo="http://188.214.27.75/pcnn/kingboxgold2.png" group-title="TR SINEMA",MAX TURK HD
 http://gl.firecar.cc:80/Yakupkara/020922y/141049
-#EXTINF:-1 tvg-id="" tvg-name="F BOX IMDB100 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxaction2.png" group-title="TR SINEMA",F BOX IMDB100 HD
-http://gl.firecar.cc:80/Yakupkara/020922y/141051
 #EXTINF:-1 tvg-id="" tvg-name="F BOX TURK 1 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxturk.png" group-title="TR SINEMA",F BOX TURK 1 HD
 http://gl.firecar.cc:80/Yakupkara/020922y/141048
 #EXTINF:-1 tvg-id="" tvg-name="F BOX TURK 2 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxturk2.png" group-title="TR SINEMA",F BOX TURK 2 HD
 http://gl.firecar.cc:80/Yakupkara/020922y/141047
-#EXTINF:-1 tvg-id="cinemax1" tvg-name="LIVING CINEMAX 1" tvg-logo="https://imagizer.imageshack.com/img923/3999/sIGXjb.png" group-title="TR SINEMA",LIVING CINEMAX 1
-http://gl.firecar.cc:80/Yakupkara/020922y/13176
-#EXTINF:-1 tvg-id="cinemax2" tvg-name="LIVING CINEMAX 2" tvg-logo="https://imagizer.imageshack.com/img924/6469/ItONZk.png" group-title="TR SINEMA",LIVING CINEMAX 2
-http://gl.firecar.cc:80/Yakupkara/020922y/45426
-#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 3" tvg-logo="https://imagizer.imageshack.com/img924/3551/TY7Mwu.png" group-title="TR SINEMA",LIVING CINEMAX 3
-http://gl.firecar.cc:80/Yakupkara/020922y/9389
-#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 4" tvg-logo="http://188.214.27.75/pcnn/cinemax4.png" group-title="TR SINEMA",LIVING CINEMAX 4
-http://gl.firecar.cc:80/Yakupkara/020922y/9388
-#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 5" tvg-logo="http://188.214.27.75/pcnn/cinemax5.png" group-title="TR SINEMA",LIVING CINEMAX 5
-http://gl.firecar.cc:80/Yakupkara/020922y/45233
-#EXTINF:-1 tvg-id="" tvg-name="LIVING WESTERN" tvg-logo="http://188.214.27.75/pcnn/western.png" group-title="TR SINEMA",LIVING WESTERN
-http://gl.firecar.cc:80/Yakupkara/020922y/9387
 #EXTINF:-1 tvg-id="" tvg-name="LIVING TURK" tvg-logo="http://188.214.27.75/pcnn/piconTURK.png" group-title="TR SINEMA",LIVING TURK
 http://gl.firecar.cc:80/Yakupkara/020922y/9379
 #EXTINF:-1 tvg-id="" tvg-name="LIVING YESILCAM" tvg-logo="http://188.214.27.75/pcnn/yesilcam.png" group-title="TR SINEMA",LIVING YESILCAM
 http://gl.firecar.cc:80/Yakupkara/020922y/45425
+
+
+
 
 
 
@@ -475,6 +388,7 @@ https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",TURK HABER  
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalB.tr" group-title="006 HABER",Kanal B  
+https://cdn900.canlitv.vip/kanalb.m3u8?tkn=5QRwn5dldF36LGyV88fUwg&tms=1746870027&hst=tv.canlitv.vip&ip=213.186.153.209
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr"  group-title="006 HABER",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8  
@@ -489,8 +403,8 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" group-title="006 HABER",TGRT Haber 
 https://canli.tgrthaber.com/tgrt.m3u8  
 #EXTINF:-1 tvg-id="ext" group-title="006 HABER",A HABER
-http://tvskor99.xyz:80/izzztt1009/19k09h20/102435
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/140
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/139
 
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",ÜLKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
@@ -519,8 +433,8 @@ https://canli.tvden.com.tr/hls/live.m3u8
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/15843
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/121
 #EXTINF:-1 tvg-id="KRTTV.tr"  group-title="006 HABER",Krt TV   
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/15420
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/5
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/232358
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/232358
 #EXTINF:-1 tvg-id="ext" group-title="006 HABER",Flash TV   
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8  
 #EXTINF:-1 tvg-id="Halk.TV.tr" group-title="006 HABER",Halk TV   
@@ -534,9 +448,9 @@ https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",Mavi Karadeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8  
 #EXTINF:-1 tvg-id="Ulusal.1.tr" group-title="006 HABER",ULUSAL TV 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2097
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/6
-https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8 
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/6
+
 #EXTINF:-1 tvg-id="Lider.Haber.tr"  group-title="006 HABER",Lider TV  
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 
@@ -773,8 +687,7 @@ http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext"  group-title="010 MUZIK",BIZ TV MUSIC
 https://fl.biztv.media/music_480_FbLnBjkOoclIXBLHLbLTuwFOKaihFS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"  group-title="011 TURK",TÜRKMENELİ TV
-https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
+
 
 #EXTINF:-1,TR: TURKCE RAP 1
 http://1986cag.xyz:8080/live/Devriz2/qJ94k1ha/280154.m3u
@@ -1167,7 +1080,77 @@ http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPKBYnXTwTUAHXDs8fmMZgPY
 #EXTINF:-1 xui-id="43419" tvg-id="" tvg-name="MOON MOVIE AiLE 1" tvg-logo="https://i.hizliresim.com/c6tvs65.png?_gl=1*9nq4v4*_ga*NjA4MTQ2NDU1LjE3MjUxNTI5MDc.*_ga_M9ZRXYS2YN*MTcyNjY3NTg2OS43LjEuMTcyNjY3ODI4Ni4yNy4wLjA." group-title="SİNEMA",MOON MOVIE AiLE 1
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPEaKl0R80sz6mGCWyQFb6uM
 
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL HD" tvg-logo="http://188.214.27.75/pcnn/universal.png" group-title="TR SINEMA",UNIVERSAL HD
+http://gl.firecar.cc:80/Yakupkara/020922y/171498
+#EXTINF:-1 tvg-id="" tvg-name="CINESTAR PREMIERE 1 HD" tvg-logo="http://188.214.27.75/pcnn/cinestarprem.png" group-title="TR SINEMA",CINESTAR PREMIERE 1 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/171191
 
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV 2 HD" tvg-logo="http://188.214.27.75/pcnn/play2.png" group-title="TR SINEMA",PLAY TV 2 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/139879
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV 3 HD" tvg-logo="http://188.214.27.75/pcnn/play3.png" group-title="TR SINEMA",PLAY TV 3 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/171166
+#EXTINF:-1 tvg-id="" tvg-name="CINE 5 HD" tvg-logo="http://188.214.27.75/pcnn/cin5.png" group-title="TR SINEMA",CINE 5 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/170295
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM HD" tvg-logo="http://188.214.27.75/pcnn/cineprem.png" group-title="TR SINEMA",CINE PREMIUM HD
+http://gl.firecar.cc:80/Yakupkara/020922y/31097
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA TV HD" tvg-logo="http://188.214.27.75/pcnn/cinem.png" group-title="TR SINEMA",CINEMA TV HD
+http://gl.firecar.cc:80/Yakupkara/020922y/169128
+#EXTINF:-1 tvg-id="" tvg-name="TV MOVIE HD" tvg-logo="http://188.214.27.75/pcnn/tvmovie.png" group-title="TR SINEMA",TV MOVIE HD
+http://gl.firecar.cc:80/Yakupkara/020922y/169127
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://188.214.27.75/pcnn/hbo.png" group-title="TR SINEMA",HBO HD
+http://gl.firecar.cc:80/Yakupkara/020922y/169126
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME HD" tvg-logo="http://188.214.27.75/pcnn/showtim.png" group-title="TR SINEMA",SHOWTIME HD
+http://gl.firecar.cc:80/Yakupkara/020922y/37036
+#EXTINF:-1 tvg-id="" tvg-name="TNT FILM HD" tvg-logo="http://188.214.27.75/pcnn/tntfhd.png" group-title="TR SINEMA",TNT FILM HD
+http://gl.firecar.cc:80/Yakupkara/020922y/48452
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HD" tvg-logo="http://188.214.27.75/pcnn/filmboxh.png" group-title="TR SINEMA",FILMBOX HD
+http://gl.firecar.cc:80/Yakupkara/020922y/1660
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ACTION HD" tvg-logo="http://188.214.27.75/pcnn/filmboxact.png" group-title="TR SINEMA",FILMBOX ACTION HD
+http://gl.firecar.cc:80/Yakupkara/020922y/138799
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX PREMIUM HD" tvg-logo="http://188.214.27.75/pcnn/filmboxprem.png" group-title="TR SINEMA",FILMBOX PREMIUM HD
+http://gl.firecar.cc:80/Yakupkara/020922y/23644
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX EXTRA HD" tvg-logo="http://188.214.27.75/pcnn/filmboxextr.png" group-title="TR SINEMA",FILMBOX EXTRA HD
+http://gl.firecar.cc:80/Yakupkara/020922y/48448
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FAMILY HD" tvg-logo="http://188.214.27.75/pcnn/filmboxfam.png" group-title="TR SINEMA",FILMBOX FAMILY HD
+http://gl.firecar.cc:80/Yakupkara/020922y/48450
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HORROR HD" tvg-logo="http://188.214.27.75/pcnn/filmboxhorr.png" group-title="TR SINEMA",FILMBOX HORROR HD
+http://gl.firecar.cc:80/Yakupkara/020922y/169185
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ CINE 1 HD" tvg-logo="http://188.214.27.75/pcnn/canalcine1.png" group-title="TR SINEMA",CANAL+ CINE 1 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/169202
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ CINE 2 HD" tvg-logo="http://188.214.27.75/pcnn/canalcine2.png" group-title="TR SINEMA",CANAL+ CINE 2 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/169203
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ CINE 3 HD" tvg-logo="http://188.214.27.75/pcnn/canalcine3.png" group-title="TR SINEMA",CANAL+ CINE 3 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/169204
+#EXTINF:-1 tvg-id="" tvg-name="VISION PLAY 1 HD" tvg-logo="https://imagizer.imageshack.com/img923/6403/G3ZNMW.png" group-title="TR SINEMA",VISION PLAY 1 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/14645
+#EXTINF:-1 tvg-id="" tvg-name="VISION PLAY 2 HD" tvg-logo="https://imagizer.imageshack.com/img924/2194/MHXvxT.png" group-title="TR SINEMA",VISION PLAY 2 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/38794
+#EXTINF:-1 tvg-id="" tvg-name="MAX AKSIYON HD" tvg-logo="http://188.214.27.75/pcnn/kingboxset.png" group-title="TR SINEMA",MAX AKSIYON HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141055
+#EXTINF:-1 tvg-id="" tvg-name="MAX AKSIYON 2 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxgold.png" group-title="TR SINEMA",MAX AKSIYON 2 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141050
+#EXTINF:-1 tvg-id="" tvg-name="MAX PREMIER HD" tvg-logo="" group-title="TR SINEMA",MAX PREMIER HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141054
+#EXTINF:-1 tvg-id="" tvg-name="MAX VIZYON 2 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxaction.png" group-title="TR SINEMA",MAX VIZYON 2 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141052
+#EXTINF:-1 tvg-id="" tvg-name="MAX ORGINAL HD" tvg-logo="http://188.214.27.75/pcnn/kingboxprime2.png" group-title="TR SINEMA",MAX ORGINAL HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141053
+
+#EXTINF:-1 tvg-id="" tvg-name="F BOX IMDB100 HD" tvg-logo="http://188.214.27.75/pcnn/kingboxaction2.png" group-title="TR SINEMA",F BOX IMDB100 HD
+http://gl.firecar.cc:80/Yakupkara/020922y/141051
+
+#EXTINF:-1 tvg-id="cinemax1" tvg-name="LIVING CINEMAX 1" tvg-logo="https://imagizer.imageshack.com/img923/3999/sIGXjb.png" group-title="TR SINEMA",LIVING CINEMAX 1
+http://gl.firecar.cc:80/Yakupkara/020922y/13176
+#EXTINF:-1 tvg-id="cinemax2" tvg-name="LIVING CINEMAX 2" tvg-logo="https://imagizer.imageshack.com/img924/6469/ItONZk.png" group-title="TR SINEMA",LIVING CINEMAX 2
+http://gl.firecar.cc:80/Yakupkara/020922y/45426
+#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 3" tvg-logo="https://imagizer.imageshack.com/img924/3551/TY7Mwu.png" group-title="TR SINEMA",LIVING CINEMAX 3
+http://gl.firecar.cc:80/Yakupkara/020922y/9389
+#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 4" tvg-logo="http://188.214.27.75/pcnn/cinemax4.png" group-title="TR SINEMA",LIVING CINEMAX 4
+http://gl.firecar.cc:80/Yakupkara/020922y/9388
+#EXTINF:-1 tvg-id="" tvg-name="LIVING CINEMAX 5" tvg-logo="http://188.214.27.75/pcnn/cinemax5.png" group-title="TR SINEMA",LIVING CINEMAX 5
+http://gl.firecar.cc:80/Yakupkara/020922y/45233
+#EXTINF:-1 tvg-id="" tvg-name="LIVING WESTERN" tvg-logo="http://188.214.27.75/pcnn/western.png" group-title="TR SINEMA",LIVING WESTERN
+http://gl.firecar.cc:80/Yakupkara/020922y/9387
 
 
 
