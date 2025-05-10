@@ -31,9 +31,12 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" group-title="002 ULUSAL",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="CINE 1.tr" group-title="002 ULUSAL",CINE1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-id="TIVI 6" group-title="002 ULUSAL",TiVi 6 
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+http://livasubat27.xyz:80/live/goksengozcu/gg16052022/118381.ts
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" group-title="004 BeIN SINEMA",Bein Movies Turk  
@@ -78,6 +81,7 @@ http://livasubat27.xyz:80/live/goksengozcu/gg16052022/124.ts
 http://gl.firecar.cc:80/Yakupkara/020922y/10311
 http://65a.tek65.eu:80/live/Huseyinabaci/q5jBSshKZrfG/150005.ts
 #EXTINF:-1 tvg-id="Atv.tr" group-title="002 ULUSAL",ATV 
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/45
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="Show.tr" group-title="002 ULUSAL",SHOW TV 
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
@@ -107,6 +111,7 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=758wgkvz08v5&app=bf58
 #EXTINF:-1 tvg-id="Teve.2.tr" group-title="002 ULUSAL",TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="a2.tr" group-title="002 ULUSAL",A2
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/9
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140
 #EXTINF:-1 tvg-id="SHOW MAX.tr"  group-title="002 ULUSAL",SHOW MAX
 http://gl.firecar.cc:80/Yakupkara/020922y/15973
@@ -388,6 +393,7 @@ https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",TURK HABER  
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalB.tr" group-title="006 HABER",Kanal B  
+http://xplatinproject.com:8080/Mehdi_teleg/GabyBFjsHqgn2KhW3Dkfs/120654
 https://cdn900.canlitv.vip/kanalb.m3u8?tkn=5QRwn5dldF36LGyV88fUwg&tms=1746870027&hst=tv.canlitv.vip&ip=213.186.153.209
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr"  group-title="006 HABER",TRT Haber
@@ -401,6 +407,7 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr"  group-title="006 HABER",Haber Global   
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8  
 #EXTINF:-1 tvg-id="TGRTHaber.tr" group-title="006 HABER",TGRT Haber 
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/222870
 https://canli.tgrthaber.com/tgrt.m3u8  
 #EXTINF:-1 tvg-id="ext" group-title="006 HABER",A HABER
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/140
@@ -426,6 +433,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8
 https://canlitvulusal.xyz/live/finansturk/index.m3u8
 https://yayin30.haber100.com/live/finansturk/chunklist_w1088819646.m3u8
 #EXTINF:-1 tvg-id="A PARA.tr"  group-title="006 HABER",A Para   
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50841
 http://185.234.111.229:8000/play/a01l 
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",TvDen
 https://canli.tvden.com.tr/hls/live.m3u8  
