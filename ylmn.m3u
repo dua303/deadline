@@ -58,6 +58,7 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/51
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/48
 #EXTINF:-1 tvg-id="TRT.2.tr" group-title="002 ULUSAL",TRT 2
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/40980
+http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/40980
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT.AVAZ.tr"  group-title="002 ULUSAL",TRT Avaz 
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/14247
@@ -104,10 +105,14 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.tr" group-title="002 ULUSAL",KANAL 7 
 http://gl.firecar.cc:80/Yakupkara/020922y/15807
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50845
+#EXTINF:-1 tvg-id="ext" group-title="003 YEREL",TYT TÜRK
+http://gl.firecar.cc:80/Yakupkara/020922y/23641
+http://gl.firecar.cc:80/Yakupkara/020922y/23641
 #EXTINF:-1 tvg-id="Woman.TV.tr" group-title="002 ULUSAL",Woman TV
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:-1  group-title="002 ULUSAL",TV 8.5
+http://gl.firecar.cc:80/Yakupkara/020922y/15802
 http://gl.firecar.cc:80/Yakupkara/020922y/15802
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=758wgkvz08v5&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 #EXTINF:-1 tvg-id="Teve.2.tr" group-title="002 ULUSAL",TEVE 2
@@ -138,11 +143,8 @@ http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/29825
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/29825
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EMAX" tvg-logo="" group-title="002 ULUSAL",EMAX 
-http://gl.firecar.cc:80/Yakupkara/020922y/174335
-#EXTINF:-1 tvg-id="ext" group-title="003 YEREL",TYT TÜRK
-http://gl.firecar.cc:80/Yakupkara/020922y/23641
-http://gl.firecar.cc:80/Yakupkara/020922y/23641
+
+
 
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8?checkedby:iptvcat.com
@@ -389,13 +391,15 @@ http://livasubat27.xyz:80/live/goksengozcu/gg16052022/813470.ts
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="005 BELGESEL",SILKWAY 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/silkway.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="EMAX" tvg-logo="" group-title="002 ULUSAL",EMAX 
+http://gl.firecar.cc:80/Yakupkara/020922y/174335
 
 #EXTINF:-1 tvg-id="ext" group-title="006 HABER",BENGU TURK  
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8  
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",TURK HABER  
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalB.tr" group-title="006 HABER",Kanal B  
+http://xplatinproject.com:8080/Mehdi_teleg/GabyBFjsHqgn2KhW3Dkfs/120654
 http://xplatinproject.com:8080/Mehdi_teleg/GabyBFjsHqgn2KhW3Dkfs/120654
 https://cdn900.canlitv.vip/kanalb.m3u8?tkn=5QRwn5dldF36LGyV88fUwg&tms=1746870027&hst=tv.canlitv.vip&ip=213.186.153.209
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
