@@ -213,15 +213,15 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="sdm" group-title="003 YEREL",SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 xui-id="43679" tvg-id="" tvg-name="MOOVIE HD TURK" tvg-logo="http://pena46tv.xyz:80/images/54d3c5dba569f3715ab6a471bf85fdd4.png" group-title="SİNEMA",MOOVIE HD TURK
+#EXTINF:-1 xui-id="43679" tvg-id="" tvg-name="MOOVIE HD TURK" tvg-logo="http://pena46tv.xyz:80/images/54d3c5dba569f3715ab6a471bf85fdd4.png" group-title="SİNEMA",YEŞİLÇAM 1
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPNTby44ImmznrC6JBlQZKIQ
-#EXTINF:-1 xui-id="43680" tvg-id="" tvg-name="MOOVIE HD TURK 2" tvg-logo="http://pena46tv.xyz:80/images/54d3c5dba569f3715ab6a471bf85fdd4.png" group-title="SİNEMA",MOOVIE HD TURK 2
+#EXTINF:-1 xui-id="43680" tvg-id="" tvg-name="MOOVIE HD TURK 2" tvg-logo="http://pena46tv.xyz:80/images/54d3c5dba569f3715ab6a471bf85fdd4.png" group-title="SİNEMA",YEŞİLÇAM 2
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPLXWP6fFy6tA3t_OMSTZMis
-#EXTINF:-1 xui-id="43678" tvg-id="" tvg-name="MOOVIE HD KORKU" tvg-logo="http://pena46tv.xyz:80/images/4eec673a1b8767eadf221f29d82ec92e.png" group-title="SİNEMA",MOOVIE HD KORKU
+#EXTINF:-1 xui-id="43678" tvg-id="" tvg-name="MOOVIE HD KORKU" tvg-logo="http://pena46tv.xyz:80/images/4eec673a1b8767eadf221f29d82ec92e.png" group-title="SİNEMA",YEŞİLÇAM 3
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPBBqJOxFcCEidIqX6ScfH9s
-#EXTINF:-1 xui-id="43675" tvg-id="" tvg-name="FILMBOX TURK" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/b7/Filmbox_%282013-.n.v.%29.png/revision/latest?cb=20171126141221" group-title="SİNEMA",FILMBOX TURK
+#EXTINF:-1 xui-id="43675" tvg-id="" tvg-name="FILMBOX TURK" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/b7/Filmbox_%282013-.n.v.%29.png/revision/latest?cb=20171126141221" group-title="SİNEMA",STAR TURK
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPNxnF_SKvMtlzWpThxRI0PA
-#EXTINF:-1 xui-id="43669" tvg-id="" tvg-name="BLUBOX YESILCAM" tvg-logo="https://avatars.mds.yandex.net/i?id=5a6ffbf6fc798a913842a3c6df5f5b021c4f6556-12422712-images-thumbs&n=13" group-title="SİNEMA",BLUBOX YESILCAM
+#EXTINF:-1 xui-id="43669" tvg-id="" tvg-name="BLUBOX YESILCAM" tvg-logo="https://avatars.mds.yandex.net/i?id=5a6ffbf6fc798a913842a3c6df5f5b021c4f6556-12422712-images-thumbs&n=13" group-title="SİNEMA",SINEBOX YESILCAM
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPH3IjJppsIg-38XFeH4uUq4
 #EXTINF:-1 xui-id="43619" tvg-id="" tvg-name="NEXTBOX TURK" tvg-logo="http://pena46tv.xyz:80/images/e74b7fa6d163e09f579ec0c3e55d0e83.png" group-title="SİNEMA",NEXTBOX TURK
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPFvmGfctyByGtjX0RVEk7VY
@@ -236,7 +236,7 @@ http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPNoRgbXUF3UWNpzQfskSJpo
 
 #EXTINF:-1 xui-id="43613" tvg-id="" tvg-name="GOLD CINEMA YERLI" tvg-logo="http://pena46tv.xyz:80/images/6ea7d25e63900b4f4ac6b73c093e225e.png" group-title="SİNEMA",GOLD CINEMA YERLI
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPAEQJzZCqi0ipyGGuKJ4eSI
-#EXTINF:-1 xui-id="43589" tvg-id="" tvg-name="BOSS YESILCAM" tvg-logo="https://avatars.mds.yandex.net/i?id=5a6ffbf6fc798a913842a3c6df5f5b021c4f6556-12422712-images-thumbs&n=13" group-title="SİNEMA",BOSS YESILCAM
+#EXTINF:-1 xui-id="43589" tvg-id="" tvg-name="BOSS YESILCAM" tvg-logo="https://avatars.mds.yandex.net/i?id=5a6ffbf6fc798a913842a3c6df5f5b021c4f6556-12422712-images-thumbs&n=13" group-title="SİNEMA",FIX YESILCAM
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPJOliUddWkxDZ3NoZKWck_U
 #EXTINF:-1 xui-id="43545" tvg-id="" tvg-name="ENO YESILCAM 1" tvg-logo="https://avatars.mds.yandex.net/i?id=5a6ffbf6fc798a913842a3c6df5f5b021c4f6556-12422712-images-thumbs&n=13" group-title="SİNEMA",ENO YESILCAM 1
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPBqqSY7tK6F6-ZkzPyFCnGg
@@ -245,9 +245,9 @@ http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPMbwLF0Xu8zxsWwxMgK-hmk
 #EXTINF:-1 xui-id="43547" tvg-id="" tvg-name="ENO YESILCAM 3" tvg-logo="https://avatars.mds.yandex.net/i?id=5a6ffbf6fc798a913842a3c6df5f5b021c4f6556-12422712-images-thumbs&n=13" group-title="SİNEMA",ENO YESILCAM 3
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPLbD4avhqNCANcms1GoQsfk
 
-#EXTINF:-1 xui-id="43534" tvg-id="" tvg-name="ENO AKSiYON 3" tvg-logo="http://pena46tv.xyz:80/images/ef39f432fa21bd58c8addd0924dd0640.png" group-title="SİNEMA",ENO AKSiYON 3
+#EXTINF:-1 xui-id="43534" tvg-id="" tvg-name="ENO AKSiYON 3" tvg-logo="http://pena46tv.xyz:80/images/ef39f432fa21bd58c8addd0924dd0640.png" group-title="SİNEMA",TURK STAR 2
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPOmWoH92k-dXUB1gf11J6K0
-#EXTINF:-1 xui-id="43535" tvg-id="" tvg-name="ENO AKSiYON 4" tvg-logo="http://pena46tv.xyz:80/images/ef39f432fa21bd58c8addd0924dd0640.png" group-title="SİNEMA",ENO AKSiYON 4
+#EXTINF:-1 xui-id="43535" tvg-id="" tvg-name="ENO AKSiYON 4" tvg-logo="http://pena46tv.xyz:80/images/ef39f432fa21bd58c8addd0924dd0640.png" group-title="SİNEMA",TURK STAR 1
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPIKEj_YFuxgdlH2HIp_uAtA
 
 #EXTINF:-1 xui-id="43525" tvg-id="" tvg-name="ENO TURK 3" tvg-logo="http://pena46tv.xyz:80/images/20e0dd1aa51e6d5470f2e46fe9ff6607.png" group-title="SİNEMA",ENO TURK 3
@@ -264,7 +264,7 @@ http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPP8f_bwAhql_FG4BpE1U1vo
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPJMpSF1N3xdtlZ7HtF8I8O8
 #EXTINF:-1 xui-id="43531" tvg-id="" tvg-name="ENO TURK 9" tvg-logo="http://pena46tv.xyz:80/images/20e0dd1aa51e6d5470f2e46fe9ff6607.png" group-title="SİNEMA",ENO TURK 9
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPE-tWqxYSBil3L8XOp7vlrc
-#EXTINF:-1 xui-id="43521" tvg-id="" tvg-name="ENO KOMEDi TV 1" tvg-logo="https://r.resimlink.com/VF1JWTPK.png" group-title="SİNEMA",ENO KOMEDi TV 1
+#EXTINF:-1 xui-id="43521" tvg-id="" tvg-name="ENO KOMEDi TV 1" tvg-logo="https://r.resimlink.com/VF1JWTPK.png" group-title="SİNEMA",ELİT TÜRK
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPFQpVBrQOl2anCpSnxqM2f4
 #EXTINF:-1 xui-id="43522" tvg-id="" tvg-name="ENO KOMEDi TV 2" tvg-logo="https://r.resimlink.com/VF1JWTPK.png" group-title="SİNEMA",ENO KOMEDi TV 2
 http://pena46tv.xyz:80/play/VXi2Gt_q6TqVf3lJMu1wPBd3dR_UlC3IJjsVCJ2J0zg
