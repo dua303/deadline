@@ -87,7 +87,8 @@ http://livasubat27.xyz:80/live/goksengozcu/gg16052022/124.ts
 http://gl.firecar.cc:80/Yakupkara/020922y/10311
 http://livasubat27.xyz:80/live/goksengozcu/gg16052022/63947.ts
 #EXTINF:-1 tvg-id="Atv.tr" group-title="002 ULUSAL",ATV 
-
+http://ars4k.com:2095/ysn1836/cn.3005/113573
+http://ars4k.com:2095/ysn1836/cn.3005/31194
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="Show.tr" group-title="002 ULUSAL",SHOW TV 
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
@@ -203,10 +204,11 @@ https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb1
 
 #EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
 https://radyotelekomtv.com/player/m3u8/f32f2929378506f7952c6c3806669118/f32f2929378506f7952c6c3806669118.m3u8
+https://radyotelekomtv.com/player/m3u8/f32f2929378506f7952c6c3806669118/f32f2929378506f7952c6c3806669118.m3u8
 https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Cine 6
 https://radyotelekomtv.com/player/m3u8/7842f619b17522973ea74e67eab64899/7842f619b17522973ea74e67eab64899.m3u8
-https://radyotelekomtv.com/player/m3u8/5ca5d92515b99f2e20ee0a40c0a3031d/5ca5d92515b99f2e20ee0a40c0a3031d.m3u8
+https://radyotelekomtv.com/player/m3u8/7842f619b17522973ea74e67eab64899/7842f619b17522973ea74e67eab64899.m3u8
 https://tivi44.ozelip.com:3614/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Rize Türk
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
