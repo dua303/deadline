@@ -87,6 +87,7 @@ http://livasubat27.xyz:80/live/goksengozcu/gg16052022/124.ts
 http://gl.firecar.cc:80/Yakupkara/020922y/10311
 http://livasubat27.xyz:80/live/goksengozcu/gg16052022/63947.ts
 #EXTINF:-1 tvg-id="Atv.tr" group-title="002 ULUSAL",ATV 
+
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="Show.tr" group-title="002 ULUSAL",SHOW TV 
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
@@ -194,6 +195,7 @@ https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="011 TURK",Torba TV  
 https://yayin1.canlitv.fun/canlitv/torbatv.stream/chunklist_w738285650.m3u8?hash=0d822f34f3f1eb25ae3960ea0848e411
+https://yayin1.canlitv.fun/canlitv/torbatv.stream/chunklist_w738285650.m3u8
 http://stream.tvcdn.net/kibris/torba-tv.m3u8  
 
 #EXTINF:-1 tvg-id="ext"  group-title="011 TURK",TÜRKMENELİ TV
