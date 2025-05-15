@@ -24,6 +24,7 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-id="TRT NOSTALJİ.tr"  group-title="001 DIZI",TRT NOSTALJİ
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="CNBC-e.tr" group-title="001 DIZI",CNBC-e  
+https://ottcdn.kablowebtv.net/live_turksat_sub3/cnbce_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/68443
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/254694
 
@@ -32,8 +33,10 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="BIR TV.tr" group-title="002 ULUSAL",Bir TV
 https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="360.tr" group-title="002 ULUSAL",360
+https://ottcdn.kablowebtv.net/live_turksat_sub3/360tv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" group-title="002 ULUSAL",TV 4
+https://ottcdn.kablowebtv.net/live_turksat_sub3/tv4_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="CINE 1.tr" group-title="002 ULUSAL",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
@@ -55,22 +58,27 @@ http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/5866
 http://gl.firecar.cc:80/Yakupkara/020922y/10796
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/10796
 #EXTINF:-1 tvg-id="ext" group-title="004 Tivibu SINEMA",Sinema Yerli  
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/12059
 http://gl.firecar.cc:80/Yakupkara/020922y/12059
 
 #EXTINF:-1 tvg-id="TRT 4K"  group-title="002 ULUSAL",TRT 4K     
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/51
 #EXTINF:-1 tvg-id="TRT.1.tr" group-title="002 ULUSAL",TRT 1 
+https://ottcdn.kablowebtv.net/live_turksat_sub3/trt1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/48
 #EXTINF:-1 tvg-id="TRT.2.tr" group-title="002 ULUSAL",TRT 2
+https://ottcdn.kablowebtv.net/live_turksat_sub3/trt2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/40980
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/40980
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT.AVAZ.tr"  group-title="002 ULUSAL",TRT Avaz 
+https://ottcdn.kablowebtv.net/live_turksat_sub3/trtavaz_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/14247
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234448
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTÜRK.tr"  group-title="002 ULUSAL",TRT Türk 
+https://ottcdn.kablowebtv.net/live_turksat_sub3/trtturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/13215
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234447
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
@@ -79,10 +87,13 @@ http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2228
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.tr" group-title="002 ULUSAL",DMAX
+https://ottcdn.kablowebtv.net/live_turksat_sub3/dmax_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" group-title="002 ULUSAL",TLC
+https://ottcdn.kablowebtv.net/live_turksat_sub3/tlc_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" group-title="002 ULUSAL",TV8
+https://ottcdn.kablowebtv.net/live_turksat_sub3/tv8_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/14235
 http://livasubat27.xyz:80/live/goksengozcu/gg16052022/124.ts
 
@@ -90,25 +101,32 @@ http://livasubat27.xyz:80/live/goksengozcu/gg16052022/124.ts
 http://gl.firecar.cc:80/Yakupkara/020922y/10311
 http://livasubat27.xyz:80/live/goksengozcu/gg16052022/63947.ts
 #EXTINF:-1 tvg-id="Atv.tr" group-title="002 ULUSAL",ATV 
+https://ottcdn.kablowebtv.net/live_turksat_sub3/atv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/45
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="Show.tr" group-title="002 ULUSAL",SHOW TV 
+https://ottcdn.kablowebtv.net/live_turksat_sub3/showtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="KANAL D.tr" group-title="002 ULUSAL",KANAL D
+https://ottcdn.kablowebtv.net/live_turksat_sub3/kanald_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 http://gl.firecar.cc:80/Yakupkara/020922y/14243
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/39
 #EXTINF:-1 tvg-id="Star.tr" group-title="002 ULUSAL",STAR TV 
+https://ottcdn.kablowebtv.net/live_turksat_sub3/startv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 http://gl.firecar.cc:80/Yakupkara/020922y/14239
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/36
 http://livasubat27.xyz:80/live/goksengozcu/gg16052022/126.ts
 
 #EXTINF:-1 tvg-id="NOW" group-title="002 ULUSAL",NOW TV
+https://ottcdn.kablowebtv.net/live_turksat_sub3/now_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 http://gl.firecar.cc:80/Yakupkara/020922y/14237
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/34
 
 #EXTINF:-1 tvg-id="Beyaz.TV.tr" group-title="002 ULUSAL",BEYAZ TV
+https://ottcdn.kablowebtv.net/live_turksat_sub3/beyaztv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.tr" group-title="002 ULUSAL",KANAL 7 
+https://ottcdn.kablowebtv.net/live_turksat_sub3/kanal7_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 http://gl.firecar.cc:80/Yakupkara/020922y/15807
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50845
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",TYT TÜRK
@@ -122,6 +140,7 @@ http://gl.firecar.cc:80/Yakupkara/020922y/15802
 http://gl.firecar.cc:80/Yakupkara/020922y/15802
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=758wgkvz08v5&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 #EXTINF:-1 tvg-id="Teve.2.tr" group-title="002 ULUSAL",TEVE 2
+https://ottcdn.kablowebtv.net/live_turksat_sub3/teve2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDEyOjM4OjQ1IFBNJmhhc2hfdmFsdWU9cXl3d2FUVlpVZlp4WlovQ1N0Qm1RQT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSw4OTc0MWZlYy0xZDMzLTRjMDAtYWZjZC0zZmRhZmUwYjZhMmQsMTUyYmQ1MzktNjIyMC00NDI3LWE5MTUtYmY0YmQwNjhkN2U4LGE2OTliODNmLTgyNmItNGQ5OS05MzYxLWM4YTMxMzIxOGQ0NiwwLDo6ZmZmZjoxMC4wLjAuMjA2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="a2.tr" group-title="002 ULUSAL",A2
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/9
