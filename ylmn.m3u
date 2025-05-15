@@ -200,9 +200,10 @@ http://stream.tvcdn.net/kibris/torba-tv.m3u8
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
+https://radyotelekomtv.com/player/m3u8/f32f2929378506f7952c6c3806669118/f32f2929378506f7952c6c3806669118.m3u8
 https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Cine 6
-https://canli.cine6tv.com.tr:3614/stream/play.m3u8
+https://radyotelekomtv.com/player/m3u8/7842f619b17522973ea74e67eab64899/7842f619b17522973ea74e67eab64899.m3u8
 https://radyotelekomtv.com/player/m3u8/5ca5d92515b99f2e20ee0a40c0a3031d/5ca5d92515b99f2e20ee0a40c0a3031d.m3u8
 https://tivi44.ozelip.com:3614/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Rize Türk
