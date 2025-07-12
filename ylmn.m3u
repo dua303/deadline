@@ -13,6 +13,8 @@ https://goldvod.org/tv/vavoo?id=791616758e9ad4e5d14ac
 #EXTINF:-1 tvg-id="DIZI SMART MAX.tr" group-title="001 DIZI",DIZI SMART MAX
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/60119
 
+#EXTINF:-1 tvg-id="Bi Kanal" group-title="T001 DIZI",BİKANAL HD
+https://live-cdn-65984.varplaycdn.cfd/bikanal/index.m3u8
 
 #EXTINF:-1 tvg-id="NULL" group-title="001 DIZI",TeleOn
 https://tx.flv.nimo.tv/live/su2039517909034rf8359a329f989836f0e5bfafa23b25c2.flv?wsSecret=f114245fb593b4603891d825566e6b51&wsTime=68728fe5&seqid=2268818981510&ctype=nimo_media_web&ver=1&appid=81&tp=1752338405816&needwm=1&ratio=500&dMod=mseh-0&sdkPcdn=1_1&u=518142776896&t=100&sv=2507031523&sdk_sid=1752338434846&a_block=0
@@ -33,12 +35,9 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" group-title="002 ULUSAL",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-id="CINE 1.tr" group-title="002 ULUSAL",CINE1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="TIVI 6" group-title="002 ULUSAL",TiVi 6 
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" group-title="004 BeIN SINEMA",Bein Movies Turk  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/223
@@ -195,19 +194,19 @@ https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb1
 #EXTINF:-1 group-title="004 SINEMA",CINE 5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
-https://ip240.radyotelekom.com.tr:3118/stream/play-203835.ts
-https://ip240.radyotelekom.com.tr:3118/stream/play-203835.ts
-https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
+https://live-cdn-65984.varplaycdn.cfd/cine6max/index.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Cine 6
-https://radyotelekomtv.com/player/m3u8/7842f619b17522973ea74e67eab64899/7842f619b17522973ea74e67eab64899.m3u8
-https://radyotelekomtv.com/player/m3u8/7842f619b17522973ea74e67eab64899/7842f619b17522973ea74e67eab64899.m3u8
-https://tivi44.ozelip.com:3614/hybrid/play.m3u8
+https://live-cdn-65984.varplaycdn.cfd/cine6/index.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Rize Türk
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="sdm" group-title="003 YEREL",SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1  group-title="003 YEREL",SUPERTURK HD
+https://live-cdn-65984.varplaycdn.cfd/superturk/index.m3u8
+#EXTINF:-1  group-title="003 YEREL",SUPERTURK MAX HD
+https://live-cdn-65984.varplaycdn.cfd/superturkmax/index.m3u8
+#EXTINF:-1 tvg-name="Deniz Postası Tv 720p" group-title="003 YEREL",Deniz Postası Tv 720p
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="FILMSCREEN.tr"  group-title="004 DSMART SINEMA",Film Screen  
