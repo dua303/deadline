@@ -53,7 +53,7 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/216
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/165
 
 #EXTINF:-1 tvg-id="TRT 4K"  group-title="002 ULUSAL",TRT 4K     
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/51
+https://live-cdn-65984.varplaycdn.cfd/trt4k/index.m3u8
 
 #EXTINF:-1 tvg-id="TRT.1.tr" group-title="002 ULUSAL",TRT 1 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/48
@@ -122,7 +122,7 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/31363
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 
 #EXTINF:-1 tvg-id="ATV AVRUPA.tr" group-title="002 ULUSAL",ATV AVRUPA 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/10306
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8
 
 #EXTINF:-1 tvg-id="EUROSTAR.tr" group-title="002 ULUSAL",EURO STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
@@ -248,11 +248,12 @@ http://gl.firecar.cc:80/Yakupkara/020922y/1685
 http://gl.firecar.cc:80/Yakupkara/020922y/5877
 
 #EXTINF:-1 tvg-id="ext"   group-title="004 BeIN SINEMA",Bein Box Office 1 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/141030
+https://tv.arectv34.sbs/live/box1.m3u8
+
 #EXTINF:-1 tvg-id="ext"  tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 2 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/141029
+https://tv.arectv34.sbs/live/box2.m3u8
 #EXTINF:-1 tvg-id="ext"   group-title="004 BeIN SINEMA",Bein Box Office 3 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/69148
+https://tv.arectv34.sbs/live/box3.m3u8
 #EXTINF:-1 tvg-id="beIN SERIES 1.tr"   group-title="004 BeIN SINEMA",Bein Series 1 
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/5869
 #EXTINF:-1 tvg-id="beIN SERIES 2.tr"  tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 2 
@@ -265,7 +266,7 @@ http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/5868
 #EXTINF:-1 tvg-id="beIN IZ.tr"group-title="005 BELGESEL",Bein H&E
 http://turkboxtitan.com:8080/23Memik726/FdL25072023/585204
 #EXTINF:-1 tvg-id="beIN IZ.tr"group-title="005 BELGESEL",Bein IZ 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/26225
+http://gails.me:80/afrim.shefii/spXkFYJPJA1eXEbmwP5KDMbwp19qWRSdh/111312
 #EXTINF:-1 tvg-id="beIN GURME.tr" group-title="005 BELGESEL",Bein Gurme   
 http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89172
 #EXTINF:-1 tvg-id="ext" group-title="005 BELGESEL",ID   
@@ -275,7 +276,6 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/261
 
 #EXTINF:-1 tvg-id="Tarih.TV.tr"  group-title="005 BELGESEL",Tarih TV 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/140595
-
 
 #EXTINF:-1 tvg-id="History Channel.tr"   group-title="005 BELGESEL",History Channel 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/278
