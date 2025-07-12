@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EPIC.DRAMA.tr" group-title="001 DIZI",Epic Drama
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50426
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/31100
+
 #EXTINF:-1 tvg-id="FX.tr" group-title="001 DIZI",Fx 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/12
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/10795
+
 #EXTINF:-1 tvg-id="BBC FIRST.tr" group-title="001 DIZI",BBC FIRST   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/165462
 #EXTINF:-1 tvg-id="DIZI PREMIUM.tr" group-title="001 DIZI",DIZI PREMIUM
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/23640
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/23640
+https://goldvod.org/tv/vavoo?id=791616758e9ad4e5d14ac
+
 #EXTINF:-1 tvg-id="DIZI SMART MAX.tr" group-title="001 DIZI",DIZI SMART MAX
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/60119
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/15100
+
 
 #EXTINF:-1 tvg-id="NULL" group-title="001 DIZI",TeleOn
 https://euw12.playlist.ttvnw.net/v1/playlist/CpoGzTosSDQcNU8nWjWokA9VsBBV-wSW7Q7nLEzgDkLvWLzIUpnkzUWv-jQddUmYrrs8sVy9tPI9RAeVAMtlbFE7oSxCJiGahNYTVhmYWFzv8YORjIgQ4Y21D9eOA__EvDOs0O-s8u7wPTJ5YJ8BaSlms_sxT8lR6KveQ3XC03oPQYRyzyTzuYkshlOYj_Wl78hqUcFuiZLlcNvtJ8dVHIul4auHoQbP4GdN-3jyupmBjNwF2yBP1mPTfKrnZA1bjTeS52hnwXSUu5j1ZLzPjFHiEfu7Awtqjpog3QZYgFFZmmwoo5Y7cYObn95Cm9tGMKtoa_ogF98bIWvx9pKxPKDP0N6707zm3JcrQgAK7k2vn1UfEXfVrh3DuIhU4vk3mVNRMve1nzwaaxM-LeE3zCO5QqxpYnvfk4KE_oo4mvkhRTsopnAj1dB3pJbUddvHkDupsRMkPnjEolRI2GFao4gFK_nlpW0DJS0O5bFTSeEvhYA2JYY0pmgmFNEkrI_WY0JRFe6iZleGpeySv1XbqjOnCpOBwP0pFi2hs7TCy3UsF-O_WklFzMdv72xKHc7An3D4nKVGEPIc62GDA3FD1bWtycPHXTalRhRJvgyvxFeGOawgIpM4qcNR95ZgfbvjRJFGXkZt6r_wAjwAcrvG9XcwxoGyUG02yKi1680AoLxWe-uB0rF8Xp0DJGSXKeUEHq0Gsy55hXE_mf4QhD7k5RuOHowkRRBJH2tNGtvzxmwpuFH4fkdsHof1jUAtiRg3NSdXmWaAES7ARi6ymfhacBTYz5tM33wgQfI0hujI2UZF3RsOPfYa4Oeou-36Ku5IwMB2tSDH2W3w3QzOXTT6bTXrxpu9edFkIyowoT0pHp3A1tp2mpsL0a5NQofmNI3owoYOd5r9-WhyZo2v3OkkykWaeEXep9Y9PD0bFCkIaRMxmRI6XeO9r_Ls1APNRYvRiRB4FYR8-6LE4YTbMyuqe7Sj2xRsY5q7ryNdw5O0XeCZQdC2S-QzEfNFsP8WCim1HZYwaehRLoNDQAPEZVEzjEHb3Vu2kCJsQCsQfCMaDN2gjCOEuH5voOqG9SABKglldS13ZXN0LTIwrQw.m3u8
@@ -23,7 +23,6 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-id="TRT NOSTALJİ.tr"  group-title="001 DIZI",TRT NOSTALJİ
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="CNBC-e.tr" group-title="001 DIZI",CNBC-e  
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/68443
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/254694
 
 #EXTINF:-1 tvg-id="MELTEM TV.tr" group-title="002 ULUSAL",MELTEM TV 
@@ -48,34 +47,28 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/223
 
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr"  group-title="004 DSMART SINEMA",Moviesmart Turk  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/64828
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/5866
+
 #EXTINF:-1 tvg-id="MovieSmart Classic.trr"  group-title="004 DSMART SINEMA",Moviesmart Classic  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/216
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/10796
+
 #EXTINF:-1 tvg-id="ext" group-title="004 Tivibu SINEMA",Sinema Yerli  
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/12059
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/165
 
 #EXTINF:-1 tvg-id="TRT 4K"  group-title="002 ULUSAL",TRT 4K     
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/51
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/46647
+
 #EXTINF:-1 tvg-id="TRT.1.tr" group-title="002 ULUSAL",TRT 1 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/14233
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/48
 #EXTINF:-1 tvg-id="TRT.2.tr" group-title="002 ULUSAL",TRT 2
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/26238
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/40980
 
 #EXTINF:-1 tvg-id="TRT.AVAZ.tr"  group-title="002 ULUSAL",TRT Avaz 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/14247
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234448
 
 #EXTINF:-1 tvg-id="TRTTÜRK.tr"  group-title="002 ULUSAL",TRT Türk 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/13215
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234447
 
 #EXTINF:-1 tvg-id="TRT.Belgesel.tr" group-title="002 ULUSAL",TRT BELGESEL
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2228
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50847
 
 #EXTINF:-1 tvg-id="DMAX.tr" group-title="002 ULUSAL",DMAX
@@ -83,77 +76,73 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/274
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" group-title="002 ULUSAL",TLC
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/14
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/38793
+
 #EXTINF:-1 tvg-id="TV8.tr" group-title="002 ULUSAL",TV8
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/30
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/14235
 
 
 #EXTINF:-1 tvg-id="Atv.tr" group-title="002 ULUSAL",ATV 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/45
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/14245
+
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="Show.tr" group-title="002 ULUSAL",SHOW TV 
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="KANAL D.tr" group-title="002 ULUSAL",KANAL D
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/39
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/14243
+
 #EXTINF:-1 tvg-id="Star.tr" group-title="002 ULUSAL",STAR TV 
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/36
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/36
 
 
 #EXTINF:-1 tvg-id="NOW" group-title="002 ULUSAL",NOW TV
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/14237
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/34
 
 #EXTINF:-1 tvg-id="Beyaz.TV.tr" group-title="002 ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.tr" group-title="002 ULUSAL",KANAL 7 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/15807
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50845
+
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",TYT TÜRK
 https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/23641
 
 #EXTINF:-1 tvg-id="Woman.TV.tr" group-title="002 ULUSAL",Woman TV
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+
 #EXTINF:-1  group-title="002 ULUSAL",TV 8.5
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/15802
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=758wgkvz08v5&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 #EXTINF:-1 tvg-id="Teve.2.tr" group-title="002 ULUSAL",TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+
 #EXTINF:-1 tvg-id="a2.tr" group-title="002 ULUSAL",A2
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/9
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/5975
+
 
 #EXTINF:-1 tvg-id="SHOW MAX.tr"  group-title="002 ULUSAL",SHOW MAX
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/31363
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/15973
+
 #EXTINF:-1 tvg-id="SHOW MAX.tr"  group-title="002 ULUSAL",SHOW TURK 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2227
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
+
 #EXTINF:-1 tvg-id="ATV AVRUPA.tr" group-title="002 ULUSAL",ATV AVRUPA 
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/10306
 
 #EXTINF:-1 tvg-id="EUROSTAR.tr" group-title="002 ULUSAL",EURO STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
+
 #EXTINF:-1 tvg-id="EURO D.tr" group-title="002 ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KANAL 7 AVRUPA.tr" group-title="002 ULUSAL",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Vav.Tv.tr"  group-title="002 ULUSAL",VAV TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
+
 #EXTINF:-1 tvg-id="Diyanet.TV.tr"group-title="002 ULUSAL",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_0.m3u8
+
 #EXTINF:-1 tvg-id="TGRT.Haber.tr"  group-title="002 ULUSAL",TGRT EU
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/29825
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/29825
-
-
-
-
+https://live-cdn-65984.varplaycdn.cfd/tgrteu/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8?checkedby:iptvcat.com
@@ -200,8 +189,7 @@ https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="011 TURK",Torba TV  
 https://yayin1.canlitv.fun/canlitv/torbatv.stream/chunklist_w738285650.m3u8?hash=0d822f34f3f1eb25ae3960ea0848e411
-https://yayin1.canlitv.fun/canlitv/torbatv.stream/chunklist_w738285650.m3u8?hash=0d822f34f3f1eb25ae3960ea0848e411
-http://stream.tvcdn.net/kibris/torba-tv.m3u8  
+
 
 #EXTINF:-1 tvg-id="ext"  group-title="011 TURK",TÜRKMENELİ TV
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
@@ -243,25 +231,24 @@ http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89285
 
 #EXTINF:-1 tvg-id="beIN MOVIES STARS.tr"  group-title="004 BeIN SINEMA",Bein Movies Stars 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/224
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/26595
+
 #EXTINF:-1 tvg-id="beIN MOVIES ACTION.tr" group-title="004 BeIN SINEMA",Bein Movies Action   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/232361
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/232361
+
 #EXTINF:-1 tvg-id="beIN MOVIES PREMIERE.tr"   group-title="004 BeIN SINEMA",Bein Movies Premiere  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/225
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/47976
+
 #EXTINF:-1 tvg-id="beINMOVIESPREMIERE2HD"  group-title="004 BeIN SINEMA",Bein Movies Premiere 2  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234446
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/141028
+
 #EXTINF:-1 tvg-id=""   group-title="004 BeIN SINEMA",beIN MOVIES FAMILY HD
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/32219
 http://gl.firecar.cc:80/Yakupkara/020922y/32219
 #EXTINF:-1 tvg-id=""   group-title="004 BeIN SINEMA",beIN SERIES COMEDY
 http://gl.firecar.cc:80/Yakupkara/020922y/1685
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/1685
+
 #EXTINF:-1 tvg-id="ext"   group-title="004 BeIN SINEMA",beIN SERIES DRAMA
 http://gl.firecar.cc:80/Yakupkara/020922y/5877
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/5877
+
 #EXTINF:-1 tvg-id="ext"   group-title="004 BeIN SINEMA",Bein Box Office 1 
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/141030
 #EXTINF:-1 tvg-id="ext"  tvg-logo="" group-title="004 BeIN SINEMA",Bein Box Office 2 
@@ -285,38 +272,34 @@ http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/26225
 http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89172
 #EXTINF:-1 tvg-id="ext" group-title="005 BELGESEL",ID   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/261
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2139
+
 
 
 #EXTINF:-1 tvg-id="Tarih.TV.tr"  group-title="005 BELGESEL",Tarih TV 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/140595
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/69152
+
 
 #EXTINF:-1 tvg-id="History Channel.tr"   group-title="005 BELGESEL",History Channel 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/25966
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/278
 #EXTINF:-1 tvg-id="Viasat.History.tr"  group-title="005 BELGESEL",Viasat History   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/47970
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/14472
+
 
 #EXTINF:-1 tvg-id="BBC EARTH.tr"  group-title="005 BELGESEL",BBC Earth HD  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/258
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2144
+
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL.tr"  group-title="005 BELGESEL",Discovery Channel  
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/9526 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/264
 #EXTINF:-1 tvg-id="ext"  group-title="005 BELGESEL",National Geo  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/282
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/3742
+
 #EXTINF:-1 tvg-id="NAT.GEO.WILD.tr"  group-title="005 BELGESEL",Nat Geo Wild 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/282
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2146
+
 #EXTINF:-1 tvg-id="Love Nature.tr" group-title="005 BELGESEL",Love Nature   
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/33055
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50428
 #EXTINF:-1 tvg-id="VIASAT EXPLORE.tr"  group-title="005 BELGESEL",Viasat Explorer 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234449
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/17949
 
 #EXTINF:-1 tvg-id="ext" group-title="005 BELGESEL",Viasat Nature 
 http://aybytv.xyz:8080/vff0921/mrr7945/451573
@@ -356,7 +339,7 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/222870
 https://canli.tgrthaber.com/tgrt.m3u8  
 #EXTINF:-1 tvg-id="ext" group-title="006 HABER",A HABER
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/140
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/68444
+
 
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",ÜLKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
@@ -366,7 +349,6 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 tvg-id="EKOTÃœRK.tr"  group-title="006 HABER",Eko Türk TV  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/31415
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/15425
 
 #EXTINF:-1 tvg-id="EKOL TV.tr"  group-title="006 HABER",Ekol TV   
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8  
@@ -379,22 +361,20 @@ https://canlitvulusal.xyz/live/finansturk/index.m3u8
 https://yayin30.haber100.com/live/finansturk/chunklist_w1088819646.m3u8
 #EXTINF:-1 tvg-id="A PARA.tr"  group-title="006 HABER",A Para   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50841
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/13392
+
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",TvDen
 https://canli.tvden.com.tr/hls/live.m3u8  
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",Tele 1
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/15843
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/121
 #EXTINF:-1 tvg-id="KRTTV.tr"  group-title="006 HABER",Krt TV   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/232358
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/15420
+
 #EXTINF:-1 tvg-id="ext" group-title="006 HABER",Flash TV   
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8  
 #EXTINF:-1 tvg-id="Halk.TV.tr" group-title="006 HABER",Halk TV   
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=751s8s9ogjc3&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3hhaber-live.ercdn.net/flashhaber/flashhaber_720p.m3u8  
 
 #EXTINF:-1 tvg-id="SZC.tr"  group-title="006 HABER",Sözcü TV  
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/70126
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/144
 #EXTINF:-1 tvg-id="tv.100.tr" group-title="006 HABER",TV 100   
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
@@ -402,7 +382,7 @@ https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8  
 #EXTINF:-1 tvg-id="Ulusal.1.tr" group-title="006 HABER",ULUSAL TV 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/6
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2097
+
 
 #EXTINF:-1 tvg-id="Lider.Haber.tr"  group-title="006 HABER",Lider TV  
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
@@ -417,19 +397,16 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/253
 
 #EXTINF:-1 tvg-id="NICKTOONS" group-title="007 COCUK",TR: NICKTOONS
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/234450
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/32262
+
 #EXTINF:-1 tvg-id="Nickelodeon.tr" group-title="007 COCUK",Nickelodeon HD
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2096
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/298
 #EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Cartoonito
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/15020
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/14190
+
 
 #EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Trt Cocuk
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/15844
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/308
 #EXTINF:-1 tvg-id="ext"  tvg-logo="" group-title="007 COCUK",Diyanet Cocuk 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/29983
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/244105
 #EXTINF:-1 tvg-id="DisneyJunior.tr" t group-title="007 COCUK",Disney JR
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2090
@@ -437,13 +414,10 @@ http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2090
 http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2095
 
 #EXTINF:-1 tvg-id="ext" group-title="007 COCUK",Minika Go
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2094
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/304
 #EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Minika Cocuk
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2093
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/306
 #EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Cartoon Network
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/12864
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/301
 
 #EXTINF:-1 tvg-id="beINSPORTSHD1.tr"   group-title="009 SPOR",Bein Sports 1
