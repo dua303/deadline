@@ -119,10 +119,10 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/9
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/31363
 
 #EXTINF:-1 tvg-id="SHOW MAX.tr"  group-title="002 ULUSAL",SHOW TURK 
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865033
 
 #EXTINF:-1 tvg-id="ATV AVRUPA.tr" group-title="002 ULUSAL",ATV AVRUPA 
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865034
 
 #EXTINF:-1 tvg-id="EUROSTAR.tr" group-title="002 ULUSAL",EURO STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
@@ -171,6 +171,8 @@ https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="011 TURK",BRT 2
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id=""  group-title="011 TURK",BRT 3 HD
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865715
 #EXTINF:-1 tvg-id="ext"  group-title="011 TURK",ADA TV
 https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="011 TURK",KANAL T
@@ -210,21 +212,20 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 
 
 #EXTINF:-1 tvg-id="FILMSCREEN.tr"  group-title="004 DSMART SINEMA",Film Screen  
-http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89282
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865304
 
 
 
 #EXTINF:-1 tvg-id="Sinema.TV.Aile2.tr"  group-title="004 Tivibu SINEMA",Sinema Aile 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/12064
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865297
 #EXTINF:-1 tvg-id="Sinema.TV.tr"  group-title="004 Tivibu SINEMA",Sinema TV 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2207
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865289
 #EXTINF:-1 tvg-id="Sinema.Aksiyon.tr"  group-title="004 Tivibu SINEMA",Sinema Aksiyon 
-http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89286 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2205
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/860728
 #EXTINF:-1 tvg-id="Sinema.1001.tr"  group-title="004 Tivibu SINEMA",Sinema TV 1001 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2204
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865295
 #EXTINF:-1 tvg-id="Sinema.Komedi.tr" group-title="004 Tivibu SINEMA",Sinema TV Komedi  
-http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89285  
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/860730
 
 
 #EXTINF:-1 tvg-id="beIN MOVIES STARS.tr"  group-title="004 BeIN SINEMA",Bein Movies Stars 
@@ -268,7 +269,7 @@ http://turkboxtitan.com:8080/23Memik726/FdL25072023/585204
 #EXTINF:-1 tvg-id="beIN IZ.tr"group-title="005 BELGESEL",Bein IZ 
 http://gails.me:80/afrim.shefii/spXkFYJPJA1eXEbmwP5KDMbwp19qWRSdh/111312
 #EXTINF:-1 tvg-id="beIN GURME.tr" group-title="005 BELGESEL",Bein Gurme   
-http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89172
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/860636
 #EXTINF:-1 tvg-id="ext" group-title="005 BELGESEL",ID   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/261
 
@@ -327,7 +328,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" group-title="006 HABER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8  
 #EXTINF:-1 tvg-id="CNNTurk.tr"  group-title="006 HABER",CNN TÜRK  
-http://jkr4ksrvr.xyz:8080/aytunc22/rhysegjk/89114
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/849524
 #EXTINF:-1 tvg-id="Haberturk.tr"  group-title="006 HABER",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8  
 #EXTINF:-1 tvg-id="HaberGlobal.tr"  group-title="006 HABER",Haber Global   
@@ -387,7 +388,7 @@ http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",İlke TV    
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/46655
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/866491
 
 
 #EXTINF:-1 tvg-id="Da Vinci Learning.tr"  group-title="005 BELGESEL",Da Vinci   
@@ -401,15 +402,17 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/298
 #EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Cartoonito
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/15020
 
+#EXTINF:-1 tvg-id="" group-title="007 COCUK",SPACETOON HD
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865278
 
 #EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Trt Cocuk
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/308
 #EXTINF:-1 tvg-id="ext"  tvg-logo="" group-title="007 COCUK",Diyanet Cocuk 
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/244105
 #EXTINF:-1 tvg-id="DisneyJunior.tr" t group-title="007 COCUK",Disney JR
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2090
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865275
 #EXTINF:-1 tvg-id="ext"  group-title="007 COCUK",Nick JR
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/2095
+http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865280
 
 #EXTINF:-1 tvg-id="ext" group-title="007 COCUK",Minika Go
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/304
