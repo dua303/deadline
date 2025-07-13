@@ -8,13 +8,15 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/12
 #EXTINF:-1 tvg-id="BBC FIRST.tr" group-title="001 DIZI",BBC FIRST   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/165462
 #EXTINF:-1 tvg-id="DIZI PREMIUM.tr" group-title="001 DIZI",DIZI PREMIUM
-https://goldvod.org/tv/vavoo?id=791616758e9ad4e5d14ac
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/591439
 
 #EXTINF:-1 tvg-id="DIZI SMART MAX.tr" group-title="001 DIZI",DIZI SMART MAX
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/60119
 
 #EXTINF:-1 tvg-id="Bi Kanal" group-title="T001 DIZI",BİKANAL HD
 https://live-cdn-65984.varplaycdn.cfd/bikanal/index.m3u8
+#EXTINF:-1 tvg-id="ext"  group-title="006 HABER",EGEMAX TV
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/594200
 
 #EXTINF:-1 tvg-id="NULL" group-title="001 DIZI",TeleOn
 https://tx.flv.nimo.tv/live/su2039517909034rf8359a329f989836f0e5bfafa23b25c2.flv?wsSecret=f114245fb593b4603891d825566e6b51&wsTime=68728fe5&seqid=2268818981510&ctype=nimo_media_web&ver=1&appid=81&tp=1752338405816&needwm=1&ratio=500&dMod=mseh-0&sdkPcdn=1_1&u=518142776896&t=100&sv=2507031523&sdk_sid=1752338434846&a_block=0
@@ -40,8 +42,7 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" group-title="004 BeIN SINEMA",Bein Movies Turk  
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/223
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/223
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/591389
 
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr"  group-title="004 DSMART SINEMA",Moviesmart Turk  
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/64828
@@ -102,12 +103,10 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50845
 
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",TYT TÜRK
 https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Woman.TV.tr" group-title="002 ULUSAL",Woman TV
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-
+#EXTINF:-1 tvg-id="ext" group-title="003 YEREL",TV 8 INT
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/1883
 #EXTINF:-1  group-title="002 ULUSAL",TV 8.5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=758wgkvz08v5&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/1859
 #EXTINF:-1 tvg-id="Teve.2.tr" group-title="002 ULUSAL",TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 
@@ -141,7 +140,22 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 
 #EXTINF:-1 tvg-id="TGRT.Haber.tr"  group-title="002 ULUSAL",TGRT EU
 https://live-cdn-65984.varplaycdn.cfd/tgrteu/index.m3u8
-
+#EXTINF:-1 group-title="004 SINEMA",CINE 5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
+https://live-cdn-65984.varplaycdn.cfd/cine6max/index.m3u8
+#EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Cine 6
+https://live-cdn-65984.varplaycdn.cfd/cine6/index.m3u8
+#EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Rize Türk
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="sdm" group-title="003 YEREL",SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="003 YEREL",SUPERTURK HD
+https://live-cdn-65984.varplaycdn.cfd/superturk/index.m3u8
+#EXTINF:-1  group-title="003 YEREL",SUPERTURK MAX HD
+https://live-cdn-65984.varplaycdn.cfd/superturkmax/index.m3u8
+#EXTINF:-1 tvg-name="Deniz Postası Tv 720p" group-title="003 YEREL",Deniz Postası Tv 720p
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8?checkedby:iptvcat.com
 
@@ -193,28 +207,11 @@ https://yayin1.canlitv.fun/canlitv/torbatv.stream/chunklist_w301442953.m3u8?hash
 
 #EXTINF:-1 tvg-id="ext"  group-title="011 TURK",TÜRKMENELİ TV
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
-#EXTINF:-1 group-title="004 SINEMA",CINE 5
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
-https://live-cdn-65984.varplaycdn.cfd/cine6max/index.m3u8
-#EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Cine 6
-https://live-cdn-65984.varplaycdn.cfd/cine6/index.m3u8
-#EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Rize Türk
-https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="sdm" group-title="003 YEREL",SDM Sinema
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="003 YEREL",SUPERTURK HD
-https://live-cdn-65984.varplaycdn.cfd/superturk/index.m3u8
-#EXTINF:-1  group-title="003 YEREL",SUPERTURK MAX HD
-https://live-cdn-65984.varplaycdn.cfd/superturkmax/index.m3u8
-#EXTINF:-1 tvg-name="Deniz Postası Tv 720p" group-title="003 YEREL",Deniz Postası Tv 720p
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-id="FILMSCREEN.tr"  group-title="004 DSMART SINEMA",Film Screen  
 http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865304
-
-
 
 #EXTINF:-1 tvg-id="Sinema.TV.Aile2.tr"  group-title="004 Tivibu SINEMA",Sinema Aile 
 http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865297
@@ -390,8 +387,7 @@ http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",İlke TV    
 http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/594206
 
-#EXTINF:-1 tvg-id="ext"  group-title="006 HABER",EGEMAX TV
-http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/594200
+
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",TRABZON HABER 61
 http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/594814
 
