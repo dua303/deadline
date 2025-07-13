@@ -122,7 +122,7 @@ http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/31363
 http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865033
 
 #EXTINF:-1 tvg-id="ATV AVRUPA.tr" group-title="002 ULUSAL",ATV AVRUPA 
-http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865034
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/1875
 
 #EXTINF:-1 tvg-id="EUROSTAR.tr" group-title="002 ULUSAL",EURO STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
@@ -256,13 +256,13 @@ https://tv.arectv34.sbs/live/box2.m3u8
 #EXTINF:-1 tvg-id="ext"   group-title="004 BeIN SINEMA",Bein Box Office 3 
 https://tv.arectv34.sbs/live/box3.m3u8
 #EXTINF:-1 tvg-id="beIN SERIES 1.tr"   group-title="004 BeIN SINEMA",Bein Series 1 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/5869
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/591387
 #EXTINF:-1 tvg-id="beIN SERIES 2.tr"  tvg-logo="" group-title="004 BeIN SINEMA",Bein Series 2 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/26591
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/591385
 #EXTINF:-1 tvg-id="beIN SERIES 3.tr" "  group-title="004 BeIN SINEMA",Bein Series 3 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/5870
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/591382
 #EXTINF:-1 tvg-id="beIN SERIES 4.tr"   group-title="004 BeIN SINEMA",Bein Series 4 
-http://yasare.mine.nu:80/suleymansayin2/j3fB8TZs/5868
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/591380
 
 #EXTINF:-1 tvg-id="beIN IZ.tr"group-title="005 BELGESEL",Bein H&E
 http://turkboxtitan.com:8080/23Memik726/FdL25072023/585204
@@ -388,8 +388,12 @@ http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 
 
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",İlke TV    
-http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/866491
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/594206
 
+#EXTINF:-1 tvg-id="ext"  group-title="006 HABER",EGEMAX TV
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/594200
+#EXTINF:-1 tvg-id="ext"  group-title="006 HABER",TRABZON HABER 61
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/594814
 
 #EXTINF:-1 tvg-id="Da Vinci Learning.tr"  group-title="005 BELGESEL",Da Vinci   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/253
