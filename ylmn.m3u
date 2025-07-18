@@ -124,9 +124,9 @@ http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/594199
 #EXTINF:-1 group-title="004 SINEMA",CINE 5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
-https://radyotelekomtv.com/player/m3u8/f32f2929378506f7952c6c3806669118/f32f2929378506f7952c6c3806669118.m3u8
+https://live-cdn-65984.varplaycdn.cfd/cine6max/index.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Cine 6
-https://radyotelekomtv.com/player/m3u8/5ca5d92515b99f2e20ee0a40c0a3031d/5ca5d92515b99f2e20ee0a40c0a3031d.m3u8
+https://live-cdn-65984.varplaycdn.cfd/cine6/index.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Rize Türk
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="sdm" group-title="003 YEREL",SDM Sinema
@@ -183,7 +183,7 @@ https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="011 TURK",KK TV
 http://old.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="011 TURK",Torba TV  
-https://yayin1.canlitv.fun/canlitv/torbatv.stream/chunklist_w301442953.m3u8?hash=f8d25a4cc4b15507d0534a7e5e40b34f
+https://yayin1.canlitv.fun/canlitv/torbatv.stream/chunklist_w827570822.m3u8?hash=0e8339c060bd3ff42b76432749e4d852
 
 
 #EXTINF:-1 tvg-id="ext"  group-title="011 TURK",TÜRKMENELİ TV
@@ -294,7 +294,7 @@ https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="006 HABER",TURK HABER  
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalB.tr" group-title="006 HABER",Kanal B  
-http://germanyqdnsx12.com:8080/terziisil/fdhpzshmn/89129
+http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/594204
 
 #EXTINF:-1 tvg-id="TRTHaber.tr"  group-title="006 HABER",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8  
