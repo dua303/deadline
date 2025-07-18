@@ -1,17 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EPIC.DRAMA.tr" group-title="001 DIZI",Epic Drama
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50426
-
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/591437
 #EXTINF:-1 tvg-id="FX.tr" group-title="001 DIZI",Fx 
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/12
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/591435
 
 #EXTINF:-1 tvg-id="BBC FIRST.tr" group-title="001 DIZI",BBC FIRST   
 http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/165462
+
 #EXTINF:-1 tvg-id="DIZI PREMIUM.tr" group-title="001 DIZI",DIZI PREMIUM
 http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/591439
-
 #EXTINF:-1 tvg-id="DIZI SMART MAX.tr" group-title="001 DIZI",DIZI SMART MAX
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/60119
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/591441
 
 #EXTINF:-1 tvg-id="Bi Kanal" group-title="T001 DIZI",BİKANAL HD
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
@@ -26,7 +25,7 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-id="TRT NOSTALJİ.tr"  group-title="001 DIZI",TRT NOSTALJİ
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="CNBC-e.tr" group-title="001 DIZI",CNBC-e  
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/254694
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/594245
 
 #EXTINF:-1 tvg-id="MELTEM TV.tr" group-title="002 ULUSAL",MELTEM TV 
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8 
@@ -42,16 +41,13 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beIN MOVIES TURK.tr" group-title="004 BeIN SINEMA",Bein Movies Turk  
-http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/591389
-
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/591389
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr"  group-title="004 DSMART SINEMA",Moviesmart Turk  
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/64828
-
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/591431
 #EXTINF:-1 tvg-id="MovieSmart Classic.trr"  group-title="004 DSMART SINEMA",Moviesmart Classic  
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/216
-
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/591433
 #EXTINF:-1 tvg-id="ext" group-title="004 Tivibu SINEMA",Sinema Yerli  
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/165
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/591407
 
 #EXTINF:-1 tvg-id="TRT 4K"  group-title="002 ULUSAL",TRT 4K     
 http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/1841
