@@ -64,35 +64,26 @@ http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/1878
 http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/594680
 
 #EXTINF:-1 tvg-id="DMAX.tr" group-title="002 ULUSAL",DMAX
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/274
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" group-title="002 ULUSAL",TLC
 http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/594665
-
 #EXTINF:-1 tvg-id="TV8.tr" group-title="002 ULUSAL",TV8
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/30
-
-
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/1857
 #EXTINF:-1 tvg-id="Atv.tr" group-title="002 ULUSAL",ATV 
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/45
-
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/1849
 #EXTINF:-1 tvg-id="Show.tr" group-title="002 ULUSAL",SHOW TV 
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="KANAL D.tr" group-title="002 ULUSAL",KANAL D
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/39
-
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/1851
 #EXTINF:-1 tvg-id="Star.tr" group-title="002 ULUSAL",STAR TV 
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/36
-
-
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/1853
 #EXTINF:-1 tvg-id="NOW" group-title="002 ULUSAL",NOW TV
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/34
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/1855
 
 #EXTINF:-1 tvg-id="Beyaz.TV.tr" group-title="002 ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.tr" group-title="002 ULUSAL",KANAL 7 
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/50845
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/1863
 
 #EXTINF:-1 tvg-id="ext" group-title="003 YEREL",TYT TÜRK
 https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
@@ -104,15 +95,11 @@ http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/1859
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 
 #EXTINF:-1 tvg-id="a2.tr" group-title="002 ULUSAL",A2
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/9
-
-
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/1868
 #EXTINF:-1 tvg-id="SHOW MAX.tr"  group-title="002 ULUSAL",SHOW MAX
-http://105894.fly24.be:80/alicanbekmez/CXPDt33L2F/31363
-
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/1873
 #EXTINF:-1 tvg-id="SHOW MAX.tr"  group-title="002 ULUSAL",SHOW TURK 
 http://noxcon.cfd:80/yashardavidov/NqPdhag8fy/865033
-
 #EXTINF:-1 tvg-id="ATV AVRUPA.tr" group-title="002 ULUSAL",ATV AVRUPA 
 http://vip.qruzetv.site:8080/Mustafa.takka/23.5.24zp/1875
 
@@ -132,7 +119,8 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_0.m3u8
 
 #EXTINF:-1 tvg-id="TGRT.Haber.tr"  group-title="002 ULUSAL",TGRT EU
-https://live-cdn-65984.varplaycdn.cfd/tgrteu/index.m3u8
+http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/594199
+
 #EXTINF:-1 group-title="004 SINEMA",CINE 5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
