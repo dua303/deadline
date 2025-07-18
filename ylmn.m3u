@@ -124,9 +124,9 @@ http://parispars.xyz:8080/gungoro35/uT8uzEEW4U/594199
 #EXTINF:-1 group-title="004 SINEMA",CINE 5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 group-title="004 SINEMA",Cine6 Max 
-https://live-cdn-65984.varplaycdn.cfd/cine6max/index.m3u8
+https://radyotelekomtv.com/player/m3u8/f32f2929378506f7952c6c3806669118/f32f2929378506f7952c6c3806669118.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Cine 6
-https://live-cdn-65984.varplaycdn.cfd/cine6/index.m3u8
+https://radyotelekomtv.com/player/m3u8/5ca5d92515b99f2e20ee0a40c0a3031d/5ca5d92515b99f2e20ee0a40c0a3031d.m3u8
 #EXTINF:-1 tvg-id="ext"  group-title="003 YEREL",Rize Türk
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="sdm" group-title="003 YEREL",SDM Sinema
